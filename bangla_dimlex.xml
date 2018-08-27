@@ -1,0 +1,2075 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dimlex>
+  <entry id="c1" word="আগে">
+    <orths>
+      <orth type="discont" canonical="1" onr="2o1">
+        <part type="single">আগে</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>
+      <example>আমি তোমাকে আগে কখনো দেখি নি</example>
+    </non_conn_reading>
+    <syn>
+      <cat>Postposition/adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Temporal:Asynchronous:Precedence"/>
+        <example>আমি জার্মানি যাওয়ার আগে নিউ ইয়র্ক ঘুরতে যাওয়ার পরিকল্পনা করছি</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c2" word="আগে">
+    <orths>
+      <orth type="discont" canonical="1" onr="3o1">
+        <part type="single">আগে</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Temporal:Asynchronous:Precedence"/>
+        <example>আমি সাতটার সময় বাড়িতে ফিরলাম</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c3" word="অতএব">
+    <orths>
+      <orth type="discont" canonical="1" onr="4o1">
+        <part type="single">অতএব</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Contingency:Cause:Result"/>
+        <example>পরীক্ষা এসে গেছে; অতএব তোমার পড়াশুনা করা উচিত</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c4" word="কিন্তু">
+    <orths>
+      <orth type="discont" canonical="1" onr="5o1">
+        <part type="single">কিন্তু</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>
+      <example>তুমি কিন্তু রান্নাটা ভালই করো</example>
+    </non_conn_reading>
+    <syn>
+      <cat>Conjunction</cat>
+      <sem>
+        <pdtb3_relation sense="Comparison:Contrast"/>
+        <example>গত বাজেটে পেট্রলের দাম বেড়েছে, কিন্তু কিছু গাড়ির দাম কমেছে</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c5" word="অথবা">
+    <orths>
+      <orth type="discont" canonical="1" onr="6o1">
+        <part type="single">অথবা</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>
+      <example>প্রশ্নপত্রে প্রতিটি প্রশ্নই অনিবার্য; কোন অথবা থাকবে না</example>
+    </non_conn_reading>
+    <syn>
+      <cat>Conjunction</cat>
+      <sem>
+        <pdtb3_relation sense="Expansion:Disjunction"/>
+        <example>কিছু শিক্ষিত ব্যক্তি বেকার অথবা মৌলিক চাহিদাগুলো মেটানোর মতো যথেষ্ট আয় করে না</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c6" word="এবং">
+    <orths>
+      <orth type="discont" canonical="1" onr="7o1">
+        <part type="single">এবং</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>
+      <example>তুমি এবং আমি মেলায় যাব</example>
+    </non_conn_reading>
+    <syn>
+      <cat>Conjunction</cat>
+      <sem>
+        <pdtb3_relation sense="Expansion:Conjunction"/>
+        <example>যদি আমার সময় থাকে এবং সুযোগ হয়, তাহলে তোমার সাথে দেখা করব</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c7" word="সত্ত্বেও">
+    <orths>
+      <orth type="discont" canonical="1" onr="8o1">
+        <part type="single">সত্ত্বেও</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Postposition</cat>
+      <sem>
+        <pdtb3_relation sense="Comparison:Concession:Contra-expectation"/>
+        <example>ছেলেটি অসুস্থ থাকা সত্ত্বেও স্কুলে এসেছিল</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c8" word="সত্ত্বেও">
+    <orths>
+      <orth type="discont" canonical="1" onr="9o1">
+        <part type="single">সত্ত্বেও</part>
+      </orth>
+      <orth type="discont" canonical="0" onr="9o2">
+        <part type="discont">তৎসত্ত্বেও, তৎ সত্ত্বেও</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Comparison:Concession:Contra-expectation"/>
+        <example>ছেলেটি অসুস্থ</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c9" word="জন্য">
+    <orths>
+      <orth type="discont" canonical="1" onr="10o1">
+        <part type="single">জন্য</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>
+      <example>এই উপহারটি তোমার জন্য</example>
+    </non_conn_reading>
+    <syn>
+      <cat>Postposition</cat>
+      <sem>
+        <pdtb3_relation sense="Contingency:Purpose"/>
+        <example>পরীক্ষায় ভালো ফল করার জন্য সে মন দিয়ে পড়ছে</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c10" word="জন্য">
+    <orths>
+      <orth type="discont" canonical="1" onr="11o1">
+        <part type="single">জন্য</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Contingency:Cause:Result"/>
+        <example>তুমি আজ প্রথমবার এখানে এলে; সেইজন্য একটু মিষ্টি এনেছি</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c11" word="কারণে">
+    <orths>
+      <orth type="discont" canonical="1" onr="12o1">
+        <part type="single">কারণে</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Postposition</cat>
+      <sem>
+        <pdtb3_relation sense="Contingency:Cause:Result"/>
+        <example>আজ বৃষ্টি হওয়ার কারণে কলকাতার তাপমাত্রা কিছুটা কমল</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c12" word="কারণে">
+    <orths>
+      <orth type="discont" canonical="1" onr="13o1">
+        <part type="single">কারণে</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Contingency:Cause:Reason"/>
+        <example>এখানে গঙ্গা একটি সরু নদীধারার মতো, সেই কারণে আমি সহজেই সেইটি পেরিয়ে যেতে পারলাম</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c13" word="পরে">
+    <orths>
+      <orth type="discont" canonical="1" onr="14o1">
+        <part type="single">পরে</part>
+      </orth>
+      <orth type="discont" canonical="0" onr="14o2">
+        <part type="discont">পর</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>
+      <example>আমার পরে তোমার ডাক আসবে</example>
+    </non_conn_reading>
+    <syn>
+      <cat>Postposition</cat>
+      <sem>
+        <pdtb3_relation sense="Temporal:Asynchronous:Succession"/>
+        <example>ফিরে আসার পরে আমায় জানিও</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c14" word="পরে">
+    <orths>
+      <orth type="discont" canonical="1" onr="15o1">
+        <part type="single">পরে</part>
+      </orth>
+      <orth type="discont" canonical="0" onr="15o2">
+        <part type="discont">পর</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Temporal:Asynchronous:Succession"/>
+        <example>আমি আগে কাজ শেষ করবো</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c15" word="ছাড়া">
+    <orths>
+      <orth type="discont" canonical="1" onr="16o1">
+        <part type="single">ছাড়া</part>
+      </orth>
+      <orth type="discont" canonical="0" onr="16o2">
+        <part type="discont">ছাড়াও</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>
+      <example>শনিবার ছাড়া আমি রোজ গান শিখতে যেতাম</example>
+    </non_conn_reading>
+    <syn>
+      <cat>Postposition</cat>
+      <sem>
+        <pdtb3_relation sense="Expansion:Conjunction"/>
+        <example>চাকরি পাওয়ার ক্ষেত্রে, অভিজ্ঞতা সঞ্চয় করা ছাড়া পারদর্শি হওয়াও প্রয়োজনীয়</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c16" word="ছাড়া">
+    <orths>
+      <orth type="discont" canonical="1" onr="17o1">
+        <part type="single">ছাড়া</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Expansion:Conjunction"/>
+        <example>এই চাকরি করার জন্য তার যোগ্যতা নেই</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c17" word="তবু">
+    <orths>
+      <orth type="discont" canonical="1" onr="18o1">
+        <part type="single">তবু</part>
+      </orth>
+      <orth type="discont" canonical="0" onr="18o2">
+        <part type="discont">তবুও</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Comparison:Concession:Contra-expectation"/>
+        <example>ছেলেটি খুব বড়লোক; তবু সে সুখি নয়</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c18" word="না">
+    <orths>
+      <orth type="discont" canonical="1" onr="19o1">
+        <part type="single">না</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>
+      <example>তুমি না আজ যেও না</example>
+    </non_conn_reading>
+    <syn>
+      <cat>Conjunction</cat>
+      <sem>
+        <pdtb3_relation sense="Expansion:Disjunction"/>
+        <example>আমি থাকবো না চলে যাবো? Should I stay or should I go?</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c19" word="বাদে">
+    <orths>
+      <orth type="discont" canonical="1" onr="20o1">
+        <part type="single">বাদে</part>
+      </orth>
+      <orth type="discont" canonical="0" onr="20o2">
+        <part type="discont">বাদেও</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>
+      <example>রবিবার বাদে আমাদের দোকান রোজ খোলা থাকে</example>
+    </non_conn_reading>
+    <syn>
+      <cat>Postposition</cat>
+      <sem>
+        <pdtb3_relation sense="Expansion:Conjunction"/>
+        <example>এই কাজটা করা বাদে আর কোনো উপায় নেই There is no other way than doing this task.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c20" word="বাদে">
+    <orths>
+      <orth type="discont" canonical="1" onr="21o1">
+        <part type="single">বাদে</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Expansion:Exception"/>
+        <example>শচীন আজ শতরান করেন; এ বাদে আর কেউই সফল হননি</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c21" word="মোটের উপর">
+    <orths>
+      <orth type="discont" canonical="1" onr="22o1">
+        <part type="phrasal">মোটের উপর</part>
+      </orth>
+      <orth type="discont" canonical="0" onr="22o2">
+        <part type="discont"></part>
+      </orth>
+      <orth type="discont" canonical="0" onr="22o3">
+        <part type="discont">মোটের ওপর</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Expansion:Specification:Summarization"/>
+        <example>সে অঙ্কে একশো, ইংরেজিতে আশি এবং বিজ্ঞানে নব্বই পেয়েছে</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c22" word="অর্থাৎ">
+    <orths>
+      <orth type="discont" canonical="1" onr="23o1">
+        <part type="single">অর্থাৎ</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Contingency:Cause-Belief:Result"/>
+        <example>খুনের সময় রাম শহরে ছিল না</example>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="Expansion:Equivalence"/>
+        <example>রাম সেই সময় দেশে ছিলনা</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c23" word="উদাহরণস্বরূপ">
+    <orths>
+      <orth type="discont" canonical="1" onr="24o1">
+        <part type="single">উদাহরণস্বরূপ</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Expansion:Instantiation"/>
+        <example>ভিটামিন সি রঙিন সবজির মধ্যে পাওয়া যায়</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c24" word="পরিবর্তে">
+    <orths>
+      <orth type="discont" canonical="1" onr="25o1">
+        <part type="single">পরিবর্তে</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>
+      <example>কোহলির পরিবর্তে আজ রোহিত অধিনায়াকত্ব করবেন</example>
+    </non_conn_reading>
+    <syn>
+      <cat>Postposition/adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Expansion:Substitution"/>
+        <example>সলমন খান আজ পুলিশের সামনে হাজিরা দিতে আসেননি</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c25" word="বরং">
+    <orths>
+      <orth type="discont" canonical="1" onr="26o1">
+        <part type="single">বরং</part>
+      </orth>
+      <orth type="discont" canonical="0" onr="26o2">
+        <part type="discont"></part>
+      </orth>
+      <orth type="discont" canonical="0" onr="26o3">
+        <part type="discont">বরঞ্চ</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Comparison:Contrast"/>
+        <example>আজ সেখানে যেও না</example>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="Expansion:Substitution"/>
+        <example>ও আমাকে ভুল কিছু বলেনি</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c26" word="যদিও">
+    <orths>
+      <orth type="discont" canonical="1" onr="27o1">
+        <part type="single">যদিও</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Conjunction/adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Comparison:Concession:Contra-expectation"/>
+        <example>যদিও সে পড়াশুনা করেনি, তার পরিক্ষায় ভাল ফল হয়েছে</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c27" word="যদি না">
+    <orths>
+      <orth type="discont" canonical="1" onr="28o1">
+        <part type="phrasal">যদি না</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Conjunction</cat>
+      <sem>
+        <pdtb3_relation sense="Contingency:Negative-Condition"/>
+        <example>আমি দুঃখ পাব যদি না সে এই সময় আমার পাশে থাকে I'll feel bad if he doesn’t stay by my side at this time.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c28" word="ফলত">
+    <orths>
+      <orth type="discont" canonical="1" onr="29o1">
+        <part type="single">ফলত</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Contingency:Cause:Result"/>
+        <example>তুমি ঠিকঠাক কাজ করনি; ফলত তোমায় ভুগতে হবে</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c29" word="না হলে">
+    <orths>
+      <orth type="discont" canonical="1" onr="30o1">
+        <part type="phrasal">না হলে</part>
+      </orth>
+      <orth type="discont" canonical="0" onr="30o2">
+        <part type="discont">নইলে</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Contingency:Negative-Condition"/>
+        <example>আমার সাথে চল</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c30" word="যেহেতু-সেহেতু">
+    <orths>
+      <orth type="cont" canonical="1" onr="31o1">
+        <part type="single">যেহেতু-সেহেতু</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Conjunction</cat>
+      <sem>
+        <pdtb3_relation sense="Contingency:Cause:Result"/>
+        <example>যেহেতু ঠাকুরদার বয়স হয়ে গেছে, সেহেতু তিনি এখন আগের মত সচল নন</example>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="Contingency:Cause-Belief:Result"/>
+        <example>যেহেতু তুমি আমার থেকে বয়সে বড়, সেহেতু তুমি সমস্ত সুযোগ সুবিধে পাবে</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c31" word="মুহূর্তে">
+    <orths>
+      <orth type="discont" canonical="1" onr="32o1">
+        <part type="single">মুহূর্তে</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Temporal:Synchronous"/>
+        <example>খুনটা কাল রাত দশটা নাগাদ হয়</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c32" word="এখনও">
+    <orths>
+      <orth type="discont" canonical="1" onr="33o1">
+        <part type="single">এখনও</part>
+      </orth>
+      <orth type="discont" canonical="0" onr="33o2">
+        <part type="discont">এখনো</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Comparison:Concession:Contra-expectation"/>
+        <example>রাম ও রিনির বহুদিন আগে ছাড়াছাড়ি হয়ে গেছে</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c33" word="তক্ষুণি">
+    <orths>
+      <orth type="discont" canonical="1" onr="34o1">
+        <part type="single">তক্ষুণি</part>
+      </orth>
+      <orth type="discont" canonical="0" onr="34o2">
+        <part type="discont">তখনই</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Temporal:Synchronous"/>
+        <example>বন্ধুর অসুস্থতার খবর পেয়ে তক্ষুনি ওর বাড়িতে ছুটলাম</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c34" word="ইতিমধ্যে">
+    <orths>
+      <orth type="discont" canonical="1" onr="35o1">
+        <part type="single">ইতিমধ্যে</part>
+      </orth>
+      <orth type="discont" canonical="0" onr="35o2">
+        <part type="discont"></part>
+      </orth>
+      <orth type="discont" canonical="0" onr="35o3">
+        <part type="discont">ইতোমধ্যে</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Temporal:Synchronous"/>
+        <example>আমি রান্নাটা চাপিয়েছি</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c35" word="পাছে">
+    <orths>
+      <orth type="discont" canonical="1" onr="36o1">
+        <part type="single">পাছে</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Conjunction</cat>
+      <sem>
+        <pdtb3_relation sense="Contingency:Purpose"/>
+        <example>তিনি দেশ ছেড়ে পালিয়েছেন পাছে তাকে কারাগারে বন্দী করা হয়</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c36" word="পিছনে">
+    <orths>
+      <orth type="discont" canonical="1" onr="37o1">
+        <part type="single">পিছনে</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Postposition</cat>
+      <sem>
+        <pdtb3_relation sense="Contingency:Purpose"/>
+        <example>এই জঘন্য কাজ করার পিছনে তার কোনো গোপন উদ্দেশ্য ছিল</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c37" word="বলে">
+    <orths>
+      <orth type="discont" canonical="1" onr="38o1">
+        <part type="single">বলে</part>
+      </orth>
+      <orth type="discont" canonical="0" onr="38o2">
+        <part type="discont"></part>
+      </orth>
+      <orth type="discont" canonical="0" onr="38o3">
+        <part type="discont">বলিয়া</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>
+      <example>আজকের রায়ে এই সব অভিযোগই মিথ্যা বলে প্রমাণিত হয়েছে</example>
+    </non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Contingency:Purpose"/>
+        <example>আমি তার সাথে দেখা করবো বলে তার অফিসে গিয়েছিলাম</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c38" word="তবে">
+    <orths>
+      <orth type="discont" canonical="1" onr="39o1">
+        <part type="single">তবে</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Comparison:Concession:Contra-expectation"/>
+        <example>আমার কম্পুটারটি বেশ পুরানো</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c39" word="সুতরাং">
+    <orths>
+      <orth type="discont" canonical="1" onr="40o1">
+        <part type="single">সুতরাং</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Contigency:Cause:Result"/>
+        <example>তুমি ব্যবসায় কোনো টাকা ঢালনি</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c40" word="সঙ্গে সঙ্গে">
+    <orths>
+      <orth type="discont" canonical="1" onr="41o1">
+        <part type="phrasal">সঙ্গে সঙ্গে</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Postposition/adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Temporal:Synchronous"/>
+        <example>আমরা স্টেশনে পৌঁছালাম</example>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="Expansion:Conjunction"/>
+        <example>পড়াশোনা করার সঙ্গে সঙ্গে সে চাকরিও করেছে</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c41" word="সাথে (সাথে)">
+    <orths>
+      <orth type="discont" canonical="1" onr="42o1">
+        <part type="single">সাথে (সাথে)</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>
+      <example>রামের সাথে শ্যাম বাজারে যাবে</example>
+    </non_conn_reading>
+    <syn>
+      <cat>Postposition/adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Expansion:Conjunction"/>
+        <example>আমি পড়াশোনা করেছি; সাথে গানও শিখেছি</example>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="Temporal:Synchronous"/>
+        <example>ঝড় ওঠার সাথে সাথে ঘরটা অন্ধকার হয়ে গেল</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c42" word="বা">
+    <orths>
+      <orth type="discont" canonical="1" onr="43o1">
+        <part type="single">বা</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>
+      <example>গৌতম বা রাহুল যাবে</example>
+    </non_conn_reading>
+    <syn>
+      <cat>Conjunction</cat>
+      <sem>
+        <pdtb3_relation sense="Expansion:Disjunction"/>
+        <example>রাম যাবে বা শ্যাম যাবে Either Ram will go or Shyam will go.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c43" word="হয়-নয়">
+    <orths>
+      <orth type="cont" canonical="1" onr="44o1">
+        <part type="single">হয়-নয়</part>
+      </orth>
+      <orth type="cont" canonical="0" onr="44o2">
+        <part type="cont">হয়-না হয়</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Conjunction</cat>
+      <sem>
+        <pdtb3_relation sense="Expansion:Disjunction"/>
+        <example>হয় তুমি এখানে একা থাকো, নয় আমাদের সাথে চলো Either you stay here alone, or you come with us.</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c44" word="বিশেষত">
+    <orths>
+      <orth type="discont" canonical="1" onr="45o1">
+        <part type="single">বিশেষত</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>
+      <example>আজ সবার জন্যই ভাল মিষ্টি আনতে হবে, বিশেষত আমার ভাইয়ের জন্য</example>
+    </non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Expansion:Specification"/>
+        <example>গতকাল উত্তরবঙ্গে বৃষ্টি হয়েছে</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c45" word="না হয়">
+    <orths>
+      <orth type="discont" canonical="1" onr="46o1">
+        <part type="phrasal">না হয়</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>
+      <example>তোমার অসুখের ব্যাপারটা না হয় সবাই জানল</example>
+    </non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Comparison:Concession:Contra-expectation"/>
+        <example>পাত্র হিসেবে সে ভালো; না হয় বয়সটা বেশি</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c46" word="মধ্যে">
+    <orths>
+      <orth type="discont" canonical="1" onr="47o1">
+        <part type="single">মধ্যে</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>
+      <example>আমাদের মধ্যে একজনও আজ স্কুলে যাবে না</example>
+    </non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Temporal:Synchronous"/>
+        <example>আমি দুই দিন বাড়ি ছিলাম না</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c47" word="ফলে">
+    <orths>
+      <orth type="discont" canonical="1" onr="48o1">
+        <part type="single">ফলে</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Contigency:Cause:Result"/>
+        <example>কাল রাতে প্রবল বৃষ্টিপাত হযেছিল</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c48" word="ফলে">
+    <orths>
+      <orth type="discont" canonical="1" onr="49o1">
+        <part type="single">ফলে</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Postposition/adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Contigency:Cause:Result"/>
+        <example>বাজারে পেট্রোলিয়ামজাত দ্রব্যের দাম বেড়ে যাওয়ার ফলে রান্নার গাসেরও দাম বেড়েছে</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c49" word="অথচ">
+    <orths>
+      <orth type="discont" canonical="1" onr="50o1">
+        <part type="single">অথচ</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Comparison:Concession:Contra-expectation"/>
+        <example>বার্সেলোনা ১০ জনে খেলল</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c50" word="অধিকন্তু">
+    <orths>
+      <orth type="discont" canonical="1" onr="51o1">
+        <part type="single">অধিকন্তু</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Expansion:Conjunction"/>
+        <example>অনিমেষ ভালো চাকরি করে</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c51" word="অন্য কথায়">
+    <orths>
+      <orth type="discont" canonical="1" onr="52o1">
+        <part type="phrasal">অন্য কথায়</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Expansion:Equivalence"/>
+        <example>আমি কাল রাত আটটায় শুয়ে পরি আর উঠি আজ সকাল আটটায়</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c52" word="অন্যথায়">
+    <orths>
+      <orth type="discont" canonical="1" onr="53o1">
+        <part type="single">অন্যথায়</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Contingency:Negative-Condition"/>
+        <example>তুমি আমাকে টাকা দাও</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c53" word="অমনি">
+    <orths>
+      <orth type="discont" canonical="1" onr="54o1">
+        <part type="single">অমনি</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Temporal:Asynchronous:Succession"/>
+        <example>লোকটা নদীতে ঝাপ দিল</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c54" word="অল্প কথায়">
+    <orths>
+      <orth type="discont" canonical="1" onr="55o1">
+        <part type="phrasal">অল্প কথায়</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>
+      <example>গ্রামের লোক তাদের সমস্যা অল্প কথায় মন্ত্রীকে জানাল</example>
+    </non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Expansion:Specification:Summarization"/>
+        <example>টেনিস, ব্যাডমিন্টন বা উইন্ডসার্ফিং খেলার চেষ্টা করো</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c55" word="আর">
+    <orths>
+      <orth type="discont" canonical="1" onr="56o1">
+        <part type="single">আর</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>
+      <example>রাম আর আসবে না</example>
+    </non_conn_reading>
+    <syn>
+      <cat>Conjunction</cat>
+      <sem>
+        <pdtb3_relation sense="Expansion:Conjunction"/>
+        <example>রাম ঘুমিয়ে পড়ল আর নাক ডাকতে শুরু করল</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c56" word="উপরন্তু">
+    <orths>
+      <orth type="discont" canonical="1" onr="57o1">
+        <part type="single">উপরন্তু</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Expansion:Conjunction"/>
+        <example>যদু কাজট শেষ করল না</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c57" word="এমনকি যখন">
+    <orths>
+      <orth type="discont" canonical="1" onr="58o1">
+        <part type="phrasal">এমনকি যখন</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Conjunction</cat>
+      <sem>
+        <pdtb3_relation sense="Comparison:Concession:Contra-expectation"/>
+        <example>এমনকি যখন অফিস বন্ধ থাকে,  রঞ্জিত তখনো কোথাও ঘুরতে যায় না</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c58" word="এমনকি যদি">
+    <orths>
+      <orth type="discont" canonical="1" onr="59o1">
+        <part type="phrasal">এমনকি যদি</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Conjunction</cat>
+      <sem>
+        <pdtb3_relation sense="Comparison:Concession:Contra-expectation"/>
+        <example>এমনকি যদি আজ নেইমার নাও খেলে, (তবুও) ব্রাজিল জিতবে</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c59" word="কাজেই">
+    <orths>
+      <orth type="discont" canonical="1" onr="60o1">
+        <part type="single">কাজেই</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Contingency:Cause:Result"/>
+        <example>আমি তোমার কাছ থেকে কোনো টাকা নিই নি</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c60" word="কারণ">
+    <orths>
+      <orth type="discont" canonical="1" onr="61o1">
+        <part type="single">কারণ</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Conjunction</cat>
+      <sem>
+        <pdtb3_relation sense="Contingency:Cause:Reason"/>
+        <example>ভারতবর্ষের বিভিন্ন রাজ্যে এবছর খরা হয়েছে কারণ গত তিন মাসে কোথাও বিশেষ বৃষ্টি হয় নি</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c61" word="কিংবা">
+    <orths>
+      <orth type="discont" canonical="1" onr="62o1">
+        <part type="single">কিংবা</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>
+      <example>নেইমার কিংবা কুটিনহোকে আজ গোল করতে হবে</example>
+    </non_conn_reading>
+    <syn>
+      <cat>Conjunction</cat>
+      <sem>
+        <pdtb3_relation sense="Expansion:Disjunction"/>
+        <example>ব্রাজিলকে সার্বিয়ার বিরুদ্ধে জিততে হবে কিংবা সার্বিয়ার সাথে ম্যাচটা ড্র করতে হবে</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c62" word="কেননা">
+    <orths>
+      <orth type="discont" canonical="1" onr="63o1">
+        <part type="single">কেননা</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Conjunction</cat>
+      <sem>
+        <pdtb3_relation sense="Contingency:Cause-Belief:Reason"/>
+        <example>কলকাতার রাস্তায় টেলিফোন বুথ আর দেখা যায় না</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c63" word="জায়গায়">
+    <orths>
+      <orth type="discont" canonical="1" onr="64o1">
+        <part type="single">জায়গায়</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>
+      <example>বিরাট কোহলির জায়গায় আজ রোহিত শর্মা খেলবে</example>
+    </non_conn_reading>
+    <syn>
+      <cat>Postposition</cat>
+      <sem>
+        <pdtb3_relation sense="Comparison:Contrast"/>
+        <example>আমি শত্রু বানানোর জায়গায় বন্ধু বানানোর চেষ্টা করব</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c64" word="যখন-তখন">
+    <orths>
+      <orth type="cont" canonical="1" onr="65o1">
+        <part type="single">যখন-তখন</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Conjunction</cat>
+      <sem>
+        <pdtb3_relation sense="Temporal:Synchronous"/>
+        <example>যখন চুরি হয়, তখন ব্যাঙ্কে কেউ পাহারায় ছিল না</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c65" word="যখনই">
+    <orths>
+      <orth type="discont" canonical="1" onr="66o1">
+        <part type="single">যখনই</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Conjunction</cat>
+      <sem>
+        <pdtb3_relation sense="Temporal:Synchronous"/>
+        <example>যখনই আমি তাকে দেখি, (তখনই) আমার মনটা খুশীতে ভরে ওঠে</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c66" word="যাতে">
+    <orths>
+      <orth type="discont" canonical="1" onr="67o1">
+        <part type="single">যাতে</part>
+      </orth>
+      <orth type="discont" canonical="0" onr="67o2">
+        <part type="discont">যাহাতে</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Contingency:Purpose"/>
+        <example>দিলীপ দুপুরে ভালো করে ঘুমিয়ে নিল যাতে রাত জেগে ভালো করে খেলা দেখতে পারে</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c67" word="যে মুহূর্তে">
+    <orths>
+      <orth type="discont" canonical="1" onr="68o1">
+        <part type="phrasal">যে মুহূর্তে</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Conjunction</cat>
+      <sem>
+        <pdtb3_relation sense="Temporal:Synchronous"/>
+        <example>যে মুহূর্তে জাদুকর পাথরটাকে স্পর্শ করলেন, সেটি সোনায় রুপান্তরিত হয়ে গেল</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c68" word="যেইমাত্র">
+    <orths>
+      <orth type="discont" canonical="1" onr="69o1">
+        <part type="single">যেইমাত্র</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Conjunction</cat>
+      <sem>
+        <pdtb3_relation sense="Temporal:Synchronous"/>
+        <example>যেইমাত্র তিনি ঘরে ঢুকলেন, সব অন্ধকার হয়ে গেল</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c69" word="যতক্ষণ">
+    <orths>
+      <orth type="discont" canonical="1" onr="70o1">
+        <part type="single">যতক্ষণ</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Conjunction</cat>
+      <sem>
+        <pdtb3_relation sense="Contingency:Condition"/>
+        <example>যতক্ষণ তুমি আমার সঙ্গে আছো, (ততক্ষণ) আমার কোনো চিন্তা নেই</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c70" word="যতক্ষন না">
+    <orths>
+      <orth type="discont" canonical="1" onr="71o1">
+        <part type="phrasal">যতক্ষন না</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Conjunction</cat>
+      <sem>
+        <pdtb3_relation sense="Contingency:Negative-Condition"/>
+        <example>যতক্ষণ না উনি আমার সাথে দেখা করছেন, আমি এখানেই থাকব</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c71" word="যদি">
+    <orths>
+      <orth type="discont" canonical="1" onr="72o1">
+        <part type="single">যদি</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>
+      <example>আমি ভাবছিলাম যদি একবার সন্ধেবেলা ডাক্তারের কাছে যেতে পারি</example>
+    </non_conn_reading>
+    <syn>
+      <cat>Conjunction</cat>
+      <sem>
+        <pdtb3_relation sense="Contingency:Condition"/>
+        <example>যদি আজ বৃষ্টি হয়, (তবে) আমরা বাইরে খেলতে যাব না</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c72" word="তখন">
+    <orths>
+      <orth type="discont" canonical="1" onr="73o1">
+        <part type="single">তখন</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>1</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>
+      <example>বিকেল চারটে নাগাদ একবার বাড়িতে এসো</example>
+    </non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Temporal:Asynchronous:Succession"/>
+        <example>এভাবে খরচ করতে করতে তুমি একদিন সর্বসান্ত হবে</example>
+      </sem>
+      <sem>
+        <pdtb3_relation sense="Temporal:Synchronous"/>
+        <example>মেগাস্থিনিস খ্রিস্টপূর্ব চতুর্থ শতকে ভারতবর্ষে আসেন</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c73" word="তথাপি">
+    <orths>
+      <orth type="discont" canonical="1" onr="74o1">
+        <part type="single">তথাপি</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Comparison:Concession:Contra-expectation"/>
+        <example>তাকে অনেকবার ডাকলাম</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c74" word="তত্ক্ষণাৎ">
+    <orths>
+      <orth type="discont" canonical="1" onr="75o1">
+        <part type="single">তত্ক্ষণাৎ</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Temporal:Synchronous"/>
+        <example>সেই ভয়ংকর ঘটনাটা তার চোখের সামনে আবার ভেসে উঠল</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c75" word="দরুন">
+    <orths>
+      <orth type="discont" canonical="1" onr="76o1">
+        <part type="single">দরুন</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Postposition</cat>
+      <sem>
+        <pdtb3_relation sense="Contingency:Cause:Result"/>
+        <example>চাহিদামত সরবরাহ না থাকায় বাজারে সম্প্রতি ইলিশমাছের দাম বেড়ে গেছে</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c76" word="দৃষ্টান্তস্বরূপ">
+    <orths>
+      <orth type="discont" canonical="1" onr="77o1">
+        <part type="single">দৃষ্টান্তস্বরূপ</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Expansion:Instantiation"/>
+        <example>নিত্যপ্রয়োজনীয় জিনিষপত্রের দাম অস্বাভাবিক হারে বৃদ্ধি পেয়েছে</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c77" word="নচেৎ">
+    <orths>
+      <orth type="discont" canonical="1" onr="78o1">
+        <part type="single">নচেৎ</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Contingency:Negative-Condition"/>
+        <example>মুক্তিপণের টাকা দাও</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c78" word="নইলে">
+    <orths>
+      <orth type="discont" canonical="1" onr="79o1">
+        <part type="single">নইলে</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Contingency:Negative-Condition"/>
+        <example>তুমি ওকে পড়তে দাও</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c79" word="নয়ত">
+    <orths>
+      <orth type="discont" canonical="1" onr="80o1">
+        <part type="single">নয়ত</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Contingency:Negative-Condition"/>
+        <example>আমার কাছে টাকা নেই</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c80" word="নতুবা">
+    <orths>
+      <orth type="discont" canonical="1" onr="81o1">
+        <part type="single">নতুবা</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Contingency:Negative-Condition"/>
+        <example>তাকে ডাক্তার দেখাতে হবে</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c81" word="পক্ষান্তরে">
+    <orths>
+      <orth type="discont" canonical="1" onr="82o1">
+        <part type="single">পক্ষান্তরে</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Comparison:Contrast"/>
+        <example>কুরুক্ষেত্রের যুদ্ধে শ্রীকৃষ্ণ দুর্যোধনকে দশহাজার নারায়নী সেনা প্রদান করেন</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c82" word="প্রকৃতপক্ষে">
+    <orths>
+      <orth type="discont" canonical="1" onr="83o1">
+        <part type="single">প্রকৃতপক্ষে</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>
+      <example>রাম প্রকৃতপক্ষে ভাল ছেলে</example>
+    </non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Expansion:Specification"/>
+        <example>শেখ মুজিবুর রহমান ১৯৭১ সালে বাংলাদেশের স্বাধীনতার পক্ষে ভাষণ দিয়েছিলেন</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c83" word="পরিণামে">
+    <orths>
+      <orth type="discont" canonical="1" onr="84o1">
+        <part type="single">পরিণামে</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Contingency:Cause:Result"/>
+        <example>অন্যায়ের বিরুদ্ধে সে লড়াই করেছিল</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c84" word="উপরন্তু">
+    <orths>
+      <orth type="discont" canonical="1" onr="85o1">
+        <part type="single">উপরন্তু</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Expansion:Conjunction"/>
+        <example>রমেশবাবু একজন ধনী ব্যক্তি</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c85" word="পূর্বে">
+    <orths>
+      <orth type="discont" canonical="1" onr="86o1">
+        <part type="single">পূর্বে</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>
+      <example>মোগলদের পূর্বে ভারতবর্ষে লোদিবংশের রাজত্ব ছিল</example>
+    </non_conn_reading>
+    <syn>
+      <cat>Adverb/postposition</cat>
+      <sem>
+        <pdtb3_relation sense="Temporal:Asynchronous:Precedence"/>
+        <example>রাজা দর্পনারায়ান রায় এই গ্রাম পত্তন করেন</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c86" word="পূর্বে">
+    <orths>
+      <orth type="discont" canonical="1" onr="87o1">
+        <part type="single">পূর্বে</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Temporal:Asynchronous:Precedence"/>
+        <example>১৯৭৭ সালে পশ্চিমবঙ্গে যুক্তফ্রন্ট ক্ষমতায় আসে</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c87" word="বাদে">
+    <orths>
+      <orth type="discont" canonical="1" onr="88o1">
+        <part type="single">বাদে</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>
+      <example>মানেজার বাদে সবাই পিকনিকে গিয়েছিলেন</example>
+    </non_conn_reading>
+    <syn>
+      <cat>Postposition</cat>
+      <sem>
+        <pdtb3_relation sense="Expansion:Exception"/>
+        <example>মঞ্চে অভিনয় করা বাদে ইকবাল দু-একটি স্বল্প দৈর্ঘের ছবি পরিচালনা করেছেন</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c88" word="বাদে">
+    <orths>
+      <orth type="discont" canonical="1" onr="89o1">
+        <part type="single">বাদে</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Expansion:Exception"/>
+        <example>বরুন ঘোষ সরকারি চাকুরে</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c89" word="ফলস্বরূপ">
+    <orths>
+      <orth type="discont" canonical="1" onr="90o1">
+        <part type="single">ফলস্বরূপ</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Contingency:Cause:Result"/>
+        <example>এ বছরে উচ্চমাধ্যমিকের প্রশ্ন সোজা হয়েছে</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c90" word="বাস্তবিকপক্ষে">
+    <orths>
+      <orth type="discont" canonical="1" onr="91o1">
+        <part type="single">বাস্তবিকপক্ষে</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Expansion:Specification"/>
+        <example>বিরাট কোহলি একজন অসাধারণ ক্রিকেটার</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c91" word="বিকল্প হিসাবে">
+    <orths>
+      <orth type="discont" canonical="1" onr="92o1">
+        <part type="single">বিকল্প হিসাবে</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>
+      <example>মহেন্দ্র সিংহ ধোনির বিকল্প হিসাবে দিনেশ কার্তিক আজ খেলবেন</example>
+    </non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Expansion:Specification"/>
+        <example>যাত্রী পরিবহনের সমস্যা মেটাতে রাস্তা চওড়া করা যেতে পরে</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c92" word="বিনা">
+    <orths>
+      <orth type="discont" canonical="1" onr="93o1">
+        <part type="single">বিনা</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>
+      <example>তুমি বিনা আমি অসহায়</example>
+    </non_conn_reading>
+    <syn>
+      <cat>Postposition</cat>
+      <sem>
+        <pdtb3_relation sense="Expansion:Exception"/>
+        <example>ওখানে যাওয়া বিনা তোমার আর কোনো উপায় নেই</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c93" word="বিনিময়ে">
+    <orths>
+      <orth type="discont" canonical="1" onr="94o1">
+        <part type="single">বিনিময়ে</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>
+      <example>টাকার বিনিময়ে চাকরি আমি পেতে চাই না</example>
+    </non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Expansion:Substitution"/>
+        <example>ভগবান, তুমি আমার সমস্ত ঐশ্বর্য নিয়ে নাও</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c94" word="বিপরীতে">
+    <orths>
+      <orth type="discont" canonical="1" onr="95o1">
+        <part type="single">বিপরীতে</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>
+      <example>ফেডেরারের বিপরীতে আজ নাদাল কোর্টে নামবেন</example>
+    </non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Expansion:Conjunction"/>
+        <example>মেসি আজ আর্জেন্টিনার প্রধান ভরসা</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c95" word="বদলে">
+    <orths>
+      <orth type="discont" canonical="1" onr="96o1">
+        <part type="single">বদলে</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>
+      <example>এই জামাটার বদলে ওই জামাটা দিন</example>
+    </non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Expansion:Substitution"/>
+        <example>রাম আজ আসে নি</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c96" word="সঙ্গে">
+    <orths>
+      <orth type="discont" canonical="1" onr="97o1">
+        <part type="single">সঙ্গে</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Expansion:Conjunction"/>
+        <example>আমি আবৃত্তি করি</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c97" word="সাথে">
+    <orths>
+      <orth type="discont" canonical="1" onr="98o1">
+        <part type="single">সাথে</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Expansion:Conjunction"/>
+        <example>আমি আবৃত্তি করি</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c98" word="সময়">
+    <orths>
+      <orth type="discont" canonical="1" onr="99o1">
+        <part type="single">সময়</part>
+      </orth>
+      <orth type="discont" canonical="0" onr="99o2">
+        <part type="discont">সময়ে</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>0</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>0</non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Temporal:Synchronous"/>
+        <example>আমি বাড়ি থেকে বেরলাম</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c99" word="দিকে">
+    <orths>
+      <orth type="discont" canonical="1" onr="100o1">
+        <part type="single">দিকে</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>
+      <example>উল্টোদিকে বসে থাকা ভদ্রলোককে আমি চিনি না</example>
+    </non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Expansion:Conjunction"/>
+        <example>শ্রোতারা এসে গেছে</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c100" word="পক্ষে">
+    <orths>
+      <orth type="discont" canonical="1" onr="101o1">
+        <part type="single">পক্ষে</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>
+      <example>বিতর্কসভায় বিপরীতপক্ষে দুজন সমাজকর্মী আছেন</example>
+    </non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Expansion:Conjunction"/>
+        <example>একজন অচেনা মানুষকে অযাচিত ভাবে সাহায্য করার কোন কারণ নেই</example>
+      </sem>
+    </syn>
+  </entry>
+  <entry id="c101" word="উপর">
+    <orths>
+      <orth type="discont" canonical="1" onr="102o1">
+        <part type="single">উপর</part>
+      </orth>
+      <orth type="discont" canonical="0" onr="102o2">
+        <part type="discont">ওপর</part>
+      </orth>
+    </orths>
+    <ambiguity>
+      <non_conn>1</non_conn>
+      <sem_ambiguity>0</sem_ambiguity>
+    </ambiguity>
+    <non_conn_reading>
+      <example>আমার ওপর রাগ করে লাভ নেই</example>
+    </non_conn_reading>
+    <syn>
+      <cat>Adverb</cat>
+      <sem>
+        <pdtb3_relation sense="Expansion:Conjunction"/>
+        <example>সুবলের মা হাসপাতালে ভর্তি</example>
+      </sem>
+    </syn>
+  </entry>
+</dimlex>
