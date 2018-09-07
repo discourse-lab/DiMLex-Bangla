@@ -6,6 +6,7 @@
         <part type="single">আগে</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>1</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -32,6 +33,7 @@
         <part type="single">আগে</part>
       </orth>
     </orths>
+    <connective_type>modifiable</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -57,6 +59,7 @@
         <part type="single">অতএব</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -79,6 +82,7 @@
         <part type="single">কিন্তু</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>1</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -104,6 +108,7 @@
         <part type="single">অথবা</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>1</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -129,6 +134,7 @@
         <part type="single">এবং</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>1</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -154,6 +160,7 @@
         <part type="single">সত্ত্বেও</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -176,9 +183,13 @@
         <part type="single">সত্ত্বেও</part>
       </orth>
       <orth type="discont" canonical="0" onr="9o2">
-        <part type="discont">তৎসত্ত্বেও, তৎ সত্ত্বেও</part>
+        <part type="single">তৎসত্ত্বেও</part>
+      </orth>
+      <orth type="discont" canonical="0" onr="9o3">
+        <part type="phrasal">তৎ সত্ত্বেও</part>
       </orth>
     </orths>
+    <connective_type>modifiable</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -204,6 +215,7 @@
         <part type="single">জন্য</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>1</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -229,6 +241,7 @@
         <part type="single">জন্য</part>
       </orth>
     </orths>
+    <connective_type>modifiable</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -255,6 +268,7 @@
         <part type="single">কারণে</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -277,6 +291,7 @@
         <part type="single">কারণে</part>
       </orth>
     </orths>
+    <connective_type>modifiable</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -303,9 +318,10 @@
         <part type="single">পরে</part>
       </orth>
       <orth type="discont" canonical="0" onr="14o2">
-        <part type="discont">পর</part>
+        <part type="single">পর</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>1</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -331,9 +347,10 @@
         <part type="single">পরে</part>
       </orth>
       <orth type="discont" canonical="0" onr="15o2">
-        <part type="discont">পর</part>
+        <part type="single">পর</part>
       </orth>
     </orths>
+    <connective_type>modifiable</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -359,9 +376,10 @@
         <part type="single">ছাড়া</part>
       </orth>
       <orth type="discont" canonical="0" onr="16o2">
-        <part type="discont">ছাড়াও</part>
+        <part type="single">ছাড়াও</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>1</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -387,6 +405,7 @@
         <part type="single">ছাড়া</part>
       </orth>
     </orths>
+    <connective_type>modifiable</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -412,9 +431,10 @@
         <part type="single">তবু</part>
       </orth>
       <orth type="discont" canonical="0" onr="18o2">
-        <part type="discont">তবুও</part>
+        <part type="single">তবুও</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -437,6 +457,7 @@
         <part type="single">না</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>1</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -463,9 +484,10 @@
         <part type="single">বাদে</part>
       </orth>
       <orth type="discont" canonical="0" onr="20o2">
-        <part type="discont">বাদেও</part>
+        <part type="single">বাদেও</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>1</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -491,6 +513,7 @@
         <part type="single">বাদে</part>
       </orth>
     </orths>
+    <connective_type>modifiable</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -517,12 +540,13 @@
         <part type="phrasal">মোটের উপর</part>
       </orth>
       <orth type="discont" canonical="0" onr="22o2">
-        <part type="discont"></part>
+        <part type="phrasal"></part>
       </orth>
       <orth type="discont" canonical="0" onr="22o3">
-        <part type="discont">মোটের ওপর</part>
+        <part type="phrasal">মোটের ওপর</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -545,6 +569,7 @@
         <part type="single">অর্থাৎ</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>1</sem_ambiguity>
@@ -572,6 +597,7 @@
         <part type="single">উদাহরণস্বরূপ</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -594,6 +620,7 @@
         <part type="single">পরিবর্তে</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>1</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -620,12 +647,13 @@
         <part type="single">বরং</part>
       </orth>
       <orth type="discont" canonical="0" onr="26o2">
-        <part type="discont"></part>
+        <part type="single"></part>
       </orth>
       <orth type="discont" canonical="0" onr="26o3">
-        <part type="discont">বরঞ্চ</part>
+        <part type="single">বরঞ্চ</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>1</sem_ambiguity>
@@ -653,6 +681,7 @@
         <part type="single">যদিও</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -676,6 +705,7 @@
         <part type="phrasal">যদি না</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -698,6 +728,7 @@
         <part type="single">ফলত</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -720,9 +751,10 @@
         <part type="phrasal">না হলে</part>
       </orth>
       <orth type="discont" canonical="0" onr="30o2">
-        <part type="discont">নইলে</part>
+        <part type="phrasal">নইলে</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -745,6 +777,7 @@
         <part type="single">যেহেতু-সেহেতু</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>1</sem_ambiguity>
@@ -772,6 +805,7 @@
         <part type="single">মুহূর্তে</part>
       </orth>
     </orths>
+    <connective_type>modifiable</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -798,9 +832,10 @@
         <part type="single">এখনও</part>
       </orth>
       <orth type="discont" canonical="0" onr="33o2">
-        <part type="discont">এখনো</part>
+        <part type="single">এখনো</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -823,9 +858,10 @@
         <part type="single">তক্ষুণি</part>
       </orth>
       <orth type="discont" canonical="0" onr="34o2">
-        <part type="discont">তখনই</part>
+        <part type="single">তখনই</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -848,12 +884,13 @@
         <part type="single">ইতিমধ্যে</part>
       </orth>
       <orth type="discont" canonical="0" onr="35o2">
-        <part type="discont"></part>
+        <part type="single"></part>
       </orth>
       <orth type="discont" canonical="0" onr="35o3">
-        <part type="discont">ইতোমধ্যে</part>
+        <part type="single">ইতোমধ্যে</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -876,6 +913,7 @@
         <part type="single">পাছে</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -898,6 +936,7 @@
         <part type="single">পিছনে</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -920,12 +959,13 @@
         <part type="single">বলে</part>
       </orth>
       <orth type="discont" canonical="0" onr="38o2">
-        <part type="discont"></part>
+        <part type="single"></part>
       </orth>
       <orth type="discont" canonical="0" onr="38o3">
-        <part type="discont">বলিয়া</part>
+        <part type="single">বলিয়া</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>1</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -951,6 +991,7 @@
         <part type="single">তবে</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -973,6 +1014,7 @@
         <part type="single">সুতরাং</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -995,6 +1037,7 @@
         <part type="phrasal">সঙ্গে সঙ্গে</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>1</sem_ambiguity>
@@ -1023,6 +1066,7 @@
         <part type="single">সাথে (সাথে)</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>1</non_conn>
       <sem_ambiguity>1</sem_ambiguity>
@@ -1054,6 +1098,7 @@
         <part type="single">বা</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>1</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1079,9 +1124,10 @@
         <part type="single">হয়-নয়</part>
       </orth>
       <orth type="cont" canonical="0" onr="44o2">
-        <part type="cont">হয়-না হয়</part>
+        <part type="single">হয়-না হয়</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1104,6 +1150,7 @@
         <part type="single">বিশেষত</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>1</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1129,6 +1176,7 @@
         <part type="phrasal">না হয়</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>1</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1154,6 +1202,7 @@
         <part type="single">মধ্যে</part>
       </orth>
     </orths>
+    <connective_type>modifiable</connective_type>
     <ambiguity>
       <non_conn>1</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1182,6 +1231,7 @@
         <part type="single">ফলে</part>
       </orth>
     </orths>
+    <connective_type>modifiable</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1207,6 +1257,7 @@
         <part type="single">ফলে</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1230,6 +1281,7 @@
         <part type="single">অথচ</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1252,6 +1304,7 @@
         <part type="single">অধিকন্তু</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1274,6 +1327,7 @@
         <part type="phrasal">অন্য কথায়</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1296,6 +1350,7 @@
         <part type="single">অন্যথায়</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1318,6 +1373,7 @@
         <part type="single">অমনি</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1340,6 +1396,7 @@
         <part type="phrasal">অল্প কথায়</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>1</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1365,6 +1422,7 @@
         <part type="single">আর</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>1</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1390,6 +1448,7 @@
         <part type="single">উপরন্তু</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1412,6 +1471,7 @@
         <part type="phrasal">এমনকি যখন</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1434,6 +1494,7 @@
         <part type="phrasal">এমনকি যদি</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1456,6 +1517,7 @@
         <part type="single">কাজেই</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1478,6 +1540,7 @@
         <part type="single">কারণ</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1500,6 +1563,7 @@
         <part type="single">কিংবা</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>1</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1525,6 +1589,7 @@
         <part type="single">কেননা</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1547,6 +1612,7 @@
         <part type="single">জায়গায়</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>1</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1572,6 +1638,7 @@
         <part type="single">যখন-তখন</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1594,6 +1661,7 @@
         <part type="single">যখনই</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1616,9 +1684,10 @@
         <part type="single">যাতে</part>
       </orth>
       <orth type="discont" canonical="0" onr="67o2">
-        <part type="discont">যাহাতে</part>
+        <part type="single">যাহাতে</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1641,6 +1710,7 @@
         <part type="phrasal">যে মুহূর্তে</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1663,6 +1733,7 @@
         <part type="single">যেইমাত্র</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1685,6 +1756,7 @@
         <part type="single">যতক্ষণ</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1707,6 +1779,7 @@
         <part type="phrasal">যতক্ষন না</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1729,6 +1802,7 @@
         <part type="single">যদি</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>1</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1754,6 +1828,7 @@
         <part type="single">তখন</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>1</non_conn>
       <sem_ambiguity>1</sem_ambiguity>
@@ -1784,6 +1859,7 @@
         <part type="single">তথাপি</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1806,6 +1882,7 @@
         <part type="single">তত্ক্ষণাৎ</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1828,6 +1905,7 @@
         <part type="single">দরুন</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1850,6 +1928,7 @@
         <part type="single">দৃষ্টান্তস্বরূপ</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1872,6 +1951,7 @@
         <part type="single">নচেৎ</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1894,6 +1974,7 @@
         <part type="single">নইলে</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1916,6 +1997,7 @@
         <part type="single">নয়ত</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1938,6 +2020,7 @@
         <part type="single">নতুবা</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1960,6 +2043,7 @@
         <part type="single">পক্ষান্তরে</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -1982,6 +2066,7 @@
         <part type="single">প্রকৃতপক্ষে</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>1</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -2007,6 +2092,7 @@
         <part type="single">পরিণামে</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -2029,6 +2115,7 @@
         <part type="single">উপরন্তু</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -2051,6 +2138,7 @@
         <part type="single">পূর্বে</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>1</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -2077,6 +2165,7 @@
         <part type="single">পূর্বে</part>
       </orth>
     </orths>
+    <connective_type>modifiable</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -2102,6 +2191,7 @@
         <part type="single">বাদে</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>1</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -2127,6 +2217,7 @@
         <part type="single">বাদে</part>
       </orth>
     </orths>
+    <connective_type>modifiable</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -2152,6 +2243,7 @@
         <part type="single">ফলস্বরূপ</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -2174,6 +2266,7 @@
         <part type="single">বাস্তবিকপক্ষে</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -2196,6 +2289,7 @@
         <part type="single">বিকল্প হিসাবে</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>1</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -2221,6 +2315,7 @@
         <part type="single">বিনা</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>1</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -2246,6 +2341,7 @@
         <part type="single">বিনিময়ে</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>1</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -2271,6 +2367,7 @@
         <part type="single">বিপরীতে</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>1</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -2296,6 +2393,7 @@
         <part type="single">বদলে</part>
       </orth>
     </orths>
+    <connective_type>primary</connective_type>
     <ambiguity>
       <non_conn>1</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -2321,6 +2419,7 @@
         <part type="single">সঙ্গে</part>
       </orth>
     </orths>
+    <connective_type>modifiable</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -2346,6 +2445,7 @@
         <part type="single">সাথে</part>
       </orth>
     </orths>
+    <connective_type>modifiable</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -2371,9 +2471,10 @@
         <part type="single">সময়</part>
       </orth>
       <orth type="discont" canonical="0" onr="99o2">
-        <part type="discont">সময়ে</part>
+        <part type="single">সময়ে</part>
       </orth>
     </orths>
+    <connective_type>modifiable</connective_type>
     <ambiguity>
       <non_conn>0</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -2399,6 +2500,7 @@
         <part type="single">দিকে</part>
       </orth>
     </orths>
+    <connective_type>modifiable</connective_type>
     <ambiguity>
       <non_conn>1</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -2430,6 +2532,7 @@
         <part type="single">পক্ষে</part>
       </orth>
     </orths>
+    <connective_type>modifiable</connective_type>
     <ambiguity>
       <non_conn>1</non_conn>
       <sem_ambiguity>0</sem_ambiguity>
@@ -2458,9 +2561,10 @@
         <part type="single">উপর</part>
       </orth>
       <orth type="discont" canonical="0" onr="102o2">
-        <part type="discont">ওপর</part>
+        <part type="single">ওপর</part>
       </orth>
     </orths>
+    <connective_type>modifiable</connective_type>
     <ambiguity>
       <non_conn>1</non_conn>
       <sem_ambiguity>0</sem_ambiguity>

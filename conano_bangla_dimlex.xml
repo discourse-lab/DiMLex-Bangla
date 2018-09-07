@@ -82,7 +82,10 @@
       <part type="single">সত্ত্বেও</part>
     </orth>
     <orth type="discont">
-      <part type="discont">তৎসত্ত্বেও, তৎ সত্ত্বেও</part>
+      <part type="single">তৎসত্ত্বেও</part>
+    </orth>
+    <orth type="discont">
+      <part type="phrasal">তৎ সত্ত্বেও</part>
     </orth>
     <syn type="adverbial">
       <sem>
@@ -140,7 +143,7 @@
       <part type="single">পরে</part>
     </orth>
     <orth type="discont">
-      <part type="discont">পর</part>
+      <part type="single">পর</part>
     </orth>
     <syn type="adverbial">
       <sem>
@@ -154,7 +157,7 @@
       <part type="single">পরে</part>
     </orth>
     <orth type="discont">
-      <part type="discont">পর</part>
+      <part type="single">পর</part>
     </orth>
     <syn type="adverbial">
       <sem>
@@ -168,7 +171,7 @@
       <part type="single">ছাড়া</part>
     </orth>
     <orth type="discont">
-      <part type="discont">ছাড়াও</part>
+      <part type="single">ছাড়াও</part>
     </orth>
     <syn type="adverbial">
       <sem>
@@ -193,7 +196,7 @@
       <part type="single">তবু</part>
     </orth>
     <orth type="discont">
-      <part type="discont">তবুও</part>
+      <part type="single">তবুও</part>
     </orth>
     <syn type="adverbial">
       <sem>
@@ -218,7 +221,7 @@
       <part type="single">বাদে</part>
     </orth>
     <orth type="discont">
-      <part type="discont">বাদেও</part>
+      <part type="single">বাদেও</part>
     </orth>
     <syn type="adverbial">
       <sem>
@@ -243,10 +246,10 @@
       <part type="phrasal">মোটের উপর</part>
     </orth>
     <orth type="discont">
-      <part type="discont"/>
+      <part type="phrasal"/>
     </orth>
     <orth type="discont">
-      <part type="discont">মোটের ওপর</part>
+      <part type="phrasal">মোটের ওপর</part>
     </orth>
     <syn type="adverbial">
       <sem>
@@ -297,10 +300,10 @@
       <part type="single">বরং</part>
     </orth>
     <orth type="discont">
-      <part type="discont"/>
+      <part type="single"/>
     </orth>
     <orth type="discont">
-      <part type="discont">বরঞ্চ</part>
+      <part type="single">বরঞ্চ</part>
     </orth>
     <syn type="adverbial">
       <sem>
@@ -351,7 +354,7 @@
       <part type="phrasal">না হলে</part>
     </orth>
     <orth type="discont">
-      <part type="discont">নইলে</part>
+      <part type="phrasal">নইলে</part>
     </orth>
     <syn type="adverbial">
       <sem>
@@ -391,7 +394,7 @@
       <part type="single">এখনও</part>
     </orth>
     <orth type="discont">
-      <part type="discont">এখনো</part>
+      <part type="single">এখনো</part>
     </orth>
     <syn type="adverbial">
       <sem>
@@ -405,7 +408,7 @@
       <part type="single">তক্ষুণি</part>
     </orth>
     <orth type="discont">
-      <part type="discont">তখনই</part>
+      <part type="single">তখনই</part>
     </orth>
     <syn type="adverbial">
       <sem>
@@ -419,10 +422,10 @@
       <part type="single">ইতিমধ্যে</part>
     </orth>
     <orth type="discont">
-      <part type="discont"/>
+      <part type="single"/>
     </orth>
     <orth type="discont">
-      <part type="discont">ইতোমধ্যে</part>
+      <part type="single">ইতোমধ্যে</part>
     </orth>
     <syn type="adverbial">
       <sem>
@@ -458,10 +461,10 @@
       <part type="single">বলে</part>
     </orth>
     <orth type="discont">
-      <part type="discont"/>
+      <part type="single"/>
     </orth>
     <orth type="discont">
-      <part type="discont">বলিয়া</part>
+      <part type="single">বলিয়া</part>
     </orth>
     <syn type="adverbial">
       <sem>
@@ -538,7 +541,7 @@
       <part type="single">হয়-নয়</part>
     </orth>
     <orth type="cont">
-      <part type="cont">হয়-না হয়</part>
+      <part type="single">হয়-না হয়</part>
     </orth>
     <syn type="adverbial">
       <sem>
@@ -794,7 +797,7 @@
       <part type="single">যাতে</part>
     </orth>
     <orth type="discont">
-      <part type="discont">যাহাতে</part>
+      <part type="single">যাহাতে</part>
     </orth>
     <syn type="adverbial">
       <sem>
@@ -1153,7 +1156,7 @@
       <part type="single">সময়</part>
     </orth>
     <orth type="discont">
-      <part type="discont">সময়ে</part>
+      <part type="single">সময়ে</part>
     </orth>
     <syn type="adverbial">
       <sem>
@@ -1189,7 +1192,7 @@
       <part type="single">উপর</part>
     </orth>
     <orth type="discont">
-      <part type="discont">ওপর</part>
+      <part type="single">ওপর</part>
     </orth>
     <syn type="adverbial">
       <sem>
