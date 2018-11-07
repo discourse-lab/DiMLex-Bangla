@@ -12,15 +12,15 @@
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <non_conn_reading>
-      <example id="1">আমি তোমাকে আগে কখনো দেখি নি|</example>
-      <english_example_equivalent id="1">I've never seen you before.</english_example_equivalent>
+      <example>আমি তোমাকে আগে কখনো দেখি নি|</example>
+      <english_example_equivalent>I've never seen you before.</english_example_equivalent>
     </non_conn_reading>
     <syn>
       <cat>Postposition/adverb</cat>
       <sem>
         <pdtb3_relation sense="Temporal:Asynchronous:Precedence"/>
-        <example id="1">আমি জার্মানি যাওয়ার আগে নিউ ইয়র্ক ঘুরতে যাওয়ার পরিকল্পনা করছি|</example>
-        <english_example_equivalent id="1">Before going to Germany, I am planning to visit New York.</english_example_equivalent>
+        <example>আমি জার্মানি যাওয়ার আগে নিউ ইয়র্ক ঘুরতে যাওয়ার পরিকল্পনা করছি|</example>
+        <english_equivalent>Before going to Germany, I am planning to visit New York.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -40,10 +40,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Temporal:Asynchronous:Precedence"/>
-        <example id="1">আমি সাতটার সময় বাড়িতে ফিরলাম|</example>
-        <english_example_equivalent id="1">I returned home at 7 o'clock.</english_example_equivalent>
-        <example id="2">তার আগে বাজারে গেছিলাম|</example>
-        <english_example_equivalent id="2">Before that, I went to the market</english_example_equivalent>
+        <example>আমি সাতটার সময় বাড়িতে ফিরলাম| তার আগে বাজারে গেছিলাম|</example>
+        <english_equivalent>I returned home at 7 o'clock. Before that, I went to the market.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -63,8 +61,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Contingency:Cause:Result"/>
-        <example id="1">পরীক্ষা এসে গেছে; অতএব তোমার পড়াশুনা করা উচিত|</example>
-        <english_example_equivalent id="1">Exam has arrived; therefore, you should be studying.</english_example_equivalent>
+        <example>পরীক্ষা এসে গেছে; অতএব তোমার পড়াশুনা করা উচিত|</example>
+        <english_equivalent>Exam has arrived; therefore, you should be studying.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -80,15 +78,15 @@
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <non_conn_reading>
-      <example id="1">তুমি কিন্তু রান্নাটা ভালই করো|</example>
-      <english_example_equivalent id="1">You cook well.</english_example_equivalent>
+      <example>তুমি কিন্তু রান্নাটা ভালই করো|</example>
+      <english_example_equivalent>You cook well.</english_example_equivalent>
     </non_conn_reading>
     <syn>
       <cat>Conjunction</cat>
       <sem>
         <pdtb3_relation sense="Comparison:Contrast"/>
-        <example id="1">গত বাজেটে পেট্রলের দাম বেড়েছে; কিন্তু, কিছু গাড়ির দাম কমেছে|</example>
-        <english_example_equivalent id="1">In the last Budget, the price of petrol has gone up; but, the prices of some cars have gone down.</english_example_equivalent>
+        <example>গত বাজেটে পেট্রলের দাম বেড়েছে; কিন্তু, কিছু গাড়ির দাম কমেছে|</example>
+        <english_equivalent>In the last Budget, the price of petrol has gone up; but, the prices of some cars have gone down.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -104,15 +102,15 @@
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <non_conn_reading>
-      <example id="1">প্রশ্নপত্রে প্রতিটি প্রশ্নই অনিবার্য; কোন অথবা থাকবে না|</example>
-      <english_example_equivalent id="1">Every question is compulsory in the question paper; there will be no alternatives.</english_example_equivalent>
+      <example>প্রশ্নপত্রে প্রতিটি প্রশ্নই অনিবার্য; কোন অথবা থাকবে না|</example>
+      <english_example_equivalent>Every question is compulsory in the question paper; there will be no alternatives.</english_example_equivalent>
     </non_conn_reading>
     <syn>
       <cat>Conjunction</cat>
       <sem>
         <pdtb3_relation sense="Expansion:Disjunction"/>
-        <example id="1">কিছু শিক্ষিত ব্যক্তি বেকার অথবা মৌলিক চাহিদাগুলো মেটানোর মতো যথেষ্ট আয় করে না|</example>
-        <english_example_equivalent id="1">Some educated people are unemployed or do not earn enough to meet basic needs.</english_example_equivalent>
+        <example>কিছু শিক্ষিত ব্যক্তি বেকার অথবা মৌলিক চাহিদাগুলো মেটানোর মতো যথেষ্ট আয় করে না|</example>
+        <english_equivalent>Some educated people are unemployed or do not earn enough to meet basic needs.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -128,15 +126,15 @@
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <non_conn_reading>
-      <example id="1">তুমি এবং আমি মেলায় যাব|</example>
-      <english_example_equivalent id="1">You and I will go to the fair.</english_example_equivalent>
+      <example>তুমি এবং আমি মেলায় যাব|</example>
+      <english_example_equivalent>You and I will go to the fair.</english_example_equivalent>
     </non_conn_reading>
     <syn>
       <cat>Conjunction</cat>
       <sem>
         <pdtb3_relation sense="Expansion:Conjunction"/>
-        <example id="1">যদি আমার সময় থাকে এবং সুযোগ হয়, তাহলে তোমার সাথে দেখা করব|</example>
-        <english_example_equivalent id="1">If I get the time and have the opportunity, I will meet you.</english_example_equivalent>
+        <example>যদি আমার সময় থাকে এবং সুযোগ হয়, তাহলে তোমার সাথে দেখা করব|</example>
+        <english_equivalent>If I get the time and have the opportunity, I will meet you.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -156,8 +154,8 @@
       <cat>Postposition</cat>
       <sem>
         <pdtb3_relation sense="Comparison:Concession:Contra-expectation"/>
-        <example id="1">ছেলেটি অসুস্থ থাকা সত্ত্বেও স্কুলে এসেছিল|</example>
-        <english_example_equivalent id="1">The boy came to school despite being ill .</english_example_equivalent>
+        <example>ছেলেটি অসুস্থ থাকা সত্ত্বেও স্কুলে এসেছিল|</example>
+        <english_equivalent>The boy came to school despite being ill .</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -177,10 +175,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Comparison:Concession:Contra-expectation"/>
-        <example id="1">ছেলেটি অসুস্থ|</example>
-        <english_example_equivalent id="1">The boy is ill.</english_example_equivalent>
-        <example id="2">তা সত্ত্বেও, সে স্কুলে এসেছিল|</example>
-        <english_example_equivalent id="2">Inspite of that, he came to school.</english_example_equivalent>
+        <example>ছেলেটি অসুস্থ| তা সত্ত্বেও, সে স্কুলে এসেছিল|</example>
+        <english_equivalent>The boy is ill. Inspite of that, he came to school.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -196,15 +192,15 @@
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <non_conn_reading>
-      <example id="1">এই উপহারটি তোমার জন্য|</example>
-      <english_example_equivalent id="1">This gift is for you.</english_example_equivalent>
+      <example>এই উপহারটি তোমার জন্য|</example>
+      <english_example_equivalent>This gift is for you.</english_example_equivalent>
     </non_conn_reading>
     <syn>
       <cat>Postposition</cat>
       <sem>
         <pdtb3_relation sense="Contingency:Purpose"/>
-        <example id="1">পরীক্ষায় ভালো ফল করার জন্য সে মন দিয়ে পড়ছে|</example>
-        <english_example_equivalent id="1">In order to score good marks in the test, he is studying wholeheartedly.</english_example_equivalent>
+        <example>পরীক্ষায় ভালো ফল করার জন্য সে মন দিয়ে পড়ছে|</example>
+        <english_equivalent>In order to score good marks in the test, he is studying wholeheartedly.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -224,10 +220,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Contingency:Cause:Result"/>
-        <example id="1">তুমি আজ প্রথমবার এখানে এলে|</example>
-        <english_example_equivalent id="1">You came here for the first time.</english_example_equivalent>
-        <example id="2">সেইজন্য একটু মিষ্টি এনেছি|</example>
-        <english_example_equivalent id="2">That is why, I bought some sweets</english_example_equivalent>
+        <example>তুমি আজ প্রথমবার এখানে এলে| সেইজন্য একটু মিষ্টি এনেছি|</example>
+        <english_equivalent>You came here for the first time. That is why, I bought some sweets.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -247,8 +241,8 @@
       <cat>Postposition</cat>
       <sem>
         <pdtb3_relation sense="Contingency:Cause:Result"/>
-        <example id="1">আজ বৃষ্টি হওয়ার কারণে কলকাতার তাপমাত্রা কিছুটা কমল|</example>
-        <english_example_equivalent id="1">Because it rained today, the temperatue in Kolkata went down.</english_example_equivalent>
+        <example>আজ বৃষ্টি হওয়ার কারণে কলকাতার তাপমাত্রা কিছুটা কমল|</example>
+        <english_equivalent>Because it rained today, the temperatue in Kolkata went down.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -268,10 +262,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Contingency:Cause:Reason"/>
-        <example id="1">এখানে গঙ্গা একটি সরু নদীধারার মতো|</example>
-        <english_example_equivalent id="1">Here the Ganges is like a narrow stream.</english_example_equivalent>
-        <example id="2">সেই কারণে আমি সহজেই সেইটি পেরিয়ে যেতে পারলাম|</example>
-        <english_example_equivalent id="2">So,  I could easily pass it.</english_example_equivalent>
+        <example>এখানে গঙ্গা একটি সরু নদীধারার মতো| সেই কারণে আমি সহজেই সেইটি পেরিয়ে যেতে পারলাম|</example>
+        <english_equivalent>Here the Ganges is like a narrow stream. So,  I could easily pass it.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -290,15 +282,15 @@
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <non_conn_reading>
-      <example id="1">আমার পরে তোমার ডাক আসবে|</example>
-      <english_example_equivalent id="1">You will be called after me.</english_example_equivalent>
+      <example>আমার পরে তোমার ডাক আসবে|</example>
+      <english_example_equivalent>You will be called after me.</english_example_equivalent>
     </non_conn_reading>
     <syn>
       <cat>Postposition</cat>
       <sem>
         <pdtb3_relation sense="Temporal:Asynchronous:Succession"/>
-        <example id="1">ফিরে আসার পরে আমায় জানিও|</example>
-        <english_example_equivalent id="1">Let me know after you return.</english_example_equivalent>
+        <example>ফিরে আসার পরে আমায় জানিও|</example>
+        <english_equivalent>Let me know after you return.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -321,10 +313,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Temporal:Asynchronous:Succession"/>
-        <example id="1">আমি আগে কাজ শেষ করবো|</example>
-        <english_example_equivalent id="1">First, I would finish the job.</english_example_equivalent>
-        <example id="2">তারপরে, বাইরে ঘুরতে যাবো|</example>
-        <english_example_equivalent id="2">After that, I will go out for a trip</english_example_equivalent>
+        <example>আমি আগে কাজ শেষ করবো| তারপরে, বাইরে ঘুরতে যাবো|</example>
+        <english_equivalent>First, I would finish the job. After that, I will go out for a trip.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -343,15 +333,15 @@
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <non_conn_reading>
-      <example id="1">শনিবার ছাড়া আমি রোজ গান শিখতে যেতাম|</example>
-      <english_example_equivalent id="1">I went for music lessons everyday, except on Saturdays .</english_example_equivalent>
+      <example>শনিবার ছাড়া আমি রোজ গান শিখতে যেতাম|</example>
+      <english_example_equivalent>I went for music lessons everyday, except on Saturdays .</english_example_equivalent>
     </non_conn_reading>
     <syn>
       <cat>Postposition</cat>
       <sem>
         <pdtb3_relation sense="Expansion:Conjunction"/>
-        <example id="1">চাকরি পাওয়ার ক্ষেত্রে, অভিজ্ঞতা সঞ্চয় করা ছাড়া পারদর্শি হওয়াও প্রয়োজনীয়|</example>
-        <english_example_equivalent id="1">In order to get a job, besides acquirig experience, being adept is also necesssary.</english_example_equivalent>
+        <example>চাকরি পাওয়ার ক্ষেত্রে, অভিজ্ঞতা সঞ্চয় করা ছাড়া পারদর্শি হওয়াও প্রয়োজনীয়|</example>
+        <english_equivalent>In order to get a job, besides acquirig experience, being adept is also necesssary.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -374,10 +364,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Expansion:Conjunction"/>
-        <example id="1">এই চাকরি করার জন্য তার যোগ্যতা নেই|</example>
-        <english_example_equivalent id="1">He is not qualified to do this job.</english_example_equivalent>
-        <example id="2">তাছাড়া তিনি কম্পিউটারের ব্যবহারই জানেন না|</example>
-        <english_example_equivalent id="2">Besides that, he doesn't even know the use of computers.</english_example_equivalent>
+        <example>এই চাকরি করার জন্য তার যোগ্যতা নেই| তাছাড়া তিনি কম্পিউটারের ব্যবহারই জানেন না|</example>
+        <english_equivalent>He is not qualified to do this job. Besides that, he doesn't even know the use of computers.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -400,8 +388,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Comparison:Concession:Contra-expectation"/>
-        <example id="1">ছেলেটি খুব বড়লোক; তবু সে সুখি নয়|</example>
-        <english_example_equivalent id="1">The boy is very rich; yet he is not happy.</english_example_equivalent>
+        <example>ছেলেটি খুব বড়লোক; তবু সে সুখি নয়|</example>
+        <english_equivalent>The boy is very rich; yet he is not happy.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -417,15 +405,17 @@
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <non_conn_reading>
-      <example id="1">তুমি না আজ যেও না|</example>
-      <english_example_equivalent id="1">Please don't go today. / কে যাবে, তুমি না আমি? Who will go, you or I?</english_example_equivalent>
+      <example>তুমি না আজ যেও না|</example>
+      <english_example_equivalent>Please don't go today.</english_example_equivalent>
+	  <example>কে যাবে, তুমি না আমি?</example>
+	  <english_example_equivalent>Who will go, you or I?</english_example_equivalent>
     </non_conn_reading>
     <syn>
       <cat>Conjunction</cat>
       <sem>
         <pdtb3_relation sense="Expansion:Disjunction"/>
-        <example id="1">আমি থাকবো না চলে যাবো?|</example>
-        <english_example_equivalent id="1">Should I stay or should I go?</english_example_equivalent>
+        <example>আমি থাকবো না চলে যাবো?|</example>
+        <english_equivalent>Should I stay or should I go?</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -444,15 +434,15 @@
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <non_conn_reading>
-      <example id="1">রবিবার বাদে আমাদের দোকান রোজ খোলা থাকে|</example>
-      <english_example_equivalent id="1">Our store is open everyday, except on Sunadys.</english_example_equivalent>
+      <example>রবিবার বাদে আমাদের দোকান রোজ খোলা থাকে|</example>
+      <english_example_equivalent>Our store is open everyday, except on Sunadys.</english_example_equivalent>
     </non_conn_reading>
     <syn>
       <cat>Postposition</cat>
       <sem>
         <pdtb3_relation sense="Expansion:Conjunction"/>
-        <example id="1">এই কাজটা করা বাদে আর কোনো উপায় নেই|</example>
-        <english_example_equivalent id="1">There is no other way than doing this task.</english_example_equivalent>
+        <example>এই কাজটা করা বাদে আর কোনো উপায় নেই|</example>
+        <english_equivalent>There is no other way than doing this task.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -472,8 +462,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Exapnansion:Exception"/>
-        <example id="1">শচীন আজ শতরান করেন; এ বাদে আর কেউই সফল হননি|</example>
-        <english_example_equivalent id="1">Sachin has scored a century today; except this, no one was successful.</english_example_equivalent>
+        <example>শচীন আজ শতরান করেন; এ বাদে আর কেউই সফল হননি|</example>
+        <english_equivalent>Sachin has scored a century today; except this, no one was successful.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -499,10 +489,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Expansion:Specification:Summarization"/>
-        <example id="1">সে অঙ্কে একশো, ইংরেজিতে আশি এবং বিজ্ঞানে নব্বই পেয়েছে|</example>
-        <english_example_equivalent id="1">She got 100 in Mathematics, 80 in English and 90 in Science.</english_example_equivalent>
-        <example id="2">মোটের উপর, তার পরিক্ষার ফল ভালো হয়েছে|</example>
-        <english_example_equivalent id="2">Overall, her exam result was good.</english_example_equivalent>
+        <example>সে অঙ্কে একশো, ইংরেজিতে আশি এবং বিজ্ঞানে নব্বই পেয়েছে| মোটের উপর, তার পরিক্ষার ফল ভালো হয়েছে|</example>
+        <english_equivalent>She got 100 in Mathematics, 80 in English and 90 in Science. Overall, her exam result was good.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -522,15 +510,13 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Contingency:Cause-Belief:Result"/>
-        <example id="1">খুনের সময় রাম শহরে ছিল না|</example>
-        <english_example_equivalent id="1">অর্থাৎ, ওঁর খুন করার সম্ভবনা নেই বললেই চলেI During the time of the murder Ram was not in the town. Therefore, it is quite unlikely for him committing the murder.</english_example_equivalent>
-        <example>রাম সেই সময় দেশে ছিলনা|</example>
-        <english_equivalent>Ram was not in the country at the time.</english_equivalent>
-        <example>অর্থাৎ, সে তখন বিদেশে গেছিল|</example>
-        <english_equivalent>In other words, he went abroad at that time.</english_equivalent>
+        <example>খুনের সময় রাম শহরে ছিল না। অর্থাৎ, ওঁর খুন করার সম্ভবনা নেই বললেই চলে|</example>
+		<english_equivalent>During the time of the murder Ram was not in the town. Therefore, it is quite unlikely for him committing the murder.</english_equivalent>
       </sem>
       <sem>
         <pdtb3_relation sense="Expansion:Equivalence"/>
+		<example>রাম সেই সময় দেশে ছিলনা| অর্থাৎ, সে তখন বিদেশে গেছিল|</example>
+        <english_equivalent>Ram was not in the country at the time. In other words, he went abroad at that time.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -550,10 +536,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Expansion:Instantiation"/>
-        <example id="1">ভিটামিন সি রঙিন সবজির মধ্যে পাওয়া যায়|</example>
-        <english_example_equivalent id="1">Vitamin C is found in colorful vegetables.</english_example_equivalent>
-        <example id="2">উদাহরণস্বরূপ, টমেটোতে প্রচুর ভিটামিন সি আছে|</example>
-        <english_example_equivalent id="2">For example/ For instance, tomatoes have a lot of vitamin C.</english_example_equivalent>
+        <example>ভিটামিন সি রঙিন সবজির মধ্যে পাওয়া যায়| উদাহরণস্বরূপ, টমেটোতে প্রচুর ভিটামিন সি আছে|</example>
+        <english_equivalent>Vitamin C is found in colorful vegetables.  For example/ For instance, tomatoes have a lot of vitamin C.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -569,17 +553,15 @@
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <non_conn_reading>
-      <example id="1">কোহলির পরিবর্তে আজ রোহিত অধিনায়াকত্ব করবেন|</example>
-      <english_example_equivalent id="1">Rohit will lead today in place of Kohli.</english_example_equivalent>
+      <example>কোহলির পরিবর্তে আজ রোহিত অধিনায়াকত্ব করবেন|</example>
+      <english_example_equivalent>Rohit will lead today in place of Kohli.</english_example_equivalent>
     </non_conn_reading>
     <syn>
       <cat>Postposition/adverb</cat>
       <sem>
         <pdtb3_relation sense="Expansion:Substitution"/>
-        <example id="1">সলমন খান আজ পুলিশের সামনে হাজিরা দিতে আসেননি|</example>
-        <english_example_equivalent id="1">Salman Khan did not appear before the police.</english_example_equivalent>
-        <example id="2">পরিবর্তে, উনি ওঁর উকিলকে পাঠিয়েছেন|</example>
-        <english_example_equivalent id="2">Instead, he sent his lawyer.</english_example_equivalent>
+        <example>সলমন খান আজ পুলিশের সামনে হাজিরা দিতে আসেননি| পরিবর্তে, উনি ওঁর উকিলকে পাঠিয়েছেন|</example>
+        <english_equivalent>Salman Khan did not appear before the police. Instead, he sent his lawyer.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -605,17 +587,13 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Comparison:Contrast"/>
-        <example id="1">আজ সেখানে যেও না|</example>
-        <english_example_equivalent id="1">Don't go there today.</english_example_equivalent>
-        <example id="2">বরং, কাল যেও|</example>
-        <english_example_equivalent id="2">Rather, go there tomorrow</english_example_equivalent>
-        <example>ও আমাকে ভুল কিছু বলেনি|</example>
-        <english_equivalent>He did not tell me anything wrong.</english_equivalent>
-        <example>বরং, ঠিক পরামর্শই দিয়েছে|</example>
-        <english_equivalent>Rather, he gave me the right advice.</english_equivalent>
+		<example>আজ সেখানে যেও না। বরং, কাল যেও।</example>
+        <english_equivalent>Don't go there today. Rather, go there tomorrow.</english_equivalent>
       </sem>
       <sem>
         <pdtb3_relation sense="Expansion:Substitution"/>
+		<example>ও আমাকে ভুল কিছু বলেনি| বরং, ঠিক পরামর্শই দিয়েছে|</example>
+        <english_equivalent>He did not tell me anything wrong. Rather, he gave me the right advice.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -635,8 +613,8 @@
       <cat>Conjunction/adverb</cat>
       <sem>
         <pdtb3_relation sense="Comparison:Concession:Contra-expectation"/>
-        <example id="1">যদিও সে পড়াশুনা করেনি, তার পরিক্ষায় ভাল ফল হয়েছে|</example>
-        <english_example_equivalent id="1">Although he didn't study, his exam result was good.</english_example_equivalent>
+        <example>যদিও সে পড়াশুনা করেনি, তার পরিক্ষায় ভাল ফল হয়েছে|</example>
+        <english_equivalent>Although he didn't study, his exam result was good.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -656,8 +634,8 @@
       <cat>Conjunction</cat>
       <sem>
         <pdtb3_relation sense="Contingency:Negative Condition"/>
-        <example id="1">আমি দুঃখ পাব যদি না সে এই সময় আমার পাশে থাকে|</example>
-        <english_example_equivalent id="1">I'll feel bad if he doesn’t stay by my side at this time.</english_example_equivalent>
+        <example>আমি দুঃখ পাব যদি না সে এই সময় আমার পাশে থাকে|</example>
+        <english_equivalent>I'll feel bad if he doesn’t stay by my side at this time.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -677,10 +655,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Contingency:Cause:Result"/>
-        <example id="1">তুমি ঠিকঠাক কাজ করনি|</example>
-        <english_example_equivalent id="1">You did not work properly.</english_example_equivalent>
-        <example id="2">ফলত তোমায় ভুগতে হবে|</example>
-        <english_example_equivalent id="2">As a result, you have to suffer.</english_example_equivalent>
+        <example>তুমি ঠিকঠাক কাজ করনি| ফলত তোমায় ভুগতে হবে|</example>
+        <english_equivalent>You did not work properly. As a result, you have to suffer.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -703,10 +679,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Contingency:Negative Condition"/>
-        <example id="1">আমার সাথে চল|</example>
-        <english_example_equivalent id="1">Come with me.</english_example_equivalent>
-        <example id="2">না হলে আমি যাবো না|</example>
-        <english_example_equivalent id="2">Otherwise, I won't go.</english_example_equivalent>
+        <example>আমার সাথে চল| না হলে আমি যাবো না|</example>
+        <english_equivalent>Come with me. Otherwise, I won't go.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -726,12 +700,13 @@
       <cat>Conjunction</cat>
       <sem>
         <pdtb3_relation sense="Contingency:Cause:Result"/>
-        <english_example_equivalent id="1">Since my grandfather has become old, he is not as active as before.</english_example_equivalent>
-        <example id="1">যেহেতু তুমি আমার থেকে বয়সে বড়, সেহেতু তুমি সমস্ত সুযোগ সুবিধে পাবে|</example>
-        <english_equivalent>Since you are elder than me, you will get all the benefits.</english_equivalent>
+		<example>যেহেতু ঠাকুরদার বয়স হয়ে গেছে, সেহেতু তিনি এখন আগের মত সচল নন। </example>
+        <english_equivalent>Since my grandfather has become old, he is not as active as before.</english_equivalent>
       </sem>
       <sem>
         <pdtb3_relation sense="Contingency:Cause-Belief:Result"/>
+		<example>যেহেতু তুমি আমার থেকে বয়সে বড়, সেহেতু তুমি সমস্ত সুযোগ সুবিধে পাবে|</example>
+        <english_equivalent>Since you are elder than me, you will get all the benefits.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -751,10 +726,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Temporal:Synchronous"/>
-        <example id="1">খুনটা কাল রাত দশটা নাগাদ হয়|</example>
-        <english_example_equivalent id="1">The murder took place last night at around 10 o'clock.</english_example_equivalent>
-        <example id="2">সে মুহুর্তে, বাড়িতে কেউ ছিল না|</example>
-        <english_example_equivalent id="2">At that moment, nobody was home.</english_example_equivalent>
+        <example>খুনটা কাল রাত দশটা নাগাদ হয়| সে মুহুর্তে, বাড়িতে কেউ ছিল না|</example>
+        <english_equivalent>The murder took place last night at around 10 o'clock. At that moment, nobody was home.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -777,10 +750,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Comparison:Concession:Contra-expectation"/>
-        <example id="1">রাম ও রিনির বহুদিন আগে ছাড়াছাড়ি হয়ে গেছে|</example>
-        <english_example_equivalent id="1">Ram and Rini got separated a long time ago.</english_example_equivalent>
-        <example id="2">এখনও তারা একে অপরকে ভুলতে পারেনি|</example>
-        <english_example_equivalent id="2">Still, they could not forget each other.</english_example_equivalent>
+        <example>রাম ও রিনির বহুদিন আগে ছাড়াছাড়ি হয়ে গেছে| এখনও তারা একে অপরকে ভুলতে পারেনি|</example>
+        <english_equivalent>Ram and Rini got separated a long time ago. Still, they could not forget each other.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -803,8 +774,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Temporal:Synchronous"/>
-        <example id="1">বন্ধুর অসুস্থতার খবর পেয়ে তক্ষুনি ওর বাড়িতে ছুটলাম|</example>
-        <english_example_equivalent id="1">After knowing about my friend's sickness, I hurried to his house at once .</english_example_equivalent>
+        <example>বন্ধুর অসুস্থতার খবর পেয়ে তক্ষুনি ওর বাড়িতে ছুটলাম|</example>
+        <english_equivalent>After knowing about my friend's sickness, I hurried to his house at once .</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -830,10 +801,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Temporal:Synchronous"/>
-        <example id="1">আমি রান্নাটা চাপিয়েছি|</example>
-        <english_example_equivalent id="1">I have started cooking.</english_example_equivalent>
-        <example id="2">ইতিমধ্যে, সবাই চলে এসেছে|</example>
-        <english_example_equivalent id="2">In the meantime, everyone has arrived.</english_example_equivalent>
+        <example>আমি রান্নাটা চাপিয়েছি| ইতিমধ্যে, সবাই চলে এসেছে|</example>
+        <english_equivalent>I have started cooking. In the meantime, everyone has arrived.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -853,8 +822,8 @@
       <cat>Conjunction</cat>
       <sem>
         <pdtb3_relation sense="Contingency:Purpose"/>
-        <example id="1">তিনি দেশ ছেড়ে পালিয়েছেন পাছে তাকে কারাগারে বন্দী করা হয়|</example>
-        <english_example_equivalent id="1">He fled the country lest he be imprisoned.</english_example_equivalent>
+        <example>তিনি দেশ ছেড়ে পালিয়েছেন পাছে তাকে কারাগারে বন্দী করা হয়|</example>
+        <english_equivalent>He fled the country lest he be imprisoned.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -874,8 +843,8 @@
       <cat>Postposition</cat>
       <sem>
         <pdtb3_relation sense="Contingency:Purpose"/>
-        <example id="1">এই জঘন্য কাজ করার পিছনে তার কোনো গোপন উদ্দেশ্য ছিল|</example>
-        <english_example_equivalent id="1">He had some hidden motif behind commiting this heinous act.</english_example_equivalent>
+        <example>এই জঘন্য কাজ করার পিছনে তার কোনো গোপন উদ্দেশ্য ছিল|</example>
+        <english_equivalent>He had some hidden motif behind commiting this heinous act.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -897,15 +866,15 @@
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <non_conn_reading>
-      <example id="1">আজকের রায়ে এই সব অভিযোগই মিথ্যা বলে প্রমাণিত হয়েছে|</example>
-      <english_example_equivalent id="1">All allegations have been proven to be lies by today's verdict.</english_example_equivalent>
+      <example>আজকের রায়ে এই সব অভিযোগই মিথ্যা বলে প্রমাণিত হয়েছে|</example>
+      <english_example_equivalent>All allegations have been proven to be lies by today's verdict.</english_example_equivalent>
     </non_conn_reading>
     <syn>
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Contingency:Purpose"/>
-        <example id="1">আমি তার সাথে দেখা করবো বলে তার অফিসে গিয়েছিলাম|</example>
-        <english_example_equivalent id="1">I went to his office in order to meet him.</english_example_equivalent>
+        <example>আমি তার সাথে দেখা করবো বলে তার অফিসে গিয়েছিলাম|</example>
+        <english_equivalent>I went to his office in order to meet him.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -925,10 +894,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Comparison:Concession:Contra-expectation"/>
-        <example id="1">আমার কম্পুটারটি বেশ পুরানো|</example>
-        <english_example_equivalent id="1">My computer is quite old.</english_example_equivalent>
-        <example id="2">তবু ভালই কাজ করে|</example>
-        <english_example_equivalent id="2">Yet, it works well.</english_example_equivalent>
+        <example>আমার কম্পুটারটি বেশ পুরানো| তবু ভালই কাজ করে|</example>
+        <english_equivalent>My computer is quite old. Yet, it works well.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -948,10 +915,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Contigency:Cause:Result"/>
-        <example id="1">তুমি ব্যবসায় কোনো টাকা ঢালনি|</example>
-        <english_example_equivalent id="1">You did not put any money in the busines.</english_example_equivalent>
-        <example id="2">সুতরাং, তুমি কোনো লভ্যাংশও পাবে না|</example>
-        <english_example_equivalent id="2">Therefore, you will no have any profit at all.</english_example_equivalent>
+        <example>তুমি ব্যবসায় কোনো টাকা ঢালনি| সুতরাং, তুমি কোনো লভ্যাংশও পাবে না|</example>
+        <english_equivalent>You did not put any money in the busines. Therefore, you will no have any profit at all.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -971,15 +936,13 @@
       <cat>Postposition/adverb</cat>
       <sem>
         <pdtb3_relation sense="Temporal:Synchronous"/>
-        <example id="1">আমরা স্টেশনে পৌঁছালাম|</example>
-        <english_example_equivalent id="1">We reached the station.</english_example_equivalent>
-        <example id="2">সঙ্গে সঙ্গে ট্রেনটা ছেড়ে দিল|</example>
-        <english_example_equivalent id="2">Immediately, the train left.</english_example_equivalent>
-        <example id="1">পড়াশোনা করার সঙ্গে সঙ্গে সে চাকরিও করেছে|</example>
-        <english_equivalent>While she was studying , she was also doing a job.</english_equivalent>
+		<example>আমরা স্টেশনে পৌঁছালাম। সঙ্গে সঙ্গে ট্রেনটা ছেড়ে দিল। </example>
+        <english_equivalent>We reached the station. Immediately, the train left.</english_equivalent>
       </sem>
       <sem>
         <pdtb3_relation sense="Expansion:Conjunction"/>
+		<example>পড়াশোনা করার সঙ্গে সঙ্গে সে চাকরিও করেছে|</example>
+        <english_equivalent>While she was studying , she was also doing a job.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -995,19 +958,20 @@
       <sem_ambiguity>1</sem_ambiguity>
     </ambiguity>
     <non_conn_reading>
-      <example id="1">রামের সাথে শ্যাম বাজারে যাবে|</example>
-      <english_example_equivalent id="1">Shaym will go to the market with Ram.</english_example_equivalent>
+      <example>রামের সাথে শ্যাম বাজারে যাবে|</example>
+      <english_example_equivalent>Shaym will go to the market with Ram.</english_example_equivalent>
     </non_conn_reading>
     <syn>
       <cat>Postposition/adverb</cat>
       <sem>
         <pdtb3_relation sense="Expansion:Conjunction"/>
-        <english_example_equivalent id="1">I have studied. Along with it, I have learned music.</english_example_equivalent>
-        <example id="1">ঝড় ওঠার সাথে সাথে ঘরটা অন্ধকার হয়ে গেল|</example>
-        <english_equivalent>The room became dark right when the storm broke out.</english_equivalent>
+		<example>আমি পড়াশোনা করেছি; সাথে গানও শিখেছি। </example>
+		<english_equivalent>I have studied. Along with it, I have learned music.</english_equivalent>
       </sem>
       <sem>
         <pdtb3_relation sense="Temporal:Synchronous"/>
+		<example>ঝড় ওঠার সাথে সাথে ঘরটা অন্ধকার হয়ে গেল|</example>
+        <english_equivalent>The room became dark right when the storm broke out.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1023,15 +987,15 @@
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <non_conn_reading>
-      <example id="1">গৌতম বা রাহুল যাবে|</example>
-      <english_example_equivalent id="1">Goutam or Rahul will go.</english_example_equivalent>
+      <example>গৌতম বা রাহুল যাবে|</example>
+      <english_example_equivalent>Goutam or Rahul will go.</english_example_equivalent>
     </non_conn_reading>
     <syn>
       <cat>Conjunction</cat>
       <sem>
         <pdtb3_relation sense="Expansion:Disjunction"/>
-        <example id="1">রাম যাবে বা শ্যাম যাবে|</example>
-        <english_example_equivalent id="1">Either Ram will go or Shyam will go.</english_example_equivalent>
+        <example>রাম যাবে বা শ্যাম যাবে|</example>
+        <english_equivalent>Either Ram will go or Shyam will go.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1054,8 +1018,8 @@
       <cat>Conjunction</cat>
       <sem>
         <pdtb3_relation sense="Expansion:Disjunction"/>
-        <example id="1">হয় তুমি এখানে একা থাকো, নয় আমাদের সাথে চলো|</example>
-        <english_example_equivalent id="1">Either you stay here alone, or you come with us.</english_example_equivalent>
+        <example>হয় তুমি এখানে একা থাকো, নয় আমাদের সাথে চলো|</example>
+        <english_equivalent>Either you stay here alone, or you come with us.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1071,17 +1035,15 @@
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <non_conn_reading>
-      <example id="1">আজ সবার জন্যই ভাল মিষ্টি আনতে হবে, বিশেষত আমার ভাইয়ের জন্য|</example>
-      <english_example_equivalent id="1">We need to bring sweets for everyone, especially for my brother.</english_example_equivalent>
+      <example>আজ সবার জন্যই ভাল মিষ্টি আনতে হবে, বিশেষত আমার ভাইয়ের জন্য|</example>
+      <english_example_equivalent>We need to bring sweets for everyone, especially for my brother.</english_example_equivalent>
     </non_conn_reading>
     <syn>
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Expansion:Specification"/>
-        <example id="1">গতকাল উত্তরবঙ্গে বৃষ্টি হয়েছে|</example>
-        <english_example_equivalent id="1">It rained in North Bengal yesterday.</english_example_equivalent>
-        <example id="2">বিশেষত, কোচবিহারে ভারী বর্ষণ হয়েছে|</example>
-        <english_example_equivalent id="2">In particular, it rained heavily in Cochbihar</english_example_equivalent>
+        <example>গতকাল উত্তরবঙ্গে বৃষ্টি হয়েছে| বিশেষত, কোচবিহারে ভারী বর্ষণ হয়েছে|</example>
+        <english_equivalent>It rained in North Bengal yesterday. In particular, it rained heavily in Cochbihar.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1097,15 +1059,15 @@
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <non_conn_reading>
-      <example id="1">তোমার অসুখের ব্যাপারটা না হয় সবাই জানল|</example>
-      <english_example_equivalent id="1">It's fine if everybody gets to know aboout your illness</english_example_equivalent>
+      <example>তোমার অসুখের ব্যাপারটা না হয় সবাই জানল|</example>
+      <english_example_equivalent>It's fine if everybody gets to know aboout your illness</english_example_equivalent>
     </non_conn_reading>
     <syn>
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Comparison:Concession:Contra-expectation"/>
-        <example id="1">পাত্র হিসেবে সে ভালো; না হয় বয়সটা বেশি|</example>
-        <english_example_equivalent id="1">As a groom he is good, although he is a bit aged.</english_example_equivalent>
+        <example>পাত্র হিসেবে সে ভালো; না হয় বয়সটা বেশি|</example>
+        <english_equivalent>As a groom he is good, although he is a bit aged.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1121,17 +1083,15 @@
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <non_conn_reading>
-      <example id="1">আমাদের মধ্যে একজনও আজ স্কুলে যাবে না|</example>
-      <english_example_equivalent id="1">None of us will go to school today.</english_example_equivalent>
+      <example>আমাদের মধ্যে একজনও আজ স্কুলে যাবে না|</example>
+      <english_example_equivalent>None of us will go to school today.</english_example_equivalent>
     </non_conn_reading>
     <syn>
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Temporal:Synchronous"/>
-        <example id="1">আমি দুই দিন বাড়ি ছিলাম না|</example>
-        <english_example_equivalent id="1">I was not home for two days.</english_example_equivalent>
-        <example id="2">তার মধ্যে এই ভয়ঙ্কর ঘটনাটা ঘটে গেল|</example>
-        <english_example_equivalent id="2">In the meantime, this horrible incident happened.</english_example_equivalent>
+        <example>আমি দুই দিন বাড়ি ছিলাম না| তার মধ্যে এই ভয়ঙ্কর ঘটনাটা ঘটে গেল|</example>
+        <english_equivalent>I was not home for two days. In the meantime, this horrible incident happened.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1151,10 +1111,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Contigency:Cause:Result"/>
-        <example id="1">কাল রাতে প্রবল বৃষ্টিপাত হযেছিল|</example>
-        <english_example_equivalent id="1">It rained heavily last night.</english_example_equivalent>
-        <example id="2">এর ফলে শহরের পরিবহনব্যবস্থা ভীষণভাবে বিপর্যস্ত হয়ে পড়ে|</example>
-        <english_example_equivalent id="2">As a result, the transportation system of the city was distupted greatly</english_example_equivalent>
+        <example>কাল রাতে প্রবল বৃষ্টিপাত হযেছিল| এর ফলে শহরের পরিবহনব্যবস্থা ভীষণভাবে বিপর্যস্ত হয়ে পড়ে|</example>
+        <english_equivalent>It rained heavily last night. As a result, the transportation system of the city was distupted greatly.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1174,8 +1132,8 @@
       <cat>Postposition/adverb</cat>
       <sem>
         <pdtb3_relation sense="Contigency:Cause:Result"/>
-        <example id="1">বাজারে পেট্রোলিয়ামজাত দ্রব্যের দাম বেড়ে যাওয়ার ফলে রান্নার গাসেরও দাম বেড়েছে|</example>
-        <english_example_equivalent id="1">Because the price of the petrolium products have gone up in the market, the price of cooking gas has also increased.</english_example_equivalent>
+        <example>বাজারে পেট্রোলিয়ামজাত দ্রব্যের দাম বেড়ে যাওয়ার ফলে রান্নার গাসেরও দাম বেড়েছে|</example>
+        <english_equivalent>Because the price of the petrolium products have gone up in the market, the price of cooking gas has also increased.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1195,10 +1153,8 @@
       <cat>adverb</cat>
       <sem>
         <pdtb3_relation sense="Comparison:Concession:Contra-expectation"/>
-        <example id="1">বার্সেলোনা ১০ জনে খেলল|</example>
-        <english_example_equivalent id="1">Barcelona played with ten players.</english_example_equivalent>
-        <example id="2">অথচ তারা ম্যাচটা জিতে গেল|</example>
-        <english_example_equivalent id="2">Yet they won the match.</english_example_equivalent>
+        <example>বার্সেলোনা ১০ জনে খেলল| অথচ তারা ম্যাচটা জিতে গেল|</example>
+        <english_equivalent>Barcelona played with ten players. Yet they won the match.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1218,10 +1174,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Exapansion:Conjunction"/>
-        <example id="1">অনিমেষ ভালো চাকরি করে|</example>
-        <english_example_equivalent id="1">Animesh has a good job.</english_example_equivalent>
-        <example id="2">অধিকন্তু তার পৈত্রিক সম্পত্তিও আছে|</example>
-        <english_example_equivalent id="2">In addition, he also has paternal properties</english_example_equivalent>
+        <example>অনিমেষ ভালো চাকরি করে| অধিকন্তু তার পৈত্রিক সম্পত্তিও আছে|</example>
+        <english_equivalent>Animesh has a good job. In addition, he also has paternal properties.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1241,10 +1195,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Exapansion:Equivalence"/>
-        <example id="1">আমি কাল রাত আটটায় শুয়ে পরি আর উঠি আজ সকাল আটটায়|</example>
-        <english_example_equivalent id="1">I went to bed last night at 8 and woke up today morning at 8.</english_example_equivalent>
-        <example id="2">অন্য কথায় আমি মোট বারো ঘন্টা ঘুমিয়েছি|</example>
-        <english_example_equivalent id="2">In other words, I have slept for twelve hours in total.</english_example_equivalent>
+        <example>আমি কাল রাত আটটায় শুয়ে পরি আর উঠি আজ সকাল আটটায়| অন্য কথায় আমি মোট বারো ঘন্টা ঘুমিয়েছি|</example>
+        <english_equivalent>I went to bed last night at 8 and woke up today morning at 8. In other words, I have slept for twelve hours in total.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1264,10 +1216,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Contingency:Negative-condition"/>
-        <example id="1">তুমি আমাকে টাকা দাও|</example>
-        <english_example_equivalent id="1">Give me the money.</english_example_equivalent>
-        <example id="2">অন্যথায়, আমি কোনো কাজ করব না|</example>
-        <english_example_equivalent id="2">Otherwise, I won't do any work.</english_example_equivalent>
+        <example>তুমি আমাকে টাকা দাও| অন্যথায়, আমি কোনো কাজ করব না|</example>
+        <english_equivalent>Give me the money. Otherwise, I won't do any work.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1287,10 +1237,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Temporal:Asynchronous:Succession"/>
-        <example id="1">লোকটা নদীতে ঝাপ দিল|</example>
-        <english_example_equivalent id="1">The man jumped into the river.</english_example_equivalent>
-        <example id="2">অমনি সবাই চিৎকার করে উঠল|</example>
-        <english_example_equivalent id="2">Immediately, everyone started shouting.</english_example_equivalent>
+        <example>লোকটা নদীতে ঝাপ দিল| অমনি সবাই চিৎকার করে উঠল|</example>
+        <english_equivalent>The man jumped into the river. Immediately, everyone started shouting.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1306,17 +1254,15 @@
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <non_conn_reading>
-      <example id="1">গ্রামের লোক তাদের সমস্যা অল্প কথায় মন্ত্রীকে জানাল|</example>
-      <english_example_equivalent id="1">The villagers briefly informed their problem to the minister.</english_example_equivalent>
+      <example>গ্রামের লোক তাদের সমস্যা অল্প কথায় মন্ত্রীকে জানাল|</example>
+      <english_example_equivalent>The villagers briefly informed their problem to the minister.</english_example_equivalent>
     </non_conn_reading>
     <syn>
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Expansion:Specification:Summarization"/>
-        <example id="1">টেনিস, ব্যাডমিন্টন বা উইন্ডসার্ফিং খেলার চেষ্টা করো|</example>
-        <english_example_equivalent id="1">Try to play tennis, badminton or windsurfing.</english_example_equivalent>
-        <example id="2">অল্প কথায়, চ্যালেঞ্জিং কিছু খেলার চেষ্টা করো|</example>
-        <english_example_equivalent id="2">In short, try to play something that is challenging.</english_example_equivalent>
+        <example>টেনিস, ব্যাডমিন্টন বা উইন্ডসার্ফিং খেলার চেষ্টা করো| অল্প কথায়, চ্যালেঞ্জিং কিছু খেলার চেষ্টা করো|</example>
+        <english_equivalent>Try to play tennis, badminton or windsurfing. In short, try to play something that is challenging.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1332,15 +1278,15 @@
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <non_conn_reading>
-      <example id="1">রাম আর আসবে না|</example>
-      <english_example_equivalent id="1">Ram will not come again.</english_example_equivalent>
+      <example>রাম আর আসবে না|</example>
+      <english_example_equivalent>Ram will not come again.</english_example_equivalent>
     </non_conn_reading>
     <syn>
       <cat>Conjunction</cat>
       <sem>
         <pdtb3_relation sense="Expansion:Conjunction"/>
-        <example id="1">রাম ঘুমিয়ে পড়ল আর নাক ডাকতে শুরু করল|</example>
-        <english_example_equivalent id="1">Ram fell in sleep and started snoring.</english_example_equivalent>
+        <example>রাম ঘুমিয়ে পড়ল আর নাক ডাকতে শুরু করল|</example>
+        <english_equivalent>Ram fell in sleep and started snoring.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1360,10 +1306,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Expansion:Conjunction"/>
-        <example id="1">যদু কাজটা শেষ করল না|</example>
-        <english_example_equivalent id="1">Jodu did not complete the task.</english_example_equivalent>
-        <example id="2">উপরন্তু, আমাকে জানালও না|</example>
-        <english_example_equivalent id="2">Moreover, he did not even inform me.</english_example_equivalent>
+        <example>যদু কাজটা শেষ করল না| উপরন্তু, আমাকে জানালও না|</example>
+        <english_equivalent>Jodu did not complete the task. Moreover, he did not even inform me.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1383,8 +1327,8 @@
       <cat>Conjunction</cat>
       <sem>
         <pdtb3_relation sense="Comparison:Concession:Contra-expectation"/>
-        <example id="1">এমনকি যখন অফিস বন্ধ থাকে,  রঞ্জিত তখনো কোথাও ঘুরতে যায় না|</example>
-        <english_example_equivalent id="1">Even when the office remains closed, Ranjit does not go out  for traveling.</english_example_equivalent>
+        <example>এমনকি যখন অফিস বন্ধ থাকে,  রঞ্জিত তখনো কোথাও ঘুরতে যায় না|</example>
+        <english_equivalent>Even when the office remains closed, Ranjit does not go out  for traveling.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1404,8 +1348,8 @@
       <cat>Conjunction</cat>
       <sem>
         <pdtb3_relation sense="Comparison:Concession:Contra-expectation"/>
-        <example id="1">এমনকি যদি আজ নেইমার নাও খেলে, (তবুও) ব্রাজিল জিতবে|</example>
-        <english_example_equivalent id="1">Even if Neymar does not play today, Brazil still will win.</english_example_equivalent>
+        <example>এমনকি যদি আজ নেইমার নাও খেলে, (তবুও) ব্রাজিল জিতবে|</example>
+        <english_equivalent>Even if Neymar does not play today, Brazil still will win.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1425,10 +1369,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Contingency:Cause:Result"/>
-        <example id="1">আমি তোমার কাছ থেকে কোনো টাকা নিই নি|</example>
-        <english_example_equivalent id="1">I did not borrow any money from you.</english_example_equivalent>
-        <example id="2">কাজেই ফেরত দেবার কোনো প্রশ্ন নেই|</example>
-        <english_example_equivalent id="2">Therefore, there is no question of returning it.</english_example_equivalent>
+        <example>আমি তোমার কাছ থেকে কোনো টাকা নিই নি| কাজেই ফেরত দেবার কোনো প্রশ্ন নেই|</example>
+        <english_equivalent>I did not borrow any money from you. Therefore, there is no question of returning it.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1448,8 +1390,8 @@
       <cat>Conjunction</cat>
       <sem>
         <pdtb3_relation sense="Contingency:Cause:Reason"/>
-        <example id="1">ভারতবর্ষের বিভিন্ন রাজ্যে এবছর খরা হয়েছে কারণ গত তিন মাসে কোথাও বিশেষ বৃষ্টি হয় নি|</example>
-        <english_example_equivalent id="1">There have been droughts in many states of India this year because it did not rain much anywhere in the last three months.</english_example_equivalent>
+        <example>ভারতবর্ষের বিভিন্ন রাজ্যে এবছর খরা হয়েছে কারণ গত তিন মাসে কোথাও বিশেষ বৃষ্টি হয় নি|</example>
+        <english_equivalent>There have been droughts in many states of India this year because it did not rain much anywhere in the last three months.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1465,15 +1407,15 @@
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <non_conn_reading>
-      <example id="1">নেইমার কিংবা কুটিনহোকে আজ গোল করতে হবে|</example>
-      <english_example_equivalent id="1">Neymar or Coutinho will have to score today.</english_example_equivalent>
+      <example>নেইমার কিংবা কুটিনহোকে আজ গোল করতে হবে|</example>
+      <english_example_equivalent>Neymar or Coutinho will have to score today.</english_example_equivalent>
     </non_conn_reading>
     <syn>
       <cat>Conjunction</cat>
       <sem>
         <pdtb3_relation sense="Expansion:Disjunction"/>
-        <example id="1">ব্রাজিলকে সার্বিয়ার বিরুদ্ধে জিততে হবে কিংবা সার্বিয়ার সাথে ম্যাচটা ড্র করতে হবে|</example>
-        <english_example_equivalent id="1">Brazil has to win against Serbia or they have to draw the match with Serbia.</english_example_equivalent>
+        <example>ব্রাজিলকে সার্বিয়ার বিরুদ্ধে জিততে হবে কিংবা সার্বিয়ার সাথে ম্যাচটা ড্র করতে হবে|</example>
+        <english_equivalent>Brazil has to win against Serbia or they have to draw the match with Serbia.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1493,10 +1435,8 @@
       <cat>Conjunction</cat>
       <sem>
         <pdtb3_relation sense="Contingency:Cause-belief:Reason"/>
-        <example id="1">কলকাতার রাস্তায় টেলিফোন বুথ আর দেখা যায় না|</example>
-        <english_example_equivalent id="1">Telephone booths are not seen on the streets of Kolkata anymore since more or less everyone uses mobile phones these days.</english_example_equivalent>
-        <example id="2">কেননা কম বেশি সবাই এখন মোবাইল ব্যবহার করে|</example>
-        <english_example_equivalent id="2">NO EXAMPLE PROVIDED</english_example_equivalent>
+        <example>কলকাতার রাস্তায় টেলিফোন বুথ আর দেখা যায় না| কেননা কম বেশি সবাই এখন মোবাইল ব্যবহার করে|</example>
+        <english_equivalent>Telephone booths are not seen on the streets of Kolkata anymore since more or less everyone uses mobile phones these days.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1512,15 +1452,15 @@
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <non_conn_reading>
-      <example id="1">বিরাট কোহলির জায়গায় আজ রোহিত শর্মা খেলবে|</example>
-      <english_example_equivalent id="1">Rohit Sharma will play today in place of Virat Kohli.</english_example_equivalent>
+      <example>বিরাট কোহলির জায়গায় আজ রোহিত শর্মা খেলবে|</example>
+      <english_example_equivalent>Rohit Sharma will play today in place of Virat Kohli.</english_example_equivalent>
     </non_conn_reading>
     <syn>
       <cat>Postposition</cat>
       <sem>
         <pdtb3_relation sense="Comparison:Contrast"/>
-        <example id="1">আমি শত্রু বানানোর জায়গায় বন্ধু বানানোর চেষ্টা করব|</example>
-        <english_example_equivalent id="1">Instead of making enemies, I will try to make friends.</english_example_equivalent>
+        <example>আমি শত্রু বানানোর জায়গায় বন্ধু বানানোর চেষ্টা করব|</example>
+        <english_equivalent>Instead of making enemies, I will try to make friends.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1540,8 +1480,8 @@
       <cat>Conjunction</cat>
       <sem>
         <pdtb3_relation sense="Temporal:Synchronous"/>
-        <example id="1">যখন চুরি হয়, তখন ব্যাঙ্কে কেউ পাহারায় ছিল না|</example>
-        <english_example_equivalent id="1">When the theft took place, nobody was on vigilance in the bank.</english_example_equivalent>
+        <example>যখন চুরি হয়, তখন ব্যাঙ্কে কেউ পাহারায় ছিল না|</example>
+        <english_equivalent>When the theft took place, nobody was on vigilance in the bank.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1561,8 +1501,8 @@
       <cat>Conjunction</cat>
       <sem>
         <pdtb3_relation sense="Temporal:Synchronous"/>
-        <example id="1">যখনই আমি তাকে দেখি, (তখনই) আমার মনটা খুশীতে ভরে ওঠে|</example>
-        <english_example_equivalent id="1">Whenever I see him, my heart gets filled with happiness.</english_example_equivalent>
+        <example>যখনই আমি তাকে দেখি, (তখনই) আমার মনটা খুশীতে ভরে ওঠে|</example>
+        <english_equivalent>Whenever I see him, my heart gets filled with happiness.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1585,8 +1525,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Contingency:Purpose"/>
-        <example id="1">দিলীপ দুপুরে ভালো করে ঘুমিয়ে নিল যাতে রাত জেগে ভালো করে খেলা দেখতে পারে|</example>
-        <english_example_equivalent id="1">Dilip slept well in the afternoon, so that he could stay awake to watch the match at night.</english_example_equivalent>
+        <example>দিলীপ দুপুরে ভালো করে ঘুমিয়ে নিল যাতে রাত জেগে ভালো করে খেলা দেখতে পারে|</example>
+        <english_equivalent>Dilip slept well in the afternoon, so that he could stay awake to watch the match at night.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1606,8 +1546,8 @@
       <cat>Conjunction</cat>
       <sem>
         <pdtb3_relation sense="Temporal:Synchronous"/>
-        <example id="1">যে মুহূর্তে জাদুকর পাথরটাকে স্পর্শ করলেন, সেটি সোনায় রুপান্তরিত হয়ে গেল|</example>
-        <english_example_equivalent id="1">The moment the wizard touched the stone, it turned into gold.</english_example_equivalent>
+        <example>যে মুহূর্তে জাদুকর পাথরটাকে স্পর্শ করলেন, সেটি সোনায় রুপান্তরিত হয়ে গেল|</example>
+        <english_equivalent>The moment the wizard touched the stone, it turned into gold.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1627,8 +1567,8 @@
       <cat>Conjunction</cat>
       <sem>
         <pdtb3_relation sense="Temporal:Synchronous"/>
-        <example id="1">যেইমাত্র তিনি ঘরে ঢুকলেন, সব অন্ধকার হয়ে গেল|</example>
-        <english_example_equivalent id="1">As soon as he entered the room, everything became dark.</english_example_equivalent>
+        <example>যেইমাত্র তিনি ঘরে ঢুকলেন, সব অন্ধকার হয়ে গেল|</example>
+        <english_equivalent>As soon as he entered the room, everything became dark.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1648,8 +1588,8 @@
       <cat>Conjunction</cat>
       <sem>
         <pdtb3_relation sense="Contingency:Condition"/>
-        <example id="1">যতক্ষণ তুমি আমার সঙ্গে আছো, (ততক্ষণ) আমার কোনো চিন্তা নেই|</example>
-        <english_example_equivalent id="1">As long as you are with me, I have nothing to worry about.</english_example_equivalent>
+        <example>যতক্ষণ তুমি আমার সঙ্গে আছো, (ততক্ষণ) আমার কোনো চিন্তা নেই|</example>
+        <english_equivalent>As long as you are with me, I have nothing to worry about.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1669,8 +1609,8 @@
       <cat>Conjunction</cat>
       <sem>
         <pdtb3_relation sense="Contingency:Negative-condition"/>
-        <example id="1">যতক্ষণ না উনি আমার সাথে দেখা করছেন, আমি এখানেই থাকব|</example>
-        <english_example_equivalent id="1">Until he meets me, I'll stay here.</english_example_equivalent>
+        <example>যতক্ষণ না উনি আমার সাথে দেখা করছেন, আমি এখানেই থাকব|</example>
+        <english_equivalent>Until he meets me, I'll stay here.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1686,15 +1626,15 @@
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <non_conn_reading>
-      <example id="1">আমি ভাবছিলাম যদি একবার সন্ধেবেলা ডাক্তারের কাছে যেতে পারি|</example>
-      <english_example_equivalent id="1">I was wondering if I could go to the doctor in the evening.</english_example_equivalent>
+      <example>আমি ভাবছিলাম যদি একবার সন্ধেবেলা ডাক্তারের কাছে যেতে পারি|</example>
+      <english_example_equivalent>I was wondering if I could go to the doctor in the evening.</english_example_equivalent>
     </non_conn_reading>
     <syn>
       <cat>Conjunction</cat>
       <sem>
         <pdtb3_relation sense="Contingency:Condition"/>
-        <example id="1">যদি আজ বৃষ্টি হয়, (তবে) আমরা বাইরে খেলতে যাব না|</example>
-        <english_example_equivalent id="1">If it rains today, (then) we will not go outside to play.</english_example_equivalent>
+        <example>যদি আজ বৃষ্টি হয়, (তবে) আমরা বাইরে খেলতে যাব না|</example>
+        <english_equivalent>If it rains today, (then) we will not go outside to play.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1710,26 +1650,20 @@
       <sem_ambiguity>1</sem_ambiguity>
     </ambiguity>
     <non_conn_reading>
-      <example id="1">বিকেল চারটে নাগাদ একবার বাড়িতে এসো|</example>
-      <english_example_equivalent id="1">Come to my home at arournd 4 O'clock.</english_example_equivalent>
-      <example id="2">তখন বিষয়টা নিয়ে আলোচনা করা যাবে|</example>
-      <english_example_equivalent id="2">Then, we can discuss the issue.</english_example_equivalent>
+      <example>বিকেল চারটে নাগাদ একবার বাড়িতে এসো| তখন বিষয়টা নিয়ে আলোচনা করা যাবে|</example>
+      <english_example_equivalent>Come to my home at arournd 4 O'clock. Then, we can discuss the issue.</english_example_equivalent>
     </non_conn_reading>
     <syn>
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Temporal:Asynchronous:Succession"/>
-        <example id="1">এভাবে খরচ করতে করতে তুমি একদিন সর্বসান্ত হবে|</example>
-        <english_example_equivalent id="1">By spending on things in such a way, you will go bankrupt one day.</english_example_equivalent>
-        <example id="2">তখন তুমি বুঝবে টাকার আসল মূল্য|</example>
-        <english_example_equivalent id="2">Then, you will realize the real worth of money</english_example_equivalent>
-        <example>মেগাস্থিনিস খ্রিস্টপূর্ব চতুর্থ শতকে ভারতবর্ষে আসেন|</example>
-        <english_equivalent>Megasthenes visited India in the fourth century BC.</english_equivalent>
-        <example>তখন সম্রাট ছিলেন চন্দ্রগুপ্ত মৌর্য|</example>
-        <english_equivalent>Then, the emperor was Chandragupta Mourya</english_equivalent>
+		<example>এভাবে খরচ করতে করতে তুমি একদিন সর্বসান্ত হবে। তখন তুমি বুঝবে টাকার আসল মূল্য।</example>
+		<english_equivalent>By spending on things in such a way, you will go bankrupt one day. Then, you will realize the real worth of money.</english_equivalent>
       </sem>
       <sem>
         <pdtb3_relation sense="Temporal:Synchronous"/>
+		<example>মেগাস্থিনিস খ্রিস্টপূর্ব চতুর্থ শতকে ভারতবর্ষে আসেন| তখন সম্রাট ছিলেন চন্দ্রগুপ্ত মৌর্য|</example>
+        <english_equivalent>Megasthenes visited India in the fourth century BC. Then, the emperor was Chandragupta Mourya.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1749,10 +1683,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Comparison:Concession:Contra-expectation"/>
-        <example id="1">তাকে অনেকবার ডাকলাম|</example>
-        <english_example_equivalent id="1">I called him multiple times.</english_example_equivalent>
-        <example id="2">তথাপি সে এল না|</example>
-        <english_example_equivalent id="2">Still, he didn't come</english_example_equivalent>
+        <example>তাকে অনেকবার ডাকলাম| তথাপি সে এল না|</example>
+        <english_equivalent>I called him multiple times.  Still, he didn't come.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1772,10 +1704,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Temporal:Synchronous"/>
-        <example id="1">সেই ভয়ংকর ঘটনাটা তার চোখের সামনে আবার ভেসে উঠল|</example>
-        <english_example_equivalent id="1">The horrific incident flashed before his eyes again.</english_example_equivalent>
-        <example id="2">তৎক্ষণাৎ সে অজ্ঞান হয়ে গেল|</example>
-        <english_example_equivalent id="2">Immediately, he became unconscious.</english_example_equivalent>
+        <example>সেই ভয়ংকর ঘটনাটা তার চোখের সামনে আবার ভেসে উঠল| তৎক্ষণাৎ সে অজ্ঞান হয়ে গেল|</example>
+        <english_equivalent>The horrific incident flashed before his eyes again. Immediately, he became unconscious.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1795,8 +1725,8 @@
       <cat>Postposition</cat>
       <sem>
         <pdtb3_relation sense="Contingency:Cause:Result"/>
-        <example id="1">চাহিদামত সরবরাহ না থাকায় বাজারে সম্প্রতি ইলিশমাছের দাম বেড়ে গেছে|</example>
-        <english_example_equivalent id="1">Recently, the price of Hilsa fish has gone up in the market since there has been an inadequate supply according to the demand.</english_example_equivalent>
+        <example>চাহিদামত সরবরাহ না থাকায় বাজারে সম্প্রতি ইলিশমাছের দাম বেড়ে গেছে|</example>
+        <english_equivalent>Recently, the price of Hilsa fish has gone up in the market since there has been an inadequate supply according to the demand.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1816,10 +1746,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Expansion:Instantiation"/>
-        <example id="1">নিত্যপ্রয়োজনীয় জিনিসপত্রের দাম অস্বাভাবিক হারে বৃদ্ধি পেয়েছে|</example>
-        <english_example_equivalent id="1">The prices of essential commodities have increased exorbitantly.</english_example_equivalent>
-        <example id="2">দৃষ্টান্তস্বরূপ, নুন বা ডালের কথা বলা যেতে পারে|</example>
-        <english_example_equivalent id="2">For example, one can talk about the prices of salt or lentils.</english_example_equivalent>
+        <example>নিত্যপ্রয়োজনীয় জিনিসপত্রের দাম অস্বাভাবিক হারে বৃদ্ধি পেয়েছে| দৃষ্টান্তস্বরূপ, নুন বা ডালের কথা বলা যেতে পারে|</example>
+        <english_equivalent>The prices of essential commodities have increased exorbitantly. For example, one can talk about the prices of salt or lentils.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1839,10 +1767,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Contingency:Negative-condition"/>
-        <example id="1">মুক্তিপণের টাকা দাও|</example>
-        <english_example_equivalent id="1">Give me the ransom money.</english_example_equivalent>
-        <example id="2">নচেৎ তোমার মৃত্যু নিশ্চিত|</example>
-        <english_example_equivalent id="2">Else, your death is certain.</english_example_equivalent>
+        <example>মুক্তিপণের টাকা দাও| নচেৎ তোমার মৃত্যু নিশ্চিত|</example>
+        <english_equivalent>Give me the ransom money.  Else, your death is certain.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1862,10 +1788,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Contingency:Negative-condition"/>
-        <example id="1">তুমি ওকে পড়তে দাও|</example>
-        <english_example_equivalent id="1">Let him study.</english_example_equivalent>
-        <example id="2">নইলে ও পরীক্ষায় পাশ করবে না|</example>
-        <english_example_equivalent id="2">Otherwise, he won't pass the exam.</english_example_equivalent>
+        <example>তুমি ওকে পড়তে দাও| নইলে ও পরীক্ষায় পাশ করবে না|</example>
+        <english_equivalent>Let him study. Otherwise, he won't pass the exam.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1885,10 +1809,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Contingency:Negative-condition"/>
-        <example id="1">আমার কাছে টাকা নেই|</example>
-        <english_example_equivalent id="1">I do not have any money.</english_example_equivalent>
-        <example id="2">নয়ত তোমায় দিতাম|</example>
-        <english_example_equivalent id="2">Otherwise, I would have given you.</english_example_equivalent>
+        <example>আমার কাছে টাকা নেই| নয়ত তোমায় দিতাম|</example>
+        <english_equivalent>I do not have any money. Otherwise, I would have given you.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1908,10 +1830,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Contingency:Negative Condition"/>
-        <example id="1">তাকে ডাক্তার দেখাতে হবে|</example>
-        <english_example_equivalent id="1">She needs to see the doctor.</english_example_equivalent>
-        <example id="2">নতুবা তার স্বাস্থের আরো অবনতি হবে|</example>
-        <english_example_equivalent id="2">Otherwise, her health will detoriate.</english_example_equivalent>
+        <example>তাকে ডাক্তার দেখাতে হবে| নতুবা তার স্বাস্থের আরো অবনতি হবে|</example>
+        <english_equivalent>She needs to see the doctor. Otherwise, her health will detoriate.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1931,10 +1851,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Comparison:Contrast"/>
-        <example id="1">কুরুক্ষেত্রের যুদ্ধে শ্রীকৃষ্ণ দুর্যোধনকে দশহাজার নারায়নী সেনা প্রদান করেন|</example>
-        <english_example_equivalent id="1">In the battle of Kuruksketra, Srikrishna provided Duryodhan with ten thousdand Narayani soldiers.</english_example_equivalent>
-        <example id="2">পক্ষান্তরে অর্জুন কেবল শ্রীকৃষ্ণকে পাশে পেয়েই ধন্য থাকেন|</example>
-        <english_example_equivalent id="2">On the contrary, Arjun was  happy by only having Srikrishna by his side.</english_example_equivalent>
+        <example>কুরুক্ষেত্রের যুদ্ধে শ্রীকৃষ্ণ দুর্যোধনকে দশহাজার নারায়নী সেনা প্রদান করেন| পক্ষান্তরে অর্জুন কেবল শ্রীকৃষ্ণকে পাশে পেয়েই ধন্য থাকেন|</example>
+        <english_equivalent>In the battle of Kuruksketra, Srikrishna provided Duryodhan with ten thousdand Narayani soldiers. On the contrary, Arjun was  happy by only having Srikrishna by his side.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1950,17 +1868,15 @@
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <non_conn_reading>
-      <example id="1">রাম প্রকৃতপক্ষে ভাল ছেলে|</example>
-      <english_example_equivalent id="1">Ram is really a good boy.</english_example_equivalent>
+      <example>রাম প্রকৃতপক্ষে ভাল ছেলে|</example>
+      <english_example_equivalent>Ram is really a good boy.</english_example_equivalent>
     </non_conn_reading>
     <syn>
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Expansion:Specification"/>
-        <example id="1">শেখ মুজিবুর রহমান ১৯৭১ সালে বাংলাদেশের স্বাধীনতার পক্ষে ভাষণ দিয়েছিলেন|</example>
-        <english_example_equivalent id="1">Sheikh Mujibur Rahman gave a speech in support of Bangladesh's independence in 1971.</english_example_equivalent>
-        <example id="2">প্রকৃতপক্ষে সেটিই ছিল বাংলাদেশের স্বাধীনতার ঘোষণা|</example>
-        <english_example_equivalent id="2">In fact, that was the declaration of Bangladesh's independence.</english_example_equivalent>
+        <example>শেখ মুজিবুর রহমান ১৯৭১ সালে বাংলাদেশের স্বাধীনতার পক্ষে ভাষণ দিয়েছিলেন| প্রকৃতপক্ষে সেটিই ছিল বাংলাদেশের স্বাধীনতার ঘোষণা|</example>
+        <english_equivalent>Sheikh Mujibur Rahman gave a speech in support of Bangladesh's independence in 1971. In fact, that was the declaration of Bangladesh's independence.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -1980,10 +1896,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Contingency:Cause:Result"/>
-        <example id="1">অন্যায়ের বিরুদ্ধে সে লড়াই করেছিল|</example>
-        <english_example_equivalent id="1">He fought against injustice.</english_example_equivalent>
-        <example id="2">পরিণামে তাকে সব খোয়াতে হয়েছিল|</example>
-        <english_example_equivalent id="2">In consequence, he had to lose everything.</english_example_equivalent>
+        <example>অন্যায়ের বিরুদ্ধে সে লড়াই করেছিল| পরিণামে তাকে সব খোয়াতে হয়েছিল|</example>
+        <english_equivalent>He fought against injustice. In consequence, he had to lose everything.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -2003,10 +1917,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Expansion:Conjunction"/>
-        <example id="1">রমেশবাবু একজন ধনী ব্যক্তি|</example>
-        <english_example_equivalent id="1">Rameshbabu is a rich man.</english_example_equivalent>
-        <example id="2">উপরন্তু এই এলাকায় তার রাজনৈতিক প্রভাবও আছে|</example>
-        <english_example_equivalent id="2">Moreover, he also has political influence in this area.</english_example_equivalent>
+        <example>রমেশবাবু একজন ধনী ব্যক্তি| উপরন্তু এই এলাকায় তার রাজনৈতিক প্রভাবও আছে|</example>
+        <english_equivalent>Rameshbabu is a rich man. Moreover, he also has political influence in this area.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -2022,17 +1934,15 @@
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <non_conn_reading>
-      <example id="1">মোগলদের পূর্বে ভারতবর্ষে লোদিবংশের রাজত্ব ছিল|</example>
-      <english_example_equivalent id="1">Before Mughals, the Lodi dynasty used to rule India.</english_example_equivalent>
+      <example>মোগলদের পূর্বে ভারতবর্ষে লোদিবংশের রাজত্ব ছিল|</example>
+      <english_example_equivalent>Before Mughals, the Lodi dynasty used to rule India.</english_example_equivalent>
     </non_conn_reading>
     <syn>
       <cat>Adverb/postposition</cat>
       <sem>
         <pdtb3_relation sense="Temporal:Asynchronous:Precendence"/>
-        <example id="1">রাজা দর্পনারায়ান রায় এই গ্রাম পত্তন করেন|</example>
-        <english_example_equivalent id="1">Raja Darpanarayan Roy founded this village.</english_example_equivalent>
-        <example id="2">পূর্বে এই এলাকায় জঙ্গল ছিল|</example>
-        <english_example_equivalent id="2">Previously, this area used to be a forest.</english_example_equivalent>
+        <example>রাজা দর্পনারায়ান রায় এই গ্রাম পত্তন করেন| পূর্বে এই এলাকায় জঙ্গল ছিল|</example>
+        <english_equivalent>Raja Darpanarayan Roy founded this village. Previously, this area used to be a forest.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -2052,10 +1962,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Temporal:Asynchronous:Precedence"/>
-        <example id="1">১৯৭৭ সালে পশ্চিমবঙ্গে যুক্তফ্রন্ট ক্ষমতায় আসে|</example>
-        <english_example_equivalent id="1">In 1977, the left front came into power in West Bengal.</english_example_equivalent>
-        <example id="2">এর পূর্বে সেখানে কংগ্রেস ক্ষমতায় ছিল|</example>
-        <english_example_equivalent id="2">Before that, Congress was in power there.</english_example_equivalent>
+        <example>১৯৭৭ সালে পশ্চিমবঙ্গে যুক্তফ্রন্ট ক্ষমতায় আসে| এর পূর্বে সেখানে কংগ্রেস ক্ষমতায় ছিল|</example>
+        <english_equivalent>In 1977, the left front came into power in West Bengal. Before that, Congress was in power there.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -2071,15 +1979,15 @@
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <non_conn_reading>
-      <example id="1">ম্যানেজার বাদে সবাই পিকনিকে গিয়েছিলেন|</example>
-      <english_example_equivalent id="1">Everybody except the manager went to the picnic.</english_example_equivalent>
+      <example>ম্যানেজার বাদে সবাই পিকনিকে গিয়েছিলেন|</example>
+      <english_example_equivalent>Everybody except the manager went to the picnic.</english_example_equivalent>
     </non_conn_reading>
     <syn>
       <cat>Postposition</cat>
       <sem>
         <pdtb3_relation sense="Expansion:Exception"/>
-        <example id="1">মঞ্চে অভিনয় করা বাদে ইকবাল দু-একটি স্বল্প দৈর্ঘের ছবি পরিচালনা করেছেন|</example>
-        <english_example_equivalent id="1">Other than acting on stage, Iqbal has directed one or two short films.</english_example_equivalent>
+        <example>মঞ্চে অভিনয় করা বাদে ইকবাল দু-একটি স্বল্প দৈর্ঘের ছবি পরিচালনা করেছেন|</example>
+        <english_equivalent>Other than acting on stage, Iqbal has directed one or two short films.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -2099,10 +2007,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Expansion:Exception"/>
-        <example id="1">বরুন ঘোষ সরকারি চাকুরে|</example>
-        <english_example_equivalent id="1">Barun Ghosh is a government employee.</english_example_equivalent>
-        <example id="2">এ বাদে, ওঁর কিছু পৈত্রিক সম্পত্তি আছে|</example>
-        <english_example_equivalent id="2">Except this, he has some paternal properties</english_example_equivalent>
+        <example>বরুন ঘোষ সরকারি চাকুরে| এ বাদে, ওঁর কিছু পৈত্রিক সম্পত্তি আছে|</example>
+        <english_equivalent>Barun Ghosh is a government employee. Except this, he has some paternal properties.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -2122,10 +2028,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Contingency:Cause:Result"/>
-        <example id="1">এ বছরে উচ্চমাধ্যমিকের প্রশ্ন সোজা হয়েছে|</example>
-        <english_example_equivalent id="1">The questions in the Higher Secondary Examination this year were easy.</english_example_equivalent>
-        <example id="2">ফলস্বরূপ, চলতি বছরে পাশের হার অনেকটাই বাড়বে|</example>
-        <english_example_equivalent id="2">As a result, the number of students passing the examination will increase greatly.</english_example_equivalent>
+        <example>এ বছরে উচ্চমাধ্যমিকের প্রশ্ন সোজা হয়েছে| ফলস্বরূপ, চলতি বছরে পাশের হার অনেকটাই বাড়বে|</example>
+        <english_equivalent>The questions in the Higher Secondary Examination this year were easy. As a result, the number of students passing the examination will increase greatly.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -2145,10 +2049,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Expansion:Specification"/>
-        <example id="1">বিরাট কোহলি একজন অসাধারণ ক্রিকেটার|</example>
-        <english_example_equivalent id="1">Virat Kohli is an extraordinary cricketer.</english_example_equivalent>
-        <example id="2">বাস্তবিকপক্ষে, তিনিই এখন ভারতীয় ক্রিকেট টিমের সবচেয়ে নির্ভরযোগ্য ব্যাটসম্যান|</example>
-        <english_example_equivalent id="2">As a matter of fact, he is the most dependable batsman in the Indian Cricket Team.</english_example_equivalent>
+        <example>বিরাট কোহলি একজন অসাধারণ ক্রিকেটার| বাস্তবিকপক্ষে, তিনিই এখন ভারতীয় ক্রিকেট টিমের সবচেয়ে নির্ভরযোগ্য ব্যাটসম্যান|</example>
+        <english_equivalent>Virat Kohli is an extraordinary cricketer. As a matter of fact, he is the most dependable batsman in the Indian Cricket Team.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -2164,17 +2066,15 @@
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <non_conn_reading>
-      <example id="1">মহেন্দ্র সিংহ ধোনির বিকল্প হিসাবে দিনেশ কার্তিক আজ খেলবেন|</example>
-      <english_example_equivalent id="1">Dinesh Kartik will play today in place of Mahendra Singha Dhoni.</english_example_equivalent>
+      <example>মহেন্দ্র সিংহ ধোনির বিকল্প হিসাবে দিনেশ কার্তিক আজ খেলবেন|</example>
+      <english_example_equivalent>Dinesh Kartik will play today in place of Mahendra Singha Dhoni.</english_example_equivalent>
     </non_conn_reading>
     <syn>
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Expansion:Specification"/>
-        <example id="1">যাত্রী পরিবহনের সমস্যা মেটাতে রাস্তা চওড়া করা যেতে পারে|</example>
-        <english_example_equivalent id="1">In order to resolve transportation problem, the roads can be widened.</english_example_equivalent>
-        <example id="2">বিকল্প হিসাবে, নতুন রেলপথ তৈরিও করা যেতে পারে|</example>
-        <english_example_equivalent id="2">As an alternative, new rail tracks can also be constructed.</english_example_equivalent>
+        <example>যাত্রী পরিবহনের সমস্যা মেটাতে রাস্তা চওড়া করা যেতে পারে| বিকল্প হিসাবে, নতুন রেলপথ তৈরিও করা যেতে পারে|</example>
+        <english_equivalent>In order to resolve transportation problem, the roads can be widened. As an alternative, new rail tracks can also be constructed.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -2190,15 +2090,15 @@
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <non_conn_reading>
-      <example id="1">তুমি বিনা আমি অসহায়|</example>
-      <english_example_equivalent id="1">I am helpless without you.</english_example_equivalent>
+      <example>তুমি বিনা আমি অসহায়|</example>
+      <english_example_equivalent>I am helpless without you.</english_example_equivalent>
     </non_conn_reading>
     <syn>
       <cat>Postposition</cat>
       <sem>
         <pdtb3_relation sense="Expansion:Exception"/>
-        <example id="1">ওখানে যাওয়া বিনা তোমার আর কোনো উপায় নেই|</example>
-        <english_example_equivalent id="1">Other than  going there, I have no other option.</english_example_equivalent>
+        <example>ওখানে যাওয়া বিনা তোমার আর কোনো উপায় নেই|</example>
+        <english_equivalent>Other than  going there, I have no other option.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -2214,17 +2114,15 @@
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <non_conn_reading>
-      <example id="1">টাকার বিনিময়ে চাকরি আমি পেতে চাই না|</example>
-      <english_example_equivalent id="1">I do not want to have a job in exchange of money.</english_example_equivalent>
+      <example>টাকার বিনিময়ে চাকরি আমি পেতে চাই না|</example>
+      <english_example_equivalent>I do not want to have a job in exchange of money.</english_example_equivalent>
     </non_conn_reading>
     <syn>
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Expansion:Substitution"/>
-        <example id="1">ভগবান, তুমি আমার সমস্ত ঐশ্বর্য নিয়ে নাও|</example>
-        <english_example_equivalent id="1">Dear God, take away my wealth.</english_example_equivalent>
-        <example id="2">বিনিময়ে আমার ছেলেকে ফিরিয়ে দাও|</example>
-        <english_example_equivalent id="2">In return, give me my son back.</english_example_equivalent>
+        <example>ভগবান, তুমি আমার সমস্ত ঐশ্বর্য নিয়ে নাও| বিনিময়ে আমার ছেলেকে ফিরিয়ে দাও|</example>
+        <english_equivalent>Dear God, take away my wealth. In return, give me my son back.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -2240,17 +2138,15 @@
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <non_conn_reading>
-      <example id="1">ফেডেরারের বিপরীতে আজ নাদাল কোর্টে নামবেন|</example>
-      <english_example_equivalent id="1">Nadal will come onto the court against Federer.</english_example_equivalent>
+      <example>ফেডেরারের বিপরীতে আজ নাদাল কোর্টে নামবেন|</example>
+      <english_example_equivalent>Nadal will come onto the court against Federer.</english_example_equivalent>
     </non_conn_reading>
     <syn>
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Expansion:Conjunction"/>
-        <example id="1">মেসি আজ আর্জেন্টিনার প্রধান ভরসা|</example>
-        <english_example_equivalent id="1">Messi is the main hope for Argentina today.</english_example_equivalent>
-        <example id="2">বিপরীতে, পর্তুগাল আজ রোনাল্ডোকে ছাড়াই খেলবে|</example>
-        <english_example_equivalent id="2">On the other hand, Portugal will play without Ronaldo.</english_example_equivalent>
+        <example>মেসি আজ আর্জেন্টিনার প্রধান ভরসা| বিপরীতে, পর্তুগাল আজ রোনাল্ডোকে ছাড়াই খেলবে|</example>
+        <english_equivalent>Messi is the main hope for Argentina today. On the other hand, Portugal will play without Ronaldo.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -2266,17 +2162,15 @@
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <non_conn_reading>
-      <example id="1">এই জামাটার বদলে ওই জামাটা দিন|</example>
-      <english_example_equivalent id="1">Give me that shirt instead of this one.</english_example_equivalent>
+      <example>এই জামাটার বদলে ওই জামাটা দিন|</example>
+      <english_example_equivalent>Give me that shirt instead of this one.</english_example_equivalent>
     </non_conn_reading>
     <syn>
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Expansion:Substitution"/>
-        <example id="1">রাম আজ আসে নি|</example>
-        <english_example_equivalent id="1">Ram didn't come today.</english_example_equivalent>
-        <example id="2">বদলে ও শ্যামকে পাঠিয়েছে|</example>
-        <english_example_equivalent id="2">Instead, he sent Shyam</english_example_equivalent>
+        <example>রাম আজ আসে নি| বদলে ও শ্যামকে পাঠিয়েছে|</example>
+        <english_equivalent>Ram didn't come today. Instead, he sent Shyam.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -2296,10 +2190,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Expansion:Conjunction"/>
-        <example id="1">আমি আবৃত্তি করি|</example>
-        <english_example_equivalent id="1">I recite.</english_example_equivalent>
-        <example id="2">সেইসঙ্গে গীটারও বাজাই|</example>
-        <english_example_equivalent id="2">In addition, I play the guitar also.</english_example_equivalent>
+        <example>আমি আবৃত্তি করি| সেইসঙ্গে গীটারও বাজাই|</example>
+        <english_equivalent>I recite. In addition, I play the guitar also.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -2319,10 +2211,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Expansion:Conjunction"/>
-        <example id="1">আমি আবৃত্তি করি|</example>
-        <english_example_equivalent id="1">I recite.</english_example_equivalent>
-        <example id="2">এরসাথে গীটারও বাজাই|</example>
-        <english_example_equivalent id="2">Along with it, I play the guitar also.</english_example_equivalent>
+        <example>আমি আবৃত্তি করি| এরসাথে গীটারও বাজাই|</example>
+        <english_equivalent>I recite. Along with it, I play the guitar also.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -2345,10 +2235,8 @@
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Temporal:Synchronous"/>
-        <example id="1">আমি বাড়ি থেকে বেরলাম|</example>
-        <english_example_equivalent id="1">I stepped out of home.</english_example_equivalent>
-        <example id="2">সেই সময় বৃষ্টি শুরু হল|</example>
-        <english_example_equivalent id="2">At that time, it started raining.</english_example_equivalent>
+        <example>আমি বাড়ি থেকে বেরলাম| সেই সময় বৃষ্টি শুরু হল|</example>
+        <english_equivalent>I stepped out of home. At that time, it started raining.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -2364,17 +2252,15 @@
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <non_conn_reading>
-      <example id="1">উল্টোদিকে বসে থাকা ভদ্রলোককে আমি চিনি না|</example>
-      <english_example_equivalent id="1">I do not know the gentleman sitting on the opposite side.</english_example_equivalent>
+      <example>উল্টোদিকে বসে থাকা ভদ্রলোককে আমি চিনি না|</example>
+      <english_example_equivalent>I do not know the gentleman sitting on the opposite side.</english_example_equivalent>
     </non_conn_reading>
     <syn>
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Expansion:Conjunction"/>
-        <example id="1">শ্রোতারা এসে গেছে|</example>
-        <english_example_equivalent id="1">The audience has come.</english_example_equivalent>
-        <example id="2">এদিকে বক্তার দেখা নেই|</example>
-        <english_example_equivalent id="2">On this side, the speaker has not shown up yet.</english_example_equivalent>
+        <example>শ্রোতারা এসে গেছে| এদিকে বক্তার দেখা নেই|</example>
+        <english_equivalent>The audience has come. On this side, the speaker has not shown up yet.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -2390,17 +2276,15 @@
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <non_conn_reading>
-      <example id="1">বিতর্কসভায় বিপরীতপক্ষে দুজন সমাজকর্মী আছেন|</example>
-      <english_example_equivalent id="1">There are two social workers in the opponent side of the debate.</english_example_equivalent>
+      <example>বিতর্কসভায় বিপরীতপক্ষে দুজন সমাজকর্মী আছেন|</example>
+      <english_example_equivalent>There are two social workers in the opponent side of the debate.</english_example_equivalent>
     </non_conn_reading>
     <syn>
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Expansion:Conjunction"/>
-        <example id="1">একজন অচেনা মানুষকে অযাচিত ভাবে সাহায্য করার কোন কারণ নেই|</example>
-        <english_example_equivalent id="1">There is no need to offer unsolicited help to someone stranger to you.</english_example_equivalent>
-        <example id="2">বিপরীতপক্ষে, সেই মানুষটি সাহায্য চাইলে তাঁকে সাহায্য না করারও কোনো কারণ নেই|</example>
-        <english_example_equivalent id="2">On the other side, there is also no reason to deny help to that very person seeking your help.</english_example_equivalent>
+        <example>একজন অচেনা মানুষকে অযাচিত ভাবে সাহায্য করার কোন কারণ নেই| বিপরীতপক্ষে, সেই মানুষটি সাহায্য চাইলে তাঁকে সাহায্য না করারও কোনো কারণ নেই|</example>
+        <english_equivalent>There is no need to offer unsolicited help to someone stranger to you. On the other side, there is also no reason to deny help to that very person seeking your help.</english_equivalent>
       </sem>
     </syn>
   </entry>
@@ -2419,17 +2303,15 @@
       <sem_ambiguity>0</sem_ambiguity>
     </ambiguity>
     <non_conn_reading>
-      <example id="1">আমার ওপর রাগ করে লাভ নেই|</example>
-      <english_example_equivalent id="1">There is no point in getting angry on me.</english_example_equivalent>
+      <example>আমার ওপর রাগ করে লাভ নেই|</example>
+      <english_example_equivalent>There is no point in getting angry on me.</english_example_equivalent>
     </non_conn_reading>
     <syn>
       <cat>Adverb</cat>
       <sem>
         <pdtb3_relation sense="Expansion:Conjunction"/>
-        <example id="1">সুবলের মা হাসপাতালে ভর্তি|</example>
-        <english_example_equivalent id="1">Subal's mother is admitted in the hospital.</english_example_equivalent>
-        <example id="2">তার উপর তার ছেলেটাও অসুস্থ|</example>
-        <english_example_equivalent id="2">In addition to it, his son is also sick.</english_example_equivalent>
+        <example>সুবলের মা হাসপাতালে ভর্তি| তার উপর তার ছেলেটাও অসুস্থ|</example>
+        <english_equivalent>Subal's mother is admitted in the hospital. In addition to it, his son is also sick.</english_equivalent>
       </sem>
     </syn>
   </entry>

@@ -20,8 +20,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Temporal:Asynchronous:Precedence</coh-relation>
-        <example>আমি সাতটার সময় বাড়িতে ফিরলাম|</example>
-        <example>তার আগে বাজারে গেছিলাম|</example>
+        <example>আমি সাতটার সময় বাড়িতে ফিরলাম| তার আগে বাজারে গেছিলাম|</example>
       </sem>
     </syn>
   </entry>
@@ -93,8 +92,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Comparison:Concession:Contra-expectation</coh-relation>
-        <example>ছেলেটি অসুস্থ|</example>
-        <example>তা সত্ত্বেও, সে স্কুলে এসেছিল|</example>
+        <example>ছেলেটি অসুস্থ| তা সত্ত্বেও, সে স্কুলে এসেছিল|</example>
       </sem>
     </syn>
   </entry>
@@ -118,8 +116,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Contingency:Cause:Result</coh-relation>
-        <example>তুমি আজ প্রথমবার এখানে এলে|</example>
-        <example>সেইজন্য একটু মিষ্টি এনেছি|</example>
+        <example>তুমি আজ প্রথমবার এখানে এলে| সেইজন্য একটু মিষ্টি এনেছি|</example>
       </sem>
     </syn>
   </entry>
@@ -143,8 +140,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Contingency:Cause:Reason</coh-relation>
-        <example>এখানে গঙ্গা একটি সরু নদীধারার মতো|</example>
-        <example>সেই কারণে আমি সহজেই সেইটি পেরিয়ে যেতে পারলাম|</example>
+        <example>এখানে গঙ্গা একটি সরু নদীধারার মতো| সেই কারণে আমি সহজেই সেইটি পেরিয়ে যেতে পারলাম|</example>
       </sem>
     </syn>
   </entry>
@@ -174,8 +170,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Temporal:Asynchronous:Succession</coh-relation>
-        <example>আমি আগে কাজ শেষ করবো|</example>
-        <example>তারপরে, বাইরে ঘুরতে যাবো|</example>
+        <example>আমি আগে কাজ শেষ করবো| তারপরে, বাইরে ঘুরতে যাবো|</example>
       </sem>
     </syn>
   </entry>
@@ -205,8 +200,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Expansion:Conjunction</coh-relation>
-        <example>এই চাকরি করার জন্য তার যোগ্যতা নেই|</example>
-        <example>তাছাড়া তিনি কম্পিউটারের ব্যবহারই জানেন না|</example>
+        <example>এই চাকরি করার জন্য তার যোগ্যতা নেই| তাছাড়া তিনি কম্পিউটারের ব্যবহারই জানেন না|</example>
       </sem>
     </syn>
   </entry>
@@ -278,8 +272,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Expansion:Specification:Summarization</coh-relation>
-        <example>সে অঙ্কে একশো, ইংরেজিতে আশি এবং বিজ্ঞানে নব্বই পেয়েছে|</example>
-        <example>মোটের উপর, তার পরিক্ষার ফল ভালো হয়েছে|</example>
+        <example>সে অঙ্কে একশো, ইংরেজিতে আশি এবং বিজ্ঞানে নব্বই পেয়েছে| মোটের উপর, তার পরিক্ষার ফল ভালো হয়েছে|</example>
       </sem>
     </syn>
   </entry>
@@ -291,9 +284,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Contingency:Cause-Belief:Result</coh-relation>
-        <example>খুনের সময় রাম শহরে ছিল না|</example>
-        <example>রাম সেই সময় দেশে ছিলনা|</example>
-        <example>অর্থাৎ, সে তখন বিদেশে গেছিল|</example>
+        <example>রাম সেই সময় দেশে ছিলনা| অর্থাৎ, সে তখন বিদেশে গেছিল|</example>
       </sem>
       <sem>
         <coh-relation>Expansion:Equivalence</coh-relation>
@@ -308,8 +299,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Expansion:Instantiation</coh-relation>
-        <example>ভিটামিন সি রঙিন সবজির মধ্যে পাওয়া যায়|</example>
-        <example>উদাহরণস্বরূপ, টমেটোতে প্রচুর ভিটামিন সি আছে|</example>
+        <example>ভিটামিন সি রঙিন সবজির মধ্যে পাওয়া যায়| উদাহরণস্বরূপ, টমেটোতে প্রচুর ভিটামিন সি আছে|</example>
       </sem>
     </syn>
   </entry>
@@ -321,8 +311,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Expansion:Substitution</coh-relation>
-        <example>সলমন খান আজ পুলিশের সামনে হাজিরা দিতে আসেননি|</example>
-        <example>পরিবর্তে, উনি ওঁর উকিলকে পাঠিয়েছেন|</example>
+        <example>সলমন খান আজ পুলিশের সামনে হাজিরা দিতে আসেননি| পরিবর্তে, উনি ওঁর উকিলকে পাঠিয়েছেন|</example>
       </sem>
     </syn>
   </entry>
@@ -340,10 +329,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Comparison:Contrast</coh-relation>
-        <example>আজ সেখানে যেও না|</example>
-        <example>বরং, কাল যেও|</example>
-        <example>ও আমাকে ভুল কিছু বলেনি|</example>
-        <example>বরং, ঠিক পরামর্শই দিয়েছে|</example>
+        <example>ও আমাকে ভুল কিছু বলেনি| বরং, ঠিক পরামর্শই দিয়েছে|</example>
       </sem>
       <sem>
         <coh-relation>Expansion:Substitution</coh-relation>
@@ -382,8 +368,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Contingency:Cause:Result</coh-relation>
-        <example>তুমি ঠিকঠাক কাজ করনি|</example>
-        <example>ফলত তোমায় ভুগতে হবে|</example>
+        <example>তুমি ঠিকঠাক কাজ করনি| ফলত তোমায় ভুগতে হবে|</example>
       </sem>
     </syn>
   </entry>
@@ -398,8 +383,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Contingency:Negative Condition</coh-relation>
-        <example>আমার সাথে চল|</example>
-        <example>না হলে আমি যাবো না|</example>
+        <example>আমার সাথে চল| না হলে আমি যাবো না|</example>
       </sem>
     </syn>
   </entry>
@@ -426,8 +410,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Temporal:Synchronous</coh-relation>
-        <example>খুনটা কাল রাত দশটা নাগাদ হয়|</example>
-        <example>সে মুহুর্তে, বাড়িতে কেউ ছিল না|</example>
+        <example>খুনটা কাল রাত দশটা নাগাদ হয়| সে মুহুর্তে, বাড়িতে কেউ ছিল না|</example>
       </sem>
     </syn>
   </entry>
@@ -442,8 +425,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Comparison:Concession:Contra-expectation</coh-relation>
-        <example>রাম ও রিনির বহুদিন আগে ছাড়াছাড়ি হয়ে গেছে|</example>
-        <example>এখনও তারা একে অপরকে ভুলতে পারেনি|</example>
+        <example>রাম ও রিনির বহুদিন আগে ছাড়াছাড়ি হয়ে গেছে| এখনও তারা একে অপরকে ভুলতে পারেনি|</example>
       </sem>
     </syn>
   </entry>
@@ -476,8 +458,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Temporal:Synchronous</coh-relation>
-        <example>আমি রান্নাটা চাপিয়েছি|</example>
-        <example>ইতিমধ্যে, সবাই চলে এসেছে|</example>
+        <example>আমি রান্নাটা চাপিয়েছি| ইতিমধ্যে, সবাই চলে এসেছে|</example>
       </sem>
     </syn>
   </entry>
@@ -531,8 +512,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Comparison:Concession:Contra-expectation</coh-relation>
-        <example>আমার কম্পুটারটি বেশ পুরানো|</example>
-        <example>তবু ভালই কাজ করে|</example>
+        <example>আমার কম্পুটারটি বেশ পুরানো| তবু ভালই কাজ করে|</example>
       </sem>
     </syn>
   </entry>
@@ -544,8 +524,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Contigency:Cause:Result</coh-relation>
-        <example>তুমি ব্যবসায় কোনো টাকা ঢালনি|</example>
-        <example>সুতরাং, তুমি কোনো লভ্যাংশও পাবে না|</example>
+        <example>তুমি ব্যবসায় কোনো টাকা ঢালনি| সুতরাং, তুমি কোনো লভ্যাংশও পাবে না|</example>
       </sem>
     </syn>
   </entry>
@@ -557,8 +536,6 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Temporal:Synchronous</coh-relation>
-        <example>আমরা স্টেশনে পৌঁছালাম|</example>
-        <example>সঙ্গে সঙ্গে ট্রেনটা ছেড়ে দিল|</example>
         <example>পড়াশোনা করার সঙ্গে সঙ্গে সে চাকরিও করেছে|</example>
       </sem>
       <sem>
@@ -616,8 +593,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Expansion:Specification</coh-relation>
-        <example>গতকাল উত্তরবঙ্গে বৃষ্টি হয়েছে|</example>
-        <example>বিশেষত, কোচবিহারে ভারী বর্ষণ হয়েছে|</example>
+        <example>গতকাল উত্তরবঙ্গে বৃষ্টি হয়েছে| বিশেষত, কোচবিহারে ভারী বর্ষণ হয়েছে|</example>
       </sem>
     </syn>
   </entry>
@@ -641,8 +617,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Temporal:Synchronous</coh-relation>
-        <example>আমি দুই দিন বাড়ি ছিলাম না|</example>
-        <example>তার মধ্যে এই ভয়ঙ্কর ঘটনাটা ঘটে গেল|</example>
+        <example>আমি দুই দিন বাড়ি ছিলাম না| তার মধ্যে এই ভয়ঙ্কর ঘটনাটা ঘটে গেল|</example>
       </sem>
     </syn>
   </entry>
@@ -654,8 +629,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Contigency:Cause:Result</coh-relation>
-        <example>কাল রাতে প্রবল বৃষ্টিপাত হযেছিল|</example>
-        <example>এর ফলে শহরের পরিবহনব্যবস্থা ভীষণভাবে বিপর্যস্ত হয়ে পড়ে|</example>
+        <example>কাল রাতে প্রবল বৃষ্টিপাত হযেছিল| এর ফলে শহরের পরিবহনব্যবস্থা ভীষণভাবে বিপর্যস্ত হয়ে পড়ে|</example>
       </sem>
     </syn>
   </entry>
@@ -679,8 +653,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Comparison:Concession:Contra-expectation</coh-relation>
-        <example>বার্সেলোনা ১০ জনে খেলল|</example>
-        <example>অথচ তারা ম্যাচটা জিতে গেল|</example>
+        <example>বার্সেলোনা ১০ জনে খেলল| অথচ তারা ম্যাচটা জিতে গেল|</example>
       </sem>
     </syn>
   </entry>
@@ -692,8 +665,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Exapansion:Conjunction</coh-relation>
-        <example>অনিমেষ ভালো চাকরি করে|</example>
-        <example>অধিকন্তু তার পৈত্রিক সম্পত্তিও আছে|</example>
+        <example>অনিমেষ ভালো চাকরি করে| অধিকন্তু তার পৈত্রিক সম্পত্তিও আছে|</example>
       </sem>
     </syn>
   </entry>
@@ -705,8 +677,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Exapansion:Equivalence</coh-relation>
-        <example>আমি কাল রাত আটটায় শুয়ে পরি আর উঠি আজ সকাল আটটায়|</example>
-        <example>অন্য কথায় আমি মোট বারো ঘন্টা ঘুমিয়েছি|</example>
+        <example>আমি কাল রাত আটটায় শুয়ে পরি আর উঠি আজ সকাল আটটায়| অন্য কথায় আমি মোট বারো ঘন্টা ঘুমিয়েছি|</example>
       </sem>
     </syn>
   </entry>
@@ -718,8 +689,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Contingency:Negative-condition</coh-relation>
-        <example>তুমি আমাকে টাকা দাও|</example>
-        <example>অন্যথায়, আমি কোনো কাজ করব না|</example>
+        <example>তুমি আমাকে টাকা দাও| অন্যথায়, আমি কোনো কাজ করব না|</example>
       </sem>
     </syn>
   </entry>
@@ -731,8 +701,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Temporal:Asynchronous:Succession</coh-relation>
-        <example>লোকটা নদীতে ঝাপ দিল|</example>
-        <example>অমনি সবাই চিৎকার করে উঠল|</example>
+        <example>লোকটা নদীতে ঝাপ দিল| অমনি সবাই চিৎকার করে উঠল|</example>
       </sem>
     </syn>
   </entry>
@@ -744,8 +713,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Expansion:Specification:Summarization</coh-relation>
-        <example>টেনিস, ব্যাডমিন্টন বা উইন্ডসার্ফিং খেলার চেষ্টা করো|</example>
-        <example>অল্প কথায়, চ্যালেঞ্জিং কিছু খেলার চেষ্টা করো|</example>
+        <example>টেনিস, ব্যাডমিন্টন বা উইন্ডসার্ফিং খেলার চেষ্টা করো| অল্প কথায়, চ্যালেঞ্জিং কিছু খেলার চেষ্টা করো|</example>
       </sem>
     </syn>
   </entry>
@@ -769,8 +737,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Expansion:Conjunction</coh-relation>
-        <example>যদু কাজটা শেষ করল না|</example>
-        <example>উপরন্তু, আমাকে জানালও না|</example>
+        <example>যদু কাজটা শেষ করল না| উপরন্তু, আমাকে জানালও না|</example>
       </sem>
     </syn>
   </entry>
@@ -806,8 +773,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Contingency:Cause:Result</coh-relation>
-        <example>আমি তোমার কাছ থেকে কোনো টাকা নিই নি|</example>
-        <example>কাজেই ফেরত দেবার কোনো প্রশ্ন নেই|</example>
+        <example>আমি তোমার কাছ থেকে কোনো টাকা নিই নি| কাজেই ফেরত দেবার কোনো প্রশ্ন নেই|</example>
       </sem>
     </syn>
   </entry>
@@ -843,8 +809,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Contingency:Cause-belief:Reason</coh-relation>
-        <example>কলকাতার রাস্তায় টেলিফোন বুথ আর দেখা যায় না|</example>
-        <example>কেননা কম বেশি সবাই এখন মোবাইল ব্যবহার করে|</example>
+        <example>কলকাতার রাস্তায় টেলিফোন বুথ আর দেখা যায় না| কেননা কম বেশি সবাই এখন মোবাইল ব্যবহার করে|</example>
       </sem>
     </syn>
   </entry>
@@ -967,10 +932,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Temporal:Asynchronous:Succession</coh-relation>
-        <example>এভাবে খরচ করতে করতে তুমি একদিন সর্বসান্ত হবে|</example>
-        <example>তখন তুমি বুঝবে টাকার আসল মূল্য|</example>
-        <example>মেগাস্থিনিস খ্রিস্টপূর্ব চতুর্থ শতকে ভারতবর্ষে আসেন|</example>
-        <example>তখন সম্রাট ছিলেন চন্দ্রগুপ্ত মৌর্য|</example>
+        <example>মেগাস্থিনিস খ্রিস্টপূর্ব চতুর্থ শতকে ভারতবর্ষে আসেন| তখন সম্রাট ছিলেন চন্দ্রগুপ্ত মৌর্য|</example>
       </sem>
       <sem>
         <coh-relation>Temporal:Synchronous</coh-relation>
@@ -985,8 +947,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Comparison:Concession:Contra-expectation</coh-relation>
-        <example>তাকে অনেকবার ডাকলাম|</example>
-        <example>তথাপি সে এল না|</example>
+        <example>তাকে অনেকবার ডাকলাম| তথাপি সে এল না|</example>
       </sem>
     </syn>
   </entry>
@@ -998,8 +959,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Temporal:Synchronous</coh-relation>
-        <example>সেই ভয়ংকর ঘটনাটা তার চোখের সামনে আবার ভেসে উঠল|</example>
-        <example>তৎক্ষণাৎ সে অজ্ঞান হয়ে গেল|</example>
+        <example>সেই ভয়ংকর ঘটনাটা তার চোখের সামনে আবার ভেসে উঠল| তৎক্ষণাৎ সে অজ্ঞান হয়ে গেল|</example>
       </sem>
     </syn>
   </entry>
@@ -1023,8 +983,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Expansion:Instantiation</coh-relation>
-        <example>নিত্যপ্রয়োজনীয় জিনিসপত্রের দাম অস্বাভাবিক হারে বৃদ্ধি পেয়েছে|</example>
-        <example>দৃষ্টান্তস্বরূপ, নুন বা ডালের কথা বলা যেতে পারে|</example>
+        <example>নিত্যপ্রয়োজনীয় জিনিসপত্রের দাম অস্বাভাবিক হারে বৃদ্ধি পেয়েছে| দৃষ্টান্তস্বরূপ, নুন বা ডালের কথা বলা যেতে পারে|</example>
       </sem>
     </syn>
   </entry>
@@ -1036,8 +995,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Contingency:Negative-condition</coh-relation>
-        <example>মুক্তিপণের টাকা দাও|</example>
-        <example>নচেৎ তোমার মৃত্যু নিশ্চিত|</example>
+        <example>মুক্তিপণের টাকা দাও| নচেৎ তোমার মৃত্যু নিশ্চিত|</example>
       </sem>
     </syn>
   </entry>
@@ -1049,8 +1007,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Contingency:Negative-condition</coh-relation>
-        <example>তুমি ওকে পড়তে দাও|</example>
-        <example>নইলে ও পরীক্ষায় পাশ করবে না|</example>
+        <example>তুমি ওকে পড়তে দাও| নইলে ও পরীক্ষায় পাশ করবে না|</example>
       </sem>
     </syn>
   </entry>
@@ -1062,8 +1019,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Contingency:Negative-condition</coh-relation>
-        <example>আমার কাছে টাকা নেই|</example>
-        <example>নয়ত তোমায় দিতাম|</example>
+        <example>আমার কাছে টাকা নেই| নয়ত তোমায় দিতাম|</example>
       </sem>
     </syn>
   </entry>
@@ -1075,8 +1031,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Contingency:Negative Condition</coh-relation>
-        <example>তাকে ডাক্তার দেখাতে হবে|</example>
-        <example>নতুবা তার স্বাস্থের আরো অবনতি হবে|</example>
+        <example>তাকে ডাক্তার দেখাতে হবে| নতুবা তার স্বাস্থের আরো অবনতি হবে|</example>
       </sem>
     </syn>
   </entry>
@@ -1088,8 +1043,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Comparison:Contrast</coh-relation>
-        <example>কুরুক্ষেত্রের যুদ্ধে শ্রীকৃষ্ণ দুর্যোধনকে দশহাজার নারায়নী সেনা প্রদান করেন|</example>
-        <example>পক্ষান্তরে অর্জুন কেবল শ্রীকৃষ্ণকে পাশে পেয়েই ধন্য থাকেন|</example>
+        <example>কুরুক্ষেত্রের যুদ্ধে শ্রীকৃষ্ণ দুর্যোধনকে দশহাজার নারায়নী সেনা প্রদান করেন| পক্ষান্তরে অর্জুন কেবল শ্রীকৃষ্ণকে পাশে পেয়েই ধন্য থাকেন|</example>
       </sem>
     </syn>
   </entry>
@@ -1101,8 +1055,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Expansion:Specification</coh-relation>
-        <example>শেখ মুজিবুর রহমান ১৯৭১ সালে বাংলাদেশের স্বাধীনতার পক্ষে ভাষণ দিয়েছিলেন|</example>
-        <example>প্রকৃতপক্ষে সেটিই ছিল বাংলাদেশের স্বাধীনতার ঘোষণা|</example>
+        <example>শেখ মুজিবুর রহমান ১৯৭১ সালে বাংলাদেশের স্বাধীনতার পক্ষে ভাষণ দিয়েছিলেন| প্রকৃতপক্ষে সেটিই ছিল বাংলাদেশের স্বাধীনতার ঘোষণা|</example>
       </sem>
     </syn>
   </entry>
@@ -1114,8 +1067,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Contingency:Cause:Result</coh-relation>
-        <example>অন্যায়ের বিরুদ্ধে সে লড়াই করেছিল|</example>
-        <example>পরিণামে তাকে সব খোয়াতে হয়েছিল|</example>
+        <example>অন্যায়ের বিরুদ্ধে সে লড়াই করেছিল| পরিণামে তাকে সব খোয়াতে হয়েছিল|</example>
       </sem>
     </syn>
   </entry>
@@ -1127,8 +1079,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Expansion:Conjunction</coh-relation>
-        <example>রমেশবাবু একজন ধনী ব্যক্তি|</example>
-        <example>উপরন্তু এই এলাকায় তার রাজনৈতিক প্রভাবও আছে|</example>
+        <example>রমেশবাবু একজন ধনী ব্যক্তি| উপরন্তু এই এলাকায় তার রাজনৈতিক প্রভাবও আছে|</example>
       </sem>
     </syn>
   </entry>
@@ -1140,8 +1091,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Temporal:Asynchronous:Precendence</coh-relation>
-        <example>রাজা দর্পনারায়ান রায় এই গ্রাম পত্তন করেন|</example>
-        <example>পূর্বে এই এলাকায় জঙ্গল ছিল|</example>
+        <example>রাজা দর্পনারায়ান রায় এই গ্রাম পত্তন করেন| পূর্বে এই এলাকায় জঙ্গল ছিল|</example>
       </sem>
     </syn>
   </entry>
@@ -1153,8 +1103,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Temporal:Asynchronous:Precedence</coh-relation>
-        <example>১৯৭৭ সালে পশ্চিমবঙ্গে যুক্তফ্রন্ট ক্ষমতায় আসে|</example>
-        <example>এর পূর্বে সেখানে কংগ্রেস ক্ষমতায় ছিল|</example>
+        <example>১৯৭৭ সালে পশ্চিমবঙ্গে যুক্তফ্রন্ট ক্ষমতায় আসে| এর পূর্বে সেখানে কংগ্রেস ক্ষমতায় ছিল|</example>
       </sem>
     </syn>
   </entry>
@@ -1178,8 +1127,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Expansion:Exception</coh-relation>
-        <example>বরুন ঘোষ সরকারি চাকুরে|</example>
-        <example>এ বাদে, ওঁর কিছু পৈত্রিক সম্পত্তি আছে|</example>
+        <example>বরুন ঘোষ সরকারি চাকুরে| এ বাদে, ওঁর কিছু পৈত্রিক সম্পত্তি আছে|</example>
       </sem>
     </syn>
   </entry>
@@ -1191,8 +1139,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Contingency:Cause:Result</coh-relation>
-        <example>এ বছরে উচ্চমাধ্যমিকের প্রশ্ন সোজা হয়েছে|</example>
-        <example>ফলস্বরূপ, চলতি বছরে পাশের হার অনেকটাই বাড়বে|</example>
+        <example>এ বছরে উচ্চমাধ্যমিকের প্রশ্ন সোজা হয়েছে| ফলস্বরূপ, চলতি বছরে পাশের হার অনেকটাই বাড়বে|</example>
       </sem>
     </syn>
   </entry>
@@ -1204,8 +1151,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Expansion:Specification</coh-relation>
-        <example>বিরাট কোহলি একজন অসাধারণ ক্রিকেটার|</example>
-        <example>বাস্তবিকপক্ষে, তিনিই এখন ভারতীয় ক্রিকেট টিমের সবচেয়ে নির্ভরযোগ্য ব্যাটসম্যান|</example>
+        <example>বিরাট কোহলি একজন অসাধারণ ক্রিকেটার| বাস্তবিকপক্ষে, তিনিই এখন ভারতীয় ক্রিকেট টিমের সবচেয়ে নির্ভরযোগ্য ব্যাটসম্যান|</example>
       </sem>
     </syn>
   </entry>
@@ -1217,8 +1163,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Expansion:Specification</coh-relation>
-        <example>যাত্রী পরিবহনের সমস্যা মেটাতে রাস্তা চওড়া করা যেতে পারে|</example>
-        <example>বিকল্প হিসাবে, নতুন রেলপথ তৈরিও করা যেতে পারে|</example>
+        <example>যাত্রী পরিবহনের সমস্যা মেটাতে রাস্তা চওড়া করা যেতে পারে| বিকল্প হিসাবে, নতুন রেলপথ তৈরিও করা যেতে পারে|</example>
       </sem>
     </syn>
   </entry>
@@ -1242,8 +1187,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Expansion:Substitution</coh-relation>
-        <example>ভগবান, তুমি আমার সমস্ত ঐশ্বর্য নিয়ে নাও|</example>
-        <example>বিনিময়ে আমার ছেলেকে ফিরিয়ে দাও|</example>
+        <example>ভগবান, তুমি আমার সমস্ত ঐশ্বর্য নিয়ে নাও| বিনিময়ে আমার ছেলেকে ফিরিয়ে দাও|</example>
       </sem>
     </syn>
   </entry>
@@ -1255,8 +1199,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Expansion:Conjunction</coh-relation>
-        <example>মেসি আজ আর্জেন্টিনার প্রধান ভরসা|</example>
-        <example>বিপরীতে, পর্তুগাল আজ রোনাল্ডোকে ছাড়াই খেলবে|</example>
+        <example>মেসি আজ আর্জেন্টিনার প্রধান ভরসা| বিপরীতে, পর্তুগাল আজ রোনাল্ডোকে ছাড়াই খেলবে|</example>
       </sem>
     </syn>
   </entry>
@@ -1268,8 +1211,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Expansion:Substitution</coh-relation>
-        <example>রাম আজ আসে নি|</example>
-        <example>বদলে ও শ্যামকে পাঠিয়েছে|</example>
+        <example>রাম আজ আসে নি| বদলে ও শ্যামকে পাঠিয়েছে|</example>
       </sem>
     </syn>
   </entry>
@@ -1281,8 +1223,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Expansion:Conjunction</coh-relation>
-        <example>আমি আবৃত্তি করি|</example>
-        <example>সেইসঙ্গে গীটারও বাজাই|</example>
+        <example>আমি আবৃত্তি করি| সেইসঙ্গে গীটারও বাজাই|</example>
       </sem>
     </syn>
   </entry>
@@ -1294,8 +1235,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Expansion:Conjunction</coh-relation>
-        <example>আমি আবৃত্তি করি|</example>
-        <example>এরসাথে গীটারও বাজাই|</example>
+        <example>আমি আবৃত্তি করি| এরসাথে গীটারও বাজাই|</example>
       </sem>
     </syn>
   </entry>
@@ -1310,8 +1250,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Temporal:Synchronous</coh-relation>
-        <example>আমি বাড়ি থেকে বেরলাম|</example>
-        <example>সেই সময় বৃষ্টি শুরু হল|</example>
+        <example>আমি বাড়ি থেকে বেরলাম| সেই সময় বৃষ্টি শুরু হল|</example>
       </sem>
     </syn>
   </entry>
@@ -1323,8 +1262,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Expansion:Conjunction</coh-relation>
-        <example>শ্রোতারা এসে গেছে|</example>
-        <example>এদিকে বক্তার দেখা নেই|</example>
+        <example>শ্রোতারা এসে গেছে| এদিকে বক্তার দেখা নেই|</example>
       </sem>
     </syn>
   </entry>
@@ -1336,8 +1274,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Expansion:Conjunction</coh-relation>
-        <example>একজন অচেনা মানুষকে অযাচিত ভাবে সাহায্য করার কোন কারণ নেই|</example>
-        <example>বিপরীতপক্ষে, সেই মানুষটি সাহায্য চাইলে তাঁকে সাহায্য না করারও কোনো কারণ নেই|</example>
+        <example>একজন অচেনা মানুষকে অযাচিত ভাবে সাহায্য করার কোন কারণ নেই| বিপরীতপক্ষে, সেই মানুষটি সাহায্য চাইলে তাঁকে সাহায্য না করারও কোনো কারণ নেই|</example>
       </sem>
     </syn>
   </entry>
@@ -1352,8 +1289,7 @@
     <syn type="adverbial">
       <sem>
         <coh-relation>Expansion:Conjunction</coh-relation>
-        <example>সুবলের মা হাসপাতালে ভর্তি|</example>
-        <example>তার উপর তার ছেলেটাও অসুস্থ|</example>
+        <example>সুবলের মা হাসপাতালে ভর্তি| তার উপর তার ছেলেটাও অসুস্থ|</example>
       </sem>
     </syn>
   </entry>
