@@ -3,7 +3,7 @@
   <entry id="c1" word="আগে">
     <english_equivalent>previously/before</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="2o1">
+      <orth type="cont" canonical="1" onr="2o1">
         <part type="single">আগে</part>
       </orth>
     </orths>
@@ -27,7 +27,7 @@
   <entry id="c2" word="আগে">
     <english_equivalent>before</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="3o1">
+      <orth type="cont" canonical="1" onr="3o1">
         <part type="single">আগে</part>
       </orth>
     </orths>
@@ -48,7 +48,7 @@
   <entry id="c3" word="অতএব">
     <english_equivalent>therefore</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="4o1">
+      <orth type="cont" canonical="1" onr="4o1">
         <part type="single">অতএব</part>
       </orth>
     </orths>
@@ -69,7 +69,7 @@
   <entry id="c4" word="কিন্তু">
     <english_equivalent>but</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="5o1">
+      <orth type="cont" canonical="1" onr="5o1">
         <part type="single">কিন্তু</part>
       </orth>
     </orths>
@@ -93,7 +93,7 @@
   <entry id="c5" word="অথবা">
     <english_equivalent>or</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="6o1">
+      <orth type="cont" canonical="1" onr="6o1">
         <part type="single">অথবা</part>
       </orth>
     </orths>
@@ -117,7 +117,7 @@
   <entry id="c6" word="এবং">
     <english_equivalent>and</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="7o1">
+      <orth type="cont" canonical="1" onr="7o1">
         <part type="single">এবং</part>
       </orth>
     </orths>
@@ -141,7 +141,7 @@
   <entry id="c7" word="সত্ত্বেও">
     <english_equivalent>despite</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="8o1">
+      <orth type="cont" canonical="1" onr="8o1">
         <part type="single">সত্ত্বেও</part>
       </orth>
     </orths>
@@ -162,7 +162,7 @@
   <entry id="c8" word="সত্ত্বেও">
     <english_equivalent>despite</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="9o1">
+      <orth type="cont" canonical="1" onr="9o1">
         <part type="single">সত্ত্বেও</part>
       </orth>
     </orths>
@@ -183,7 +183,7 @@
   <entry id="c9" word="জন্য">
     <english_equivalent>for/in order to</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="10o1">
+      <orth type="cont" canonical="1" onr="10o1">
         <part type="single">জন্য</part>
       </orth>
     </orths>
@@ -207,7 +207,7 @@
   <entry id="c10" word="জন্য">
     <english_equivalent>due to (this/that)</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="11o1">
+      <orth type="cont" canonical="1" onr="11o1">
         <part type="single">জন্য</part>
       </orth>
     </orths>
@@ -228,7 +228,7 @@
   <entry id="c11" word="কারণে">
     <english_equivalent>because of</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="12o1">
+      <orth type="cont" canonical="1" onr="12o1">
         <part type="single">কারণে</part>
       </orth>
     </orths>
@@ -249,7 +249,7 @@
   <entry id="c12" word="কারণে">
     <english_equivalent>so</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="13o1">
+      <orth type="cont" canonical="1" onr="13o1">
         <part type="single">কারণে</part>
       </orth>
     </orths>
@@ -270,11 +270,11 @@
   <entry id="c13" word="পরে">
     <english_equivalent>after</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="14o1">
+      <orth type="cont" canonical="1" onr="14o1">
         <part type="single">পরে</part>
       </orth>
-      <orth type="discont" canonical="0" onr="14o2">
-        <part type="discont">পর</part>
+      <orth type="cont" canonical="0" onr="14o2">
+        <part type="cont">পর</part>
       </orth>
     </orths>
     <ambiguity>
@@ -297,11 +297,11 @@
   <entry id="c14" word="পরে">
     <english_equivalent>after</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="15o1">
+      <orth type="cont" canonical="1" onr="15o1">
         <part type="single">পরে</part>
       </orth>
-      <orth type="discont" canonical="0" onr="15o2">
-        <part type="discont">পর</part>
+      <orth type="cont" canonical="0" onr="15o2">
+        <part type="cont">পর</part>
       </orth>
     </orths>
     <ambiguity>
@@ -321,11 +321,11 @@
   <entry id="c15" word="ছাড়া">
     <english_equivalent>besides</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="16o1">
+      <orth type="cont" canonical="1" onr="16o1">
         <part type="single">ছাড়া</part>
       </orth>
-      <orth type="discont" canonical="0" onr="16o2">
-        <part type="discont">ছাড়াও</part>
+      <orth type="cont" canonical="0" onr="16o2">
+        <part type="cont">ছাড়াও</part>
       </orth>
     </orths>
     <ambiguity>
@@ -348,11 +348,11 @@
   <entry id="c16" word="ছাড়া">
     <english_equivalent>besides</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="17o1">
+      <orth type="cont" canonical="1" onr="17o1">
         <part type="single">ছাড়া</part>
       </orth>
-      <orth type="discont" canonical="0" onr="17o2">
-        <part type="discont">ছাড়াও</part>
+      <orth type="cont" canonical="0" onr="17o2">
+        <part type="cont">ছাড়াও</part>
       </orth>
     </orths>
     <ambiguity>
@@ -372,11 +372,11 @@
   <entry id="c17" word="তবু">
     <english_equivalent>yet</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="18o1">
+      <orth type="cont" canonical="1" onr="18o1">
         <part type="single">তবু</part>
       </orth>
-      <orth type="discont" canonical="0" onr="18o2">
-        <part type="discont">তবুও</part>
+      <orth type="cont" canonical="0" onr="18o2">
+        <part type="cont">তবুও</part>
       </orth>
     </orths>
     <ambiguity>
@@ -396,7 +396,7 @@
   <entry id="c18" word="না">
     <english_equivalent>or</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="19o1">
+      <orth type="cont" canonical="1" onr="19o1">
         <part type="single">না</part>
       </orth>
     </orths>
@@ -422,11 +422,11 @@
   <entry id="c19" word="বাদে">
     <english_equivalent>except</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="20o1">
+      <orth type="cont" canonical="1" onr="20o1">
         <part type="single">বাদে</part>
       </orth>
-      <orth type="discont" canonical="0" onr="20o2">
-        <part type="discont">বাদেও</part>
+      <orth type="cont" canonical="0" onr="20o2">
+        <part type="cont">বাদেও</part>
       </orth>
     </orths>
     <ambiguity>
@@ -449,7 +449,7 @@
   <entry id="c20" word="বাদে">
     <english_equivalent>other than</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="21o1">
+      <orth type="cont" canonical="1" onr="21o1">
         <part type="single">বাদে</part>
       </orth>
     </orths>
@@ -470,14 +470,14 @@
   <entry id="c21" word="মোটের উপর">
     <english_equivalent>over all</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="22o1">
+      <orth type="cont" canonical="1" onr="22o1">
         <part type="phrasal">মোটের উপর</part>
       </orth>
-      <orth type="discont" canonical="0" onr="22o2">
-        <part type="discont"></part>
+      <orth type="cont" canonical="0" onr="22o2">
+        <part type="cont"></part>
       </orth>
-      <orth type="discont" canonical="0" onr="22o3">
-        <part type="discont">মোটের ওপর</part>
+      <orth type="cont" canonical="0" onr="22o3">
+        <part type="cont">মোটের ওপর</part>
       </orth>
     </orths>
     <ambiguity>
@@ -497,7 +497,7 @@
   <entry id="c22" word="অর্থাৎ">
     <english_equivalent>therefore</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="23o1">
+      <orth type="cont" canonical="1" onr="23o1">
         <part type="single">অর্থাৎ</part>
       </orth>
     </orths>
@@ -523,7 +523,7 @@
   <entry id="c23" word="উদাহরণস্বরূপ">
     <english_equivalent>for example</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="24o1">
+      <orth type="cont" canonical="1" onr="24o1">
         <part type="single">উদাহরণস্বরূপ</part>
       </orth>
     </orths>
@@ -544,7 +544,7 @@
   <entry id="c24" word="পরিবর্তে">
     <english_equivalent>instead</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="25o1">
+      <orth type="cont" canonical="1" onr="25o1">
         <part type="single">পরিবর্তে</part>
       </orth>
     </orths>
@@ -568,14 +568,14 @@
   <entry id="c25" word="বরং">
     <english_equivalent>rather</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="26o1">
+      <orth type="cont" canonical="1" onr="26o1">
         <part type="single">বরং</part>
       </orth>
-      <orth type="discont" canonical="0" onr="26o2">
-        <part type="discont"></part>
+      <orth type="cont" canonical="0" onr="26o2">
+        <part type="cont"></part>
       </orth>
-      <orth type="discont" canonical="0" onr="26o3">
-        <part type="discont">বরঞ্চ</part>
+      <orth type="cont" canonical="0" onr="26o3">
+        <part type="cont">বরঞ্চ</part>
       </orth>
     </orths>
     <ambiguity>
@@ -600,7 +600,7 @@
   <entry id="c26" word="যদিও">
     <english_equivalent>although</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="27o1">
+      <orth type="cont" canonical="1" onr="27o1">
         <part type="single">যদিও</part>
       </orth>
     </orths>
@@ -621,7 +621,7 @@
   <entry id="c27" word="যদি না">
     <english_equivalent>if not</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="28o1">
+      <orth type="cont" canonical="1" onr="28o1">
         <part type="phrasal">যদি না</part>
       </orth>
     </orths>
@@ -642,7 +642,7 @@
   <entry id="c28" word="ফলত">
     <english_equivalent>as a result</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="29o1">
+      <orth type="cont" canonical="1" onr="29o1">
         <part type="single">ফলত</part>
       </orth>
     </orths>
@@ -663,11 +663,11 @@
   <entry id="c29" word="না হলে">
     <english_equivalent>otherwise</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="30o1">
+      <orth type="cont" canonical="1" onr="30o1">
         <part type="phrasal">না হলে</part>
       </orth>
-      <orth type="discont" canonical="0" onr="30o2">
-        <part type="discont">নইলে</part>
+      <orth type="cont" canonical="0" onr="30o2">
+        <part type="cont">নইলে</part>
       </orth>
     </orths>
     <ambiguity>
@@ -687,7 +687,7 @@
   <entry id="c30" word="যেহেতু-সেহেতু">
     <english_equivalent>since</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="31o1">
+      <orth type="discont" canonical="1" onr="31o1">
         <part type="single">যেহেতু-সেহেতু</part>
       </orth>
     </orths>
@@ -713,7 +713,7 @@
   <entry id="c31" word="মুহূর্তে">
     <english_equivalent>the moment</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="32o1">
+      <orth type="cont" canonical="1" onr="32o1">
         <part type="single">মুহূর্তে</part>
       </orth>
     </orths>
@@ -734,11 +734,11 @@
   <entry id="c32" word="এখনও">
     <english_equivalent>still</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="33o1">
+      <orth type="cont" canonical="1" onr="33o1">
         <part type="single">এখনও</part>
       </orth>
-      <orth type="discont" canonical="0" onr="33o2">
-        <part type="discont">এখনো</part>
+      <orth type="cont" canonical="0" onr="33o2">
+        <part type="cont">এখনো</part>
       </orth>
     </orths>
     <ambiguity>
@@ -758,11 +758,11 @@
   <entry id="c33" word="তক্ষুণি">
     <english_equivalent>at once</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="34o1">
+      <orth type="cont" canonical="1" onr="34o1">
         <part type="single">তক্ষুণি</part>
       </orth>
-      <orth type="discont" canonical="0" onr="34o2">
-        <part type="discont">তখনই</part>
+      <orth type="cont" canonical="0" onr="34o2">
+        <part type="cont">তখনই</part>
       </orth>
     </orths>
     <ambiguity>
@@ -782,14 +782,14 @@
   <entry id="c34" word="ইতিমধ্যে">
     <english_equivalent>meanwhile</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="35o1">
+      <orth type="cont" canonical="1" onr="35o1">
         <part type="single">ইতিমধ্যে</part>
       </orth>
-      <orth type="discont" canonical="0" onr="35o2">
-        <part type="discont"></part>
+      <orth type="cont" canonical="0" onr="35o2">
+        <part type="cont"></part>
       </orth>
-      <orth type="discont" canonical="0" onr="35o3">
-        <part type="discont">ইতোমধ্যে</part>
+      <orth type="cont" canonical="0" onr="35o3">
+        <part type="cont">ইতোমধ্যে</part>
       </orth>
     </orths>
     <ambiguity>
@@ -809,7 +809,7 @@
   <entry id="c35" word="পাছে">
     <english_equivalent>lest</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="36o1">
+      <orth type="cont" canonical="1" onr="36o1">
         <part type="single">পাছে</part>
       </orth>
     </orths>
@@ -830,7 +830,7 @@
   <entry id="c36" word="পিছনে">
     <english_equivalent>behind</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="37o1">
+      <orth type="cont" canonical="1" onr="37o1">
         <part type="single">পিছনে</part>
       </orth>
     </orths>
@@ -851,14 +851,14 @@
   <entry id="c37" word="বলে">
     <english_equivalent>because</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="38o1">
+      <orth type="cont" canonical="1" onr="38o1">
         <part type="single">বলে</part>
       </orth>
-      <orth type="discont" canonical="0" onr="38o2">
-        <part type="discont"></part>
+      <orth type="cont" canonical="0" onr="38o2">
+        <part type="cont"></part>
       </orth>
-      <orth type="discont" canonical="0" onr="38o3">
-        <part type="discont">বলিয়া</part>
+      <orth type="cont" canonical="0" onr="38o3">
+        <part type="cont">বলিয়া</part>
       </orth>
     </orths>
     <ambiguity>
@@ -881,7 +881,7 @@
   <entry id="c38" word="তবে">
     <english_equivalent>yet</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="39o1">
+      <orth type="cont" canonical="1" onr="39o1">
         <part type="single">তবে</part>
       </orth>
     </orths>
@@ -902,7 +902,7 @@
   <entry id="c39" word="সুতরাং">
     <english_equivalent>therefore</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="40o1">
+      <orth type="cont" canonical="1" onr="40o1">
         <part type="single">সুতরাং</part>
       </orth>
     </orths>
@@ -923,7 +923,7 @@
   <entry id="c40" word="সঙ্গে সঙ্গে">
     <english_equivalent>immediately/in addition</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="41o1">
+      <orth type="cont" canonical="1" onr="41o1">
         <part type="phrasal">সঙ্গে সঙ্গে</part>
       </orth>
     </orths>
@@ -949,7 +949,7 @@
   <entry id="c41" word="সাথে (সাথে)">
     <english_equivalent>Immediately/along with</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="42o1">
+      <orth type="cont" canonical="1" onr="42o1">
         <part type="single">সাথে (সাথে)</part>
       </orth>
     </orths>
@@ -978,7 +978,7 @@
   <entry id="c42" word="বা">
     <english_equivalent>or</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="43o1">
+      <orth type="cont" canonical="1" onr="43o1">
         <part type="single">বা</part>
       </orth>
     </orths>
@@ -1002,11 +1002,11 @@
   <entry id="c43" word="হয়-নয়">
     <english_equivalent>either-or</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="44o1">
+      <orth type="discont" canonical="1" onr="44o1">
         <part type="single">হয়-নয়</part>
       </orth>
-      <orth type="cont" canonical="0" onr="44o2">
-        <part type="cont">হয়-না হয়</part>
+      <orth type="discont" canonical="0" onr="44o2">
+        <part type="discont">হয়-না হয়</part>
       </orth>
     </orths>
     <ambiguity>
@@ -1026,7 +1026,7 @@
   <entry id="c44" word="বিশেষত">
     <english_equivalent>especially</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="45o1">
+      <orth type="cont" canonical="1" onr="45o1">
         <part type="single">বিশেষত</part>
       </orth>
     </orths>
@@ -1050,7 +1050,7 @@
   <entry id="c45" word="না হয়">
     <english_equivalent>though</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="46o1">
+      <orth type="cont" canonical="1" onr="46o1">
         <part type="phrasal">না হয়</part>
       </orth>
     </orths>
@@ -1074,7 +1074,7 @@
   <entry id="c46" word="মধ্যে">
     <english_equivalent>within</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="47o1">
+      <orth type="cont" canonical="1" onr="47o1">
         <part type="single">মধ্যে</part>
       </orth>
     </orths>
@@ -1098,7 +1098,7 @@
   <entry id="c47" word="ফলে">
     <english_equivalent>as a result</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="48o1">
+      <orth type="cont" canonical="1" onr="48o1">
         <part type="single">ফলে</part>
       </orth>
     </orths>
@@ -1119,7 +1119,7 @@
   <entry id="c48" word="ফলে">
     <english_equivalent>as a result</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="49o1">
+      <orth type="cont" canonical="1" onr="49o1">
         <part type="single">ফলে</part>
       </orth>
     </orths>
@@ -1140,7 +1140,7 @@
   <entry id="c49" word="অথচ">
     <english_equivalent>yet</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="50o1">
+      <orth type="cont" canonical="1" onr="50o1">
         <part type="single">অথচ</part>
       </orth>
     </orths>
@@ -1161,7 +1161,7 @@
   <entry id="c50" word="অধিকন্তু">
     <english_equivalent>moreover</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="51o1">
+      <orth type="cont" canonical="1" onr="51o1">
         <part type="single">অধিকন্তু</part>
       </orth>
     </orths>
@@ -1182,7 +1182,7 @@
   <entry id="c51" word="অন্য কথায়">
     <english_equivalent>in other words</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="52o1">
+      <orth type="cont" canonical="1" onr="52o1">
         <part type="phrasal">অন্য কথায়</part>
       </orth>
     </orths>
@@ -1203,7 +1203,7 @@
   <entry id="c52" word="অন্যথায়">
     <english_equivalent>otherwise/else</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="53o1">
+      <orth type="cont" canonical="1" onr="53o1">
         <part type="single">অন্যথায়</part>
       </orth>
     </orths>
@@ -1224,7 +1224,7 @@
   <entry id="c53" word="অমনি">
     <english_equivalent>immediately</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="54o1">
+      <orth type="cont" canonical="1" onr="54o1">
         <part type="single">অমনি</part>
       </orth>
     </orths>
@@ -1245,7 +1245,7 @@
   <entry id="c54" word="অল্প কথায়">
     <english_equivalent>in brief</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="55o1">
+      <orth type="cont" canonical="1" onr="55o1">
         <part type="phrasal">অল্প কথায়</part>
       </orth>
     </orths>
@@ -1269,7 +1269,7 @@
   <entry id="c55" word="আর">
     <english_equivalent>and</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="56o1">
+      <orth type="cont" canonical="1" onr="56o1">
         <part type="single">আর</part>
       </orth>
     </orths>
@@ -1293,7 +1293,7 @@
   <entry id="c56" word="উপরন্তু">
     <english_equivalent>moreover</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="57o1">
+      <orth type="cont" canonical="1" onr="57o1">
         <part type="single">উপরন্তু</part>
       </orth>
     </orths>
@@ -1314,7 +1314,7 @@
   <entry id="c57" word="এমনকি যখন">
     <english_equivalent>even when</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="58o1">
+      <orth type="cont" canonical="1" onr="58o1">
         <part type="phrasal">এমনকি যখন</part>
       </orth>
     </orths>
@@ -1335,7 +1335,7 @@
   <entry id="c58" word="এমনকি যদি">
     <english_equivalent>even if</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="59o1">
+      <orth type="cont" canonical="1" onr="59o1">
         <part type="phrasal">এমনকি যদি</part>
       </orth>
     </orths>
@@ -1356,7 +1356,7 @@
   <entry id="c59" word="কাজেই">
     <english_equivalent>therefore</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="60o1">
+      <orth type="cont" canonical="1" onr="60o1">
         <part type="single">কাজেই</part>
       </orth>
     </orths>
@@ -1377,7 +1377,7 @@
   <entry id="c60" word="কারণ">
     <english_equivalent>because</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="61o1">
+      <orth type="cont" canonical="1" onr="61o1">
         <part type="single">কারণ</part>
       </orth>
     </orths>
@@ -1398,7 +1398,7 @@
   <entry id="c61" word="কিংবা">
     <english_equivalent>or</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="62o1">
+      <orth type="cont" canonical="1" onr="62o1">
         <part type="single">কিংবা</part>
       </orth>
     </orths>
@@ -1422,7 +1422,7 @@
   <entry id="c62" word="কেননা">
     <english_equivalent>since</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="63o1">
+      <orth type="cont" canonical="1" onr="63o1">
         <part type="single">কেননা</part>
       </orth>
     </orths>
@@ -1443,7 +1443,7 @@
   <entry id="c63" word="জায়গায়">
     <english_equivalent>instead</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="64o1">
+      <orth type="cont" canonical="1" onr="64o1">
         <part type="single">জায়গায়</part>
       </orth>
     </orths>
@@ -1467,7 +1467,7 @@
   <entry id="c64" word="যখন-তখন">
     <english_equivalent>when</english_equivalent>
     <orths>
-      <orth type="cont" canonical="1" onr="65o1">
+      <orth type="discont" canonical="1" onr="65o1">
         <part type="single">যখন-তখন</part>
       </orth>
     </orths>
@@ -1488,7 +1488,7 @@
   <entry id="c65" word="যখনই">
     <english_equivalent>whenever</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="66o1">
+      <orth type="cont" canonical="1" onr="66o1">
         <part type="single">যখনই</part>
       </orth>
     </orths>
@@ -1509,11 +1509,11 @@
   <entry id="c66" word="যাতে">
     <english_equivalent>so that</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="67o1">
+      <orth type="cont" canonical="1" onr="67o1">
         <part type="single">যাতে</part>
       </orth>
-      <orth type="discont" canonical="0" onr="67o2">
-        <part type="discont">যাহাতে</part>
+      <orth type="cont" canonical="0" onr="67o2">
+        <part type="cont">যাহাতে</part>
       </orth>
     </orths>
     <ambiguity>
@@ -1533,7 +1533,7 @@
   <entry id="c67" word="যে মুহূর্তে">
     <english_equivalent>the moment</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="68o1">
+      <orth type="cont" canonical="1" onr="68o1">
         <part type="phrasal">যে মুহূর্তে</part>
       </orth>
     </orths>
@@ -1554,7 +1554,7 @@
   <entry id="c68" word="যেইমাত্র">
     <english_equivalent>as soon as/just when</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="69o1">
+      <orth type="cont" canonical="1" onr="69o1">
         <part type="single">যেইমাত্র</part>
       </orth>
     </orths>
@@ -1575,7 +1575,7 @@
   <entry id="c69" word="যতক্ষণ">
     <english_equivalent>as long as</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="70o1">
+      <orth type="cont" canonical="1" onr="70o1">
         <part type="single">যতক্ষণ</part>
       </orth>
     </orths>
@@ -1596,7 +1596,7 @@
   <entry id="c70" word="যতক্ষন না">
     <english_equivalent>until</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="71o1">
+      <orth type="cont" canonical="1" onr="71o1">
         <part type="phrasal">যতক্ষন না</part>
       </orth>
     </orths>
@@ -1617,7 +1617,7 @@
   <entry id="c71" word="যদি">
     <english_equivalent>if</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="72o1">
+      <orth type="cont" canonical="1" onr="72o1">
         <part type="single">যদি</part>
       </orth>
     </orths>
@@ -1641,7 +1641,7 @@
   <entry id="c72" word="তখন">
     <english_equivalent>then</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="73o1">
+      <orth type="cont" canonical="1" onr="73o1">
         <part type="single">তখন</part>
       </orth>
     </orths>
@@ -1670,7 +1670,7 @@
   <entry id="c73" word="তথাপি">
     <english_equivalent>still</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="74o1">
+      <orth type="cont" canonical="1" onr="74o1">
         <part type="single">তথাপি</part>
       </orth>
     </orths>
@@ -1691,7 +1691,7 @@
   <entry id="c74" word="তত্ক্ষণাৎ">
     <english_equivalent>immediately</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="75o1">
+      <orth type="cont" canonical="1" onr="75o1">
         <part type="single">তত্ক্ষণাৎ</part>
       </orth>
     </orths>
@@ -1712,7 +1712,7 @@
   <entry id="c75" word="দরুন">
     <english_equivalent>because</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="76o1">
+      <orth type="cont" canonical="1" onr="76o1">
         <part type="single">দরুন</part>
       </orth>
     </orths>
@@ -1733,7 +1733,7 @@
   <entry id="c76" word="দৃষ্টান্তস্বরূপ">
     <english_equivalent>for example/for instance</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="77o1">
+      <orth type="cont" canonical="1" onr="77o1">
         <part type="single">দৃষ্টান্তস্বরূপ</part>
       </orth>
     </orths>
@@ -1754,7 +1754,7 @@
   <entry id="c77" word="নচেৎ">
     <english_equivalent>else</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="78o1">
+      <orth type="cont" canonical="1" onr="78o1">
         <part type="single">নচেৎ</part>
       </orth>
     </orths>
@@ -1775,7 +1775,7 @@
   <entry id="c78" word="নইলে">
     <english_equivalent>otherwise/else</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="79o1">
+      <orth type="cont" canonical="1" onr="79o1">
         <part type="single">নইলে</part>
       </orth>
     </orths>
@@ -1796,7 +1796,7 @@
   <entry id="c79" word="নয়ত">
     <english_equivalent>otherwise/else</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="80o1">
+      <orth type="cont" canonical="1" onr="80o1">
         <part type="single">নয়ত</part>
       </orth>
     </orths>
@@ -1817,7 +1817,7 @@
   <entry id="c80" word="নতুবা">
     <english_equivalent>otherwise/else</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="81o1">
+      <orth type="cont" canonical="1" onr="81o1">
         <part type="single">নতুবা</part>
       </orth>
     </orths>
@@ -1838,7 +1838,7 @@
   <entry id="c81" word="পক্ষান্তরে">
     <english_equivalent>on the contrary</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="82o1">
+      <orth type="cont" canonical="1" onr="82o1">
         <part type="single">পক্ষান্তরে</part>
       </orth>
     </orths>
@@ -1859,7 +1859,7 @@
   <entry id="c82" word="প্রকৃতপক্ষে">
     <english_equivalent>in fact</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="83o1">
+      <orth type="cont" canonical="1" onr="83o1">
         <part type="single">প্রকৃতপক্ষে</part>
       </orth>
     </orths>
@@ -1883,7 +1883,7 @@
   <entry id="c83" word="পরিণামে">
     <english_equivalent>in consequence</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="84o1">
+      <orth type="cont" canonical="1" onr="84o1">
         <part type="single">পরিণামে</part>
       </orth>
     </orths>
@@ -1904,7 +1904,7 @@
   <entry id="c84" word="উপরন্তু">
     <english_equivalent>moreover</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="85o1">
+      <orth type="cont" canonical="1" onr="85o1">
         <part type="single">উপরন্তু</part>
       </orth>
     </orths>
@@ -1925,7 +1925,7 @@
   <entry id="c85" word="পূর্বে">
     <english_equivalent>previously</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="86o1">
+      <orth type="cont" canonical="1" onr="86o1">
         <part type="single">পূর্বে</part>
       </orth>
     </orths>
@@ -1949,7 +1949,7 @@
   <entry id="c86" word="পূর্বে">
     <english_equivalent>before</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="87o1">
+      <orth type="cont" canonical="1" onr="87o1">
         <part type="single">পূর্বে</part>
       </orth>
     </orths>
@@ -1970,7 +1970,7 @@
   <entry id="c87" word="বাদে">
     <english_equivalent>except</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="88o1">
+      <orth type="cont" canonical="1" onr="88o1">
         <part type="single">বাদে</part>
       </orth>
     </orths>
@@ -1994,7 +1994,7 @@
   <entry id="c88" word="বাদে">
     <english_equivalent>except (this/that)</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="89o1">
+      <orth type="cont" canonical="1" onr="89o1">
         <part type="single">বাদে</part>
       </orth>
     </orths>
@@ -2015,7 +2015,7 @@
   <entry id="c89" word="ফলস্বরূপ">
     <english_equivalent>as a result</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="90o1">
+      <orth type="cont" canonical="1" onr="90o1">
         <part type="single">ফলস্বরূপ</part>
       </orth>
     </orths>
@@ -2036,7 +2036,7 @@
   <entry id="c90" word="বাস্তবিকপক্ষে">
     <english_equivalent>as a matter of fact</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="91o1">
+      <orth type="cont" canonical="1" onr="91o1">
         <part type="single">বাস্তবিকপক্ষে</part>
       </orth>
     </orths>
@@ -2057,7 +2057,7 @@
   <entry id="c91" word="বিকল্প হিসাবে">
     <english_equivalent>as an alternative</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="92o1">
+      <orth type="cont" canonical="1" onr="92o1">
         <part type="single">বিকল্প হিসাবে</part>
       </orth>
     </orths>
@@ -2081,7 +2081,7 @@
   <entry id="c92" word="বিনা">
     <english_equivalent>except</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="93o1">
+      <orth type="cont" canonical="1" onr="93o1">
         <part type="single">বিনা</part>
       </orth>
     </orths>
@@ -2105,7 +2105,7 @@
   <entry id="c93" word="বিনিময়ে">
     <english_equivalent>in return</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="94o1">
+      <orth type="cont" canonical="1" onr="94o1">
         <part type="single">বিনিময়ে</part>
       </orth>
     </orths>
@@ -2129,7 +2129,7 @@
   <entry id="c94" word="বিপরীতে">
     <english_equivalent>on the other hand</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="95o1">
+      <orth type="cont" canonical="1" onr="95o1">
         <part type="single">বিপরীতে</part>
       </orth>
     </orths>
@@ -2153,7 +2153,7 @@
   <entry id="c95" word="বদলে">
     <english_equivalent>instead</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="96o1">
+      <orth type="cont" canonical="1" onr="96o1">
         <part type="single">বদলে</part>
       </orth>
     </orths>
@@ -2177,7 +2177,7 @@
   <entry id="c96" word="সঙ্গে">
     <english_equivalent>in addition</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="97o1">
+      <orth type="cont" canonical="1" onr="97o1">
         <part type="single">সঙ্গে</part>
       </orth>
     </orths>
@@ -2198,7 +2198,7 @@
   <entry id="c97" word="সাথে">
     <english_equivalent>along with</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="98o1">
+      <orth type="cont" canonical="1" onr="98o1">
         <part type="single">সাথে</part>
       </orth>
     </orths>
@@ -2219,11 +2219,11 @@
   <entry id="c98" word="সময়">
     <english_equivalent>at (this/that) time</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="99o1">
+      <orth type="cont" canonical="1" onr="99o1">
         <part type="single">সময়</part>
       </orth>
-      <orth type="discont" canonical="0" onr="99o2">
-        <part type="discont">সময়ে</part>
+      <orth type="cont" canonical="0" onr="99o2">
+        <part type="cont">সময়ে</part>
       </orth>
     </orths>
     <ambiguity>
@@ -2243,7 +2243,7 @@
   <entry id="c99" word="দিকে">
     <english_equivalent>on (this/that) side/on the other hand</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="100o1">
+      <orth type="cont" canonical="1" onr="100o1">
         <part type="single">দিকে</part>
       </orth>
     </orths>
@@ -2267,7 +2267,7 @@
   <entry id="c100" word="পক্ষে">
     <english_equivalent>on (this/that) side/on the other hand</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="101o1">
+      <orth type="cont" canonical="1" onr="101o1">
         <part type="single">পক্ষে</part>
       </orth>
     </orths>
@@ -2291,11 +2291,11 @@
   <entry id="c101" word="উপর">
     <english_equivalent>above</english_equivalent>
     <orths>
-      <orth type="discont" canonical="1" onr="102o1">
+      <orth type="cont" canonical="1" onr="102o1">
         <part type="single">উপর</part>
       </orth>
-      <orth type="discont" canonical="0" onr="102o2">
-        <part type="discont">ওপর</part>
+      <orth type="cont" canonical="0" onr="102o2">
+        <part type="cont">ওপর</part>
       </orth>
     </orths>
     <ambiguity>
