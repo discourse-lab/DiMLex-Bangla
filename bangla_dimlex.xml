@@ -688,7 +688,7 @@
     <english_equivalent>since</english_equivalent>
     <orths>
       <orth type="discont" canonical="1" onr="31o1">
-        <part type="single">যেহেতু-সেহেতু</part>
+        <part type="phrasal">যেহেতু-সেহেতু</part>
       </orth>
     </orths>
     <ambiguity>
@@ -1003,10 +1003,10 @@
     <english_equivalent>either-or</english_equivalent>
     <orths>
       <orth type="discont" canonical="1" onr="44o1">
-        <part type="single">হয়-নয়</part>
+        <part type="phrasal">হয়-নয়</part>
       </orth>
       <orth type="discont" canonical="0" onr="44o2">
-        <part type="discont">হয়-না হয়</part>
+        <part type="phrasal">হয়-না হয়</part>
       </orth>
     </orths>
     <ambiguity>
@@ -1468,7 +1468,7 @@
     <english_equivalent>when</english_equivalent>
     <orths>
       <orth type="discont" canonical="1" onr="65o1">
-        <part type="single">যখন-তখন</part>
+        <part type="phrasal">যখন-তখন</part>
       </orth>
     </orths>
     <ambiguity>
